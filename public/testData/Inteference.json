@@ -1,0 +1,512 @@
+{
+    "title": "射頻干擾的預防與排除題庫",
+    "questions": [
+        {
+            "questionNumber": 1,
+            "question": "通常可藉由使用接收機雜訊消除器以減少接收機的哪種類型雜訊？",
+            "correctAnswer": 1,
+            "answers": [
+                "引擎點火系統 (ignition) 的雜訊干擾",
+                "大自然的雜訊干擾",
+                "超外差的雜訊干擾",
+                "以上皆是"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 2,
+            "question": "通常可藉由 DSP 雜訊濾波器以減少接收機的哪種類型雜訊？",
+            "correctAnswer": 4,
+            "answers": [
+                "大自然的雜訊干擾",
+                "引擎點火系統 (ignition) 的雜訊干擾",
+                "來自電源線的雜訊干擾",
+                "以上皆是"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 3,
+            "question": "接收機雜訊消除器可去除想要信號中的哪個？",
+            "correctAnswer": 2,
+            "answers": [
+                "所有IF中頻電路固定位準的信號",
+                "橫跨寬頻帶上的信號",
+                "僅出現在單一個 IF中頻電路的信號",
+                "具有尖銳峰值頻率分 布的信號"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 4,
+            "question": "如何抑制汽車交流發電機產生的感應和輻射干擾雜訊？",
+            "correctAnswer": 4,
+            "answers": [
+                "在接收機的直流電源引線串聯安裝濾波電容器和在交流發電機引線 (field lead) 安裝隔離電容器",
+                "在兩個引線上安裝雜訊抑制電阻器和隔離電容器",
+                "在接收機的電源引線串聯安裝高通濾波器，且在交流發電機引線並聯安裝低通濾波器",
+                "接收機的電源引線直接連接到電池，並在交流發電機引線安裝同軸電容器"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 5,
+            "question": "如何抑制電動馬達的雜訊？",
+            "correctAnswer": 2,
+            "answers": [
+                "在電動馬達電源引線串聯安裝高通濾波器",
+                "在電動馬達電源引線串聯安裝強力交流濾波器",
+                "在電動馬達電源引線串聯安裝旁路電容器",
+                "在電動馬達供電的電路中使用接地故障電流斷電器"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 6,
+            "question": "什麼是大氣層產生靜電的主要原因？",
+            "correctAnswer": 2,
+            "answers": [
+                "太陽射頻能量發射",
+                "雷電風暴",
+                "地磁風暴",
+                "流星雨"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 7,
+            "question": "你如何檢測是否你家中的電源線產生雜訊干擾？",
+            "correctAnswer": 3,
+            "answers": [
+                "用區域型反射計檢查電源線的電壓",
+                "用示波器觀察交流電源線的波形",
+                "藉由關閉交流電源線主斷路器開關，並用電池操作的無線電接收機收聽",
+                "用頻譜分析儀觀察交流電源線的電壓"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 8,
+            "question": "在無線電天線附近的電氣線路會感應到什麼類型的信號？",
+            "correctAnswer": 1,
+            "answers": [
+                "無線電發射機頻率的共模信號",
+                "有電氣火花的信號",
+                "交流電源線頻率的差模信號",
+                "交流電源線頻率的諧波"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 9,
+            "question": "當使用 IF 雜訊消除器時，會發生什麼不想要的影響？",
+            "correctAnswer": 3,
+            "answers": [
+                "接收在語音範圍中的音訊時，也許會有迴音的效果",
+                "接收信號的音頻頻寬可能會被壓縮",
+                "即使符合發射標準的鄰近信號，也可能顯得過寬",
+                "不能再解調 FM 信號"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 10,
+            "question": "觸摸控制電氣設備引起干擾的共同特性是什麼？",
+            "correctAnswer": 4,
+            "answers": [
+                "干擾信號聽起來像 AM 接收機上的交流聲或在 SSB或CW接收機上的載波被 60 赫調變的交流聲",
+                "干擾信號可能緩慢漂移，橫跨 HF 頻譜",
+                "干擾信號的寬度可以是數千赫，並且通常以有規則的周期重複，橫跨 HF頻帶",
+                "以上皆是"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 11,
+            "question": "如果你在一個或多個 MF 或 HF 業餘無線電頻帶內聽到本地 AM 廣播電臺信號的組合，這種現象其最可能的原因是  ?",
+            "correctAnswer": 2,
+            "answers": [
+                "廣播電臺正在發送過度的調變信號",
+                "附近有腐蝕的金屬接頭，正混合並再輻射該廣播電臺信號",
+                "您正在接收來自遠處站臺的天波信號",
+                "您的電臺接收器 IF中頻放大器級有故障"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 12,
+            "question": "在 CW 通訊時，使用某些類型自動 DSP 陷波濾波器的缺點是？",
+            "correctAnswer": 1,
+            "answers": [
+                "DSP 濾波器在去除干擾信號期間，同時消除想要接收的信號",
+                "任何通過 DSP系統的附近信號將壓過所要接收的信號",
+                "接收的 CW信號被 DSP時脈頻率所調變",
+                "DSP 濾波器振鈴 (ringing) 時，將完全消除 CW字符之間的空間 (space)"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 13,
+            "question": "無線電接收機在間隔一段時間就產生大聲噪音或嗡嗡的交流電干擾的原因為何？",
+            "correctAnswer": 4,
+            "answers": [
+                "恆溫控制裝置中的電弧接點所產生的干擾",
+                "附近住宅區內住家的門鈴或門鈴變壓器故障所產生的干擾",
+                "附近照明或廣告看板顯示器故障所產生的干擾",
+                "以上皆是"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 14,
+            "question": "有什麼類型的電氣信號干擾可能因附近操作的個人電腦引起的？",
+            "correctAnswer": 3,
+            "answers": [
+                "在您的無線電接收機的音訊輸出中含有大量交流聲",
+                "在每間隔幾秒鐘瞬間的點擊雜訊",
+                "在特定頻率有不穩定的調變或無調變的信號出現",
+                "一種含有聲音的雜訊脈衝持續的出現和消失"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 15,
+            "question": "以下哪一項可能會導致屏蔽電纜輻射或接收干擾？",
+            "correctAnswer": 2,
+            "answers": [
+                "在電纜線屏蔽兩端用低電感接地連接法",
+                "電纜線的隔離屏蔽和主導體上的共模電流",
+                "電纜線上隔離編織屏蔽材料的使用",
+                "將所有接地連接到一個共同點，在屏蔽上有差動電流產生"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 16,
+            "question": "何種電流會在無隔離屏蔽的多芯電纜導線上均勻流動？",
+            "correctAnswer": 2,
+            "answers": [
+                "差模電流",
+                "共模電流",
+                "僅無功電流",
+                "返回電流"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 17,
+            "question": "前向錯誤修正 (FEC) 是如何實現 ?",
+            "correctAnswer": 3,
+            "answers": [
+                "由接收電臺重複三個字元的每一區段",
+                "伴隨資料字元傳送特別的演算法給接收電臺",
+                "用傳送額外的資料來檢測及修正傳輸錯誤",
+                "由預先設定好之演算法來改變發射訊號的頻率偏移"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 18,
+            "question": "數位傳送的符碼率 (symbol rate) 定義為何 ?",
+            "correctAnswer": 3,
+            "answers": [
+                "在訊息封包中的控制字元數",
+                "訊息中每位元的傳送期間",
+                "傳送信號的波形變化載送資訊率",
+                "電臺與電臺通聯時，每秒攜帶的字元數"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 19,
+            "question": "當執行相位偏移調變 (PSK, phase shift keying) 時，為何最有利的是將相移置於 RF 載波的交插 0 點?",
+            "correctAnswer": 1,
+            "answers": [
+                "在特定的模式下，此將可作到最小傳送頻寬",
+                "較容易用傳統非同步檢測器作解調變",
+                "改善載波壓縮",
+                "以上皆是"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 20,
+            "question": "以下何技術可用來最小化 PSK31 信號的頻寬需求 ?",
+            "correctAnswer": 3,
+            "answers": [
+                "Zero-sum字元編碼",
+                "Reed -Solomon 字元編碼",
+                "使用正弦函式資料脈衝",
+                "使用梯形函式資料脈衝"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 21,
+            "question": "每分鐘 13 字組的摩式 (Morse) 電碼傳送需要多大頻寬 ?",
+            "correctAnswer": 3,
+            "answers": [
+                "大約 13 赫",
+                "大約 26 赫",
+                "大約 52 赫",
+                "大約 104 赫"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 22,
+            "question": "170 赫的頻率偏移 , 300 鮑的 ASCII 碼傳送需要多少頻寬 ?",
+            "correctAnswer": 3,
+            "answers": [
+                "0.1 赫",
+                "0.3 千赫",
+                "0.5 千赫",
+                "1.0 千赫"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 23,
+            "question": "4,800 赫的頻率偏移 , 9,600 鮑的 ASCII 碼 FM 傳送需要多少頻寬 ?",
+            "correctAnswer": 1,
+            "answers": [
+                "15.36 千赫",
+                "9.6 千赫",
+                "4.8 千赫",
+                "5.76 千赫"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 24,
+            "question": "ARQ 如何作到錯誤修正 ?",
+            "correctAnswer": 4,
+            "answers": [
+                "特別的二進位碼提供自動修正",
+                "特別的多項式碼提供自動修正",
+                "假如發現錯誤，多餘的資料會被取代",
+                "假如發現錯誤，會要求重傳"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 25,
+            "question": "前後相鄰的字元只改變一位元的數位編碼方式叫什麼 ?",
+            "correctAnswer": 4,
+            "answers": [
+                "二進位編碼之十進位碼",
+                "延伸二進位編碼十進位交換碼",
+                "Excess 3 碼",
+                "Gray 碼"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 26,
+            "question": "數位通訊中以多位元傳送符號時，使用 Gray code 的優點為何 ?",
+            "correctAnswer": 4,
+            "answers": [
+                "增加安全性",
+                "有較多可能的狀態而不是單純的二進位",
+                "比單純的二進位有更佳的解析度",
+                "有助於錯誤偵測"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 27,
+            "question": "符碼率 (Symbol rate) 和鮑(Baud) 率之間的關係為何 ?",
+            "correctAnswer": 1,
+            "answers": [
+                "相同",
+                "鮑是符碼率的 2倍",
+                "符碼率只用在封包通訊",
+                "鮑只使用在 RTTY"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 28,
+            "question": "為什麼接收的展頻信號能抗干擾？",
+            "correctAnswer": 1,
+            "answers": [
+                "在接收機中抑制不使用展頻算法的信號",
+                "展頻發射機使用高功率可使其信號不容易過載",
+                "接收機都配置數位消除器",
+                "如果接收機檢測到干擾，它將發信號通知發射機改變頻率"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 29,
+            "question": "什麼展頻通信技術使用高速二進制位元流 (bit stream) 以使 RF 載波相位偏移？",
+            "correctAnswer": 2,
+            "answers": [
+                "跳頻",
+                "直接序列",
+                "二進制相位偏移調變",
+                "相位壓縮展頻"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 30,
+            "question": "跳頻的展頻技術如何工作？",
+            "correctAnswer": 4,
+            "answers": [
+                "如果接收機檢測到干擾 ，它將發信號通知發射機改變頻率",
+                "如果接收機檢測到干擾，它將發信號通知發射機等待頻率乾淨",
+                "偽隨機二進制位元流用於在特定序列中非常快速地 RF載波的相位偏移",
+                "在特定序列下，發射信號的頻率非常快速地改變，接收電臺也使用相同的序列"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 31,
+            "question": "極短的上升或下降時間對 CW 信號的主要影響是什麼？",
+            "correctAnswer": 3,
+            "answers": [
+                "更難複製",
+                "產生RF諧波",
+                "產生電鍵點擊",
+                "限制數據速率"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 32,
+            "question": "減少電鍵點擊的最常見方法是什麼？",
+            "correctAnswer": 1,
+            "answers": [
+                "增加鍵控波形的上升和下降時間",
+                "發射機輸出端的低通濾波器",
+                "減少鍵控波形的上升和下降時間",
+                "發射機輸出端的高通濾波器"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 33,
+            "question": "以下哪項表示可能的 AFSK 信號（如 PSK 或 MFSK ）過調變？",
+            "correctAnswer": 2,
+            "answers": [
+                "高反射功率",
+                "強的ALC活動",
+                "在較高頻帶產生諧波",
+                "快速信號衰減"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 34,
+            "question": "什麼是 AFSK 信號過調變的常見原因？",
+            "correctAnswer": 4,
+            "answers": [
+                "重試次數過多",
+                "接地迴路",
+                "在數據機的位元錯誤",
+                "傳輸音訊位準過高"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 35,
+            "question": "什麼參數可能說明輸入位準過高會導致 AFSK 信號失真？",
+            "correctAnswer": 4,
+            "answers": [
+                "信號雜訊比",
+                "鮑(Baud)",
+                "重複請求速率（RRR）",
+                "內調失真（IMD）"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 36,
+            "question": "對於閒置的 PSK 信號，什麼被認為是良好的最小 IMD 位準？",
+            "correctAnswer": 4,
+            "answers": [
+                "+ 10dB",
+                "+ 15dB",
+                "-20dB",
+                "-30dB"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 37,
+            "question": "Baudot 數位編碼和 ASCII 之間有什麼區別？",
+            "correctAnswer": 2,
+            "answers": [
+                "Baudot 每個字符使用 4個位元， ASCII 使用7或8; Baudot 使用1個字符作為字母數字移位代碼， ASCII 沒有字母 /數字移位代碼",
+                "Baudot 每個字符使用 5個位元， ASCII 使用7或8; Baudot 使用2個字符作為字母數字移位代碼， ASCII 沒有字母 /數字移位代碼",
+                "Baudot 每個字符使用 6個位元， ASCII 使用7或8; Baudot 沒有字母 /數字移位代碼，  ASCII 使用2個字母 /數字移位代碼",
+                "Baudot 每個字符使用 7個位元， ASCII 使用8位; Baudot 沒有字母 /數字移位代碼， ASCII 使用2個字母 /數字移位代碼"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 38,
+            "question": "使用 ASCII 碼進行數據通信有什麼優點？",
+            "correctAnswer": 3,
+            "answers": [
+                "它包括內置的錯誤修正",
+                "它的每個字符比任何其他代碼包含較少的資訊位元",
+                "可以傳輸大寫和小寫文字",
+                "它使用一個字符作為移位代碼發送數字和特殊字符"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 39,
+            "question": "將同位元與 ASCII 字符流一起使用的優點是什麼？",
+            "correctAnswer": 4,
+            "answers": [
+                "傳輸速率更快",
+                "信號可以壓制干擾信號",
+                "可以發送外國文字符號",
+                "某些類型的錯誤可以被偵測到"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        }
+    ]
+}

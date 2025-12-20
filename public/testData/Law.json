@@ -1,0 +1,2774 @@
+{
+    "title": "無線電規章與相關法規題庫",
+    "questions": [
+        {
+            "questionNumber": 1,
+            "question": "當收發機顯示語音訊號之載波頻率時，正確操作在上單邊帶 (USB) 模式發射可調整之最高顯示頻率為何 ?",
+            "correctAnswer": 4,
+            "answers": [
+                "頻帶上限值",
+                "頻帶上限值以下 300 赫",
+                "頻帶上限值以下 1 千赫",
+                "頻帶上限值以下 3 千赫"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 2,
+            "question": "當收發機顯示語音訊號之載波頻率時，正確操作在下單邊帶 (LSB) 模式發射可調整之最低顯示頻率為何 ?",
+            "correctAnswer": 4,
+            "answers": [
+                "頻帶下限值",
+                "頻帶下限值以上 300 赫",
+                "頻帶下限值以上 1 千赫",
+                "頻帶下限值以上 3 千赫"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 3,
+            "question": "當你聽到某電臺正在呼叫 CQ，收發機目前顯示語音訊號的載波頻率為14.349 百萬赫  USB 時，請問是否可在這個頻率使用 USB 回應該電臺的呼叫?",
+            "correctAnswer": 3,
+            "answers": [
+                "可以，因為你不是呼號 CQ 的電臺",
+                "可以，因為該頻率在 20 公尺頻段內",
+                "不可以，訊號之單邊帶會超出頻段範圍",
+                "不可以，我國電臺不允許在 14.340 百萬赫以上的頻率發射語音電波"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 4,
+            "question": "當你聽到遠方某電臺正在呼叫 CQ，收發機目前顯示語音訊號的載波頻率為 3.551 百萬赫  LSB 時，請問是否可在這個頻率使用 LSB 回應該電臺的呼叫?",
+            "correctAnswer": 3,
+            "answers": [
+                "可以，因為該遠方電臺開啟了通聯",
+                "可以，因為該顯示頻率在 75公尺頻段內",
+                "不可以，訊號之單邊帶會超出頻段範圍",
+                "不可以，我國電臺不允許在 3.56 百萬赫以下的頻率發射語音電波"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 5,
+            "question": "40 公尺頻段最大的發射功率為何 ?",
+            "correctAnswer": 3,
+            "answers": [
+                "50 瓦特 PEP 發射功率相對於全向性 (isotropic) 天線",
+                "50 瓦特 PEP 發射功率相對於偶極天線",
+                "1500 瓦特 PEP 發射功率相對於半波偶極天線",
+                "100 瓦特 PEP 發射功率相對於全向性 (isotropic) 天線"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 6,
+            "question": "假設在無線電訊息轉發系統上電臺無意間轉發了會違反 NCC 法規的訊息，誰是違規的主要負責者 ?",
+            "correctAnswer": 2,
+            "answers": [
+                "封包無線電電子布告欄的管理員",
+                "原始發送訊息的業餘無線電人員",
+                "所有此系統中的業餘無線電人員及管理員",
+                "所有此系統中未被授權使用此通訊系統的業餘無線電人員及管理員"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 7,
+            "question": "假如你的數位無線電訊息轉發電臺無意間轉發了違反 NCC 法規的通訊，你應該先作什麼處置 ?",
+            "correctAnswer": 1,
+            "answers": [
+                "當你發現了此事件，儘快中斷該件違法的轉發通訊",
+                "告知原始發送電臺該訊息不符合 NCC法規",
+                "告知最近的 NCC管制單位",
+                "中斷所有的轉發訊息"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 8,
+            "question": "假如業餘無線電臺船舶上使用，在正式操作前什麼條件必須符合 ?",
+            "correctAnswer": 1,
+            "answers": [
+                "該操作必須由船長核准",
+                "當船舶上主要的無線電在使用時， 業餘無線電臺操作者必須同意不可發射業餘無線電臺",
+                "業餘無線電臺的電源供應器必須是獨立於船舶本身電源以外",
+                "業餘無線電操作者的操作執照必須包括 NCC同意船舶使用"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 9,
+            "question": "當你聽到遠方某電臺正在呼叫 CQ，收發機目前顯示 CW 訊號的載波頻率為 3.500 百萬赫時，請問是否可在這個頻率使用 CW 回應該電臺的呼叫 ?",
+            "correctAnswer": 3,
+            "answers": [
+                "可以，因為該遠方電臺開啟了通聯",
+                "可以，因為該頻率在 80公尺頻段內",
+                "不可以， CW訊號之單邊帶會超出頻段範圍",
+                "不可以，我國電臺不允許在 3.5125 百萬赫以下的頻率發射 CW"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 10,
+            "question": "在中華民國國籍的船舶上操作業餘無線電臺資格為何 ?",
+            "correctAnswer": 2,
+            "answers": [
+                "只有具船舶電信專長之人員",
+                "任何擁有 NCC核發符合該電臺等級 (含)以上之業餘無線電人員執照者",
+                "只有該業餘無線電臺執照登載之所屬者",
+                "任何該業餘無線電臺執照登載之所屬者"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 11,
+            "question": "何者為 0.1357~0.1378 百萬赫最大發射功率 (EIRP)?",
+            "correctAnswer": 4,
+            "answers": [
+                "200  瓦特",
+                "100  瓦特",
+                "10  瓦特",
+                "1 瓦特"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 12,
+            "question": "下列何者構成了混附 (spurious) 發射?",
+            "correctAnswer": 4,
+            "answers": [
+                "業餘無線電臺沒有呼號識別的隨機發射",
+                "發射的訊號除了接收者外防止其他電臺偵測到",
+                "發射訊號無意中干擾了其他有執照之無線電臺",
+                "發射訊號超出了載波頻寬，而減少或 去除這超出的頻寬，不影響所傳送資訊。"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 13,
+            "question": "下列何者可能造成業餘無線電臺或天線之設置地點的限制 ?",
+            "correctAnswer": 4,
+            "answers": [
+                "接近有政治衝突的地區",
+                "有藝術重要性的地區",
+                "在被一個或多個其他國外政府所管轄的 ITU Zone",
+                "航空站飛行場助航設備周邊地區"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 14,
+            "question": "為保護 NCC 監測站不被干擾，業餘無線電臺使用頻率 介於 9 千赫至 174 百萬赫間之無線電波之電場強度不得超過下列何者 ?",
+            "correctAnswer": 1,
+            "answers": [
+                "80 分貝微伏每公尺 (dBuV/m)",
+                "40 分貝微伏每公尺",
+                "160 分貝微伏每公尺",
+                "200 分貝微伏每公尺"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 15,
+            "question": "假如你要在機場附近架設業餘無線電天線，什麼額外的規定必須遵守 ?",
+            "correctAnswer": 1,
+            "answers": [
+                "必須符合航空站飛行場助航設備四周禁止限制建築物及其他障礙物高度管理辦法之規定",
+                "假如天線結構高度低於 10公尺，則沒有特別規定",
+                "在架設之前，必須向行政院環境 保護署提出環境影響評估",
+                "必須向機場管理單位取得建造許可"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 16,
+            "question": "使用業餘無線電頻率 432~440 百萬赫 (次要業務 )應遵守什麼規定？",
+            "correctAnswer": 4,
+            "answers": [
+                "不得干擾主要業務",
+                "須忍受合法通信妨害性干擾",
+                "一等業餘電臺的發射功率 (PEP) 不得大於 200瓦特",
+                "以上皆是"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 17,
+            "question": "什麼是電臺的遙控控制作業 ?",
+            "correctAnswer": 4,
+            "answers": [
+                "電臺由原本常設之地點移至他處操作",
+                "電臺由非電臺負責人之他人控制操作",
+                "電臺操作為自動控制",
+                "電臺藉由控制鏈路間接調校、控制無線電通信作業"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 18,
+            "question": "什麼是電臺的自動控制作業 ?",
+            "correctAnswer": 1,
+            "answers": [
+                "依控制員設定之設備及程序，自動調校、控制無線電通信作業，故操作員可不用在控制點",
+                "電臺的輸出功率自動控制",
+                "利用直接控制鏈路來遠端控制電臺的天線系統",
+                "指控制點和受控制的電臺之間的控制鏈路"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 19,
+            "question": "自動控制電臺中的控制操作者所需負的責任與非自動控制電臺 (即席控制電臺)有何不同 ?",
+            "correctAnswer": 2,
+            "answers": [
+                "即席控制電臺無控制操作員",
+                "自動控制電臺操作員不需要位於控制點",
+                "自動控制電臺無控制操作員",
+                "即席控制電臺操作員不需要位於控制點"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 20,
+            "question": "何時自動控制電臺可啟動第三者通信 ?",
+            "correctAnswer": 1,
+            "answers": [
+                "皆不可以，但與我國訂有互惠協定者，不在此限",
+                "只有當傳送 RTTY或其他數位模式時",
+                "當傳送及接收方同意時",
+                "當NCC同意時"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 21,
+            "question": "下列何者有關業餘無線電臺遙控控制作業的描述是正確的 ?",
+            "correctAnswer": 3,
+            "answers": [
+                "只有三等業餘無線人員可採遙控控制作業操作電臺",
+                "控制操作員可不用在控制點",
+                "控制操作員需要在控制點",
+                "中繼電臺不可採遙控控制作業"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 22,
+            "question": "何謂即席控制作業 ?",
+            "correctAnswer": 3,
+            "answers": [
+                "透過現場輔助鏈路控制一座電臺",
+                "採自動控制作業操作電臺",
+                "指在電臺內直接調校、控制無線電通信作業",
+                "由手持收發機控制中繼臺  23"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 23,
+            "question": "30 百萬赫以下的頻段，下列何者中繼電臺可操作範圍 ?",
+            "correctAnswer": 4,
+            "answers": [
+                "18.110 百萬赫  - 18.168 百萬赫",
+                "24.940 百萬赫  - 24.990 百萬赫",
+                "10.100 百萬赫  - 10.150 百萬赫",
+                "29.510 百萬赫  - 29.590 百萬赫"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 24,
+            "question": "何種型式的業餘無線電中繼電臺可自動轉發其他業餘無線電電臺的訊號 ?",
+            "correctAnswer": 2,
+            "answers": [
+                "只有示標、中繼和太空電臺",
+                "只有中繼和太空電臺",
+                "只有地球、中繼電臺或遙控模型",
+                "只有示標和太空電臺"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 25,
+            "question": "何種型式的通訊可傳送至我國以外的業餘無線電臺 ?",
+            "correctAnswer": 3,
+            "answers": [
+                "涉及公眾電信業務之通訊",
+                "轉發非業餘 無線電臺之訊息",
+                "與業餘業務相關基於個人本質之通訊",
+                "以上皆是"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 26,
+            "question": "非本國籍業餘無線電人員在我國境內短期操作業餘電臺規定為何 ?",
+            "correctAnswer": 3,
+            "answers": [
+                "必須以我國官方語音標示辯明自己正在操作",
+                "該國大使館核准你的操作",
+                "經全國性業餘無線團體向 NCC申請核准",
+                "你需要在你的呼號上加上  \"/CEPT\" 於後綴"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 27,
+            "question": "下列何者為遙測的定義 ?",
+            "correctAnswer": 1,
+            "answers": [
+                "離測量儀器一定距離處的單向測量傳輸",
+                "超過1000公尺的雙向無線電話傳輸",
+                "雙向單通道資料傳輸",
+                "起動、修改或終止遠距設備功能的單向傳輸"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 28,
+            "question": "什麼是業餘衛星服務？",
+            "correctAnswer": 3,
+            "answers": [
+                "使用衛星進行自我訓練的無線電導航業務，業餘愛好者進行的互通和技術研究",
+                "用於業餘衛星的太空飛行器發射服務",
+                "在衛星上使用業餘無線電臺的無線電通信業務",
+                "使用地球衛星上的電臺進行公共廣播的無線電通信業務"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 29,
+            "question": "什麼是業餘衛星業務中的指揮電臺",
+            "correctAnswer": 2,
+            "answers": [
+                "位於地球表面的業餘電臺，通過地球衛星與其他地球站通信",
+                "傳送無線電信號以指揮太空電臺之起動、修正或停止作業之業餘電臺",
+                "位於地球表面以上 50公里以上的業餘電臺",
+                "對大氣層進行遙測的業餘電臺"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 30,
+            "question": "在業餘衛星業務中的地球電臺是什麼 ?",
+            "correctAnswer": 1,
+            "answers": [
+                "設置於距離地球表面 50公里以內，擬與太空電臺或經由其他一或數具太空上之載具與其他地球電臺通信之業餘電臺",
+                "不能使用業餘衛星進行通信的業餘電臺",
+                "對大氣層進行遙測的業餘電臺",
+                "任何位於地球表面的業餘電臺"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 31,
+            "question": "哪一種等級的執照可被授權操作太空電臺",
+            "correctAnswer": 3,
+            "answers": [
+                "三等",
+                "二等",
+                "一等",
+                "只允許非業餘等級"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 32,
+            "question": "下列何者為對特殊電臺的要求 ?",
+            "correctAnswer": 1,
+            "answers": [
+                "特殊電臺控制員必須能夠在接獲 NCC通知其傳送內容違反規定時，應即時停止發射",
+                "特殊電臺必須在五年後停止所有傳輸",
+                "特殊電臺必須能夠在接到國防部命令時變更頻率",
+                "以上皆是"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 33,
+            "question": "哪些 HF 業餘頻段授權給太空電臺使用？",
+            "correctAnswer": 1,
+            "answers": [
+                "10 公尺頻段",
+                "20 公尺、 17公尺及 15公尺頻段",
+                "40 公尺、 30公尺、 20公尺及 15公尺頻段",
+                "所有高頻頻段"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 34,
+            "question": "太空電臺可用哪些 VHF 業餘頻段 ?",
+            "correctAnswer": 1,
+            "answers": [
+                "6公尺及 2公尺頻段",
+                "6公尺、 2公尺及 1.25公尺頻段",
+                "2公尺及 1.25公尺頻段",
+                "只有2公尺頻段"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 35,
+            "question": "太空電臺可用哪些 UHF 業餘頻段 ?",
+            "correctAnswer": 2,
+            "answers": [
+                "只有70公分頻段",
+                "70 公分及 23公分頻段",
+                "70 公分及 33公分頻段",
+                "33 公分及 13公分頻段"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 36,
+            "question": "哪些地球電臺的描述為正確 ?",
+            "correctAnswer": 4,
+            "answers": [
+                "領有執照者已預先知會 NCC的任一業餘電臺",
+                "允許一等、二等與三等業餘無線電人員進行操作",
+                "允許一等及二等業餘無線電人員進行操作",
+                "只允許一等業餘無線電人員進行操作的業餘電臺"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 37,
+            "question": "下列何種之業餘無線電操作被禁止 ?",
+            "correctAnswer": 1,
+            "answers": [
+                "具有任何營利性質之通訊",
+                "具政治內容之通訊",
+                "具宗教內容之通訊",
+                "以英文以外之語言通訊"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 38,
+            "question": "下列何種可適用於展頻 (Spread Spectrum) 通訊實驗之發射情形 ?",
+            "correctAnswer": 4,
+            "answers": [
+                "展頻通訊時不可干擾正常通訊之電臺",
+                "展頻通訊必須經 NCC核准",
+                "展頻通訊必須不能與其他通訊方式混淆",
+                "以上皆是"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 39,
+            "question": "業餘無線電展頻 (Spread Spectrum) 通訊實驗之最高發射機輸出功率為何 ?",
+            "correctAnswer": 3,
+            "answers": [
+                "1 瓦特",
+                "1.5  瓦特",
+                "100  瓦特",
+                "1.5  千瓦特"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 40,
+            "question": "下列何種敘述，符合外接射頻功率放大器之規定 ?",
+            "correctAnswer": 4,
+            "answers": [
+                "在接受小於等於 5瓦特之輸入能產生合法全功放",
+                "必須能於輸入及輸出網路中切換",
+                "必須在全功輸出範圍達到比 0 dB或更小的增益",
+                "當設計之輸出功率在 1500瓦特以下時，應相對降低其放大倍率"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 41,
+            "question": "什麼情形才可以 從事業餘無線電作業 ？",
+            "correctAnswer": 3,
+            "answers": [
+                "只須經主管機關測試及格，不須 取得業餘無線電人員執照",
+                "不須經主管機關 測試及格，亦不須 取得業餘無線電人員執照",
+                "須經主管機關測試及格 ，並取得業餘無線電人員執照",
+                "不須經主管機關 測試及格，只須 取得業餘無線電人員執照"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 42,
+            "question": "取得業餘無線電人員執照後，可以做下列什麼操作？",
+            "correctAnswer": 4,
+            "answers": [
+                "即可用於卡車行車調度之用",
+                "即可用於客運車行車調度之用",
+                "即可用於遊覽車行車調度之用",
+                "以上皆非"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 43,
+            "question": "運輸業 (含客運車、砂石車、遊覽車等 )司機或隨車人員考取業餘無線電人員執照，亦不得於車上做行車業務使用，違反規定者，依電信管理法第 82 條第 1 項第 5 款規定處的罰鍰為新臺幣 1 萬元以上、多少元以下？",
+            "correctAnswer": 4,
+            "answers": [
+                "3萬元",
+                "5萬元",
+                "7萬元",
+                "10萬元"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 44,
+            "question": "下列頻段何者為三等業餘無線電人員可以使用頻率範圍",
+            "correctAnswer": 3,
+            "answers": [
+                "138-140 百萬赫",
+                "140-142 百萬赫",
+                "144-146 百萬赫",
+                "154-156 百萬赫"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 45,
+            "question": "下列頻段何者為三等業餘無線電人員可以使用頻率範圍",
+            "correctAnswer": 2,
+            "answers": [
+                "420-422 百萬赫",
+                "430-440 百萬赫",
+                "440-442 百萬赫",
+                "450-452 百萬赫"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 46,
+            "question": "外國人欲於中華民國領域內從事業餘無線電作業的途徑有",
+            "correctAnswer": 4,
+            "answers": [
+                "已取得國外業餘無線電人員執照，依業餘無線電人員及電臺管理辦法第四十條規定辦理",
+                "經我國業餘無線電人員測試及格， 並取得業餘無線電人員執照，得借用具業餘無線電臺執照之業餘無線電臺操作使用",
+                "取得我國居留權及業餘無線電人員執照，得逕向主管機關申設業餘無線電臺，經審驗合格 ，取得電臺執照後",
+                "以上皆是"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 47,
+            "question": "業餘無線電人員從事業餘無線電活動時",
+            "correctAnswer": 3,
+            "answers": [
+                "因屬業餘性質，可任意為之",
+                "只須維持自身的合法性",
+                "應本互相尊重之精神共同監督之",
+                "只須互相尊重，不須共同監督"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 48,
+            "question": "我國業餘無線電人員資格分為",
+            "correctAnswer": 3,
+            "answers": [
+                "不分等級",
+                "二個等級",
+                "三個等級",
+                "一個等級"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 49,
+            "question": "那一等級之業餘無線電人員測試須進行摩氏電碼術科測試",
+            "correctAnswer": 4,
+            "answers": [
+                "都需要測試",
+                "二等業餘無線電人員",
+                "三等業餘無線電人員",
+                "都不需要測試"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 50,
+            "question": "一等業餘無線電人員測試 題組為 無線電規章 與相關法規 13 題、無線電通訊方法 15 題、無線電系統原理 15 題、無線電相關安全防護 3 題、電磁相容性技術 2 題、射頻干擾的預防與排除 2 題，共計 50 題，測試及格 至少應答對多少題？",
+            "correctAnswer": 4,
+            "answers": [
+                "15 題",
+                "32 題",
+                "25 題",
+                "40 題"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 51,
+            "question": "二等業餘無線電人員測試 題組為 無線電規章 與相關法規 12 題、無線電通訊方法 12 題、無線電系統原理 10 題、無線電相關安全防護 2 題、電磁相容性技術 2 題、射頻干擾的預防與排除 2 題，共計 40 題，要測試及格至少應答對多少題？",
+            "correctAnswer": 1,
+            "answers": [
+                "32 題",
+                "15 題",
+                "25 題",
+                "10 題"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 52,
+            "question": "三等業餘無線電人員測試 題組為 無線電規章 與相關法規 13 題、無線電通訊方法 13 題、無線電系統原理 6 題、無線電相關安全防護 1 題、電磁相容性技術 1 題、射頻干擾的預防與排除 1 題，共計 35 題，要測試及格至少應答對多少題？",
+            "correctAnswer": 3,
+            "answers": [
+                "10 題",
+                "15 題",
+                "25 題",
+                "20 題"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 53,
+            "question": "業餘無線電人員自測試及格日起，多久以內向主管機關申請業餘無線電人員執照",
+            "correctAnswer": 3,
+            "answers": [
+                "一星期",
+                "一個月",
+                "十年",
+                "三年"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 54,
+            "question": "參加一等業餘無線電人員測試之條件為何？",
+            "correctAnswer": 1,
+            "answers": [
+                "持有二等業餘無線電人員執照且設置二等業餘無線電臺達一年以上，同時業餘無線電人員及電臺執照均需在有效期間內。",
+                "持有三等業餘無線電人員執照且設置三等業餘無線電臺達一年以上者",
+                "持有二等業餘無線電人員執照且設置三等業餘無線電臺達一年以上者",
+                "持有三等業餘無線電人員執照且設置三等業餘無線電臺達二年以上者"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 55,
+            "question": "業餘無線電人員 測試及格後 ，要向誰申請核發業餘無線電人員執照？",
+            "correctAnswer": 3,
+            "answers": [
+                "當地業餘無線電團體",
+                "當地公路監理站（所）",
+                "主管機關",
+                "內政部"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 56,
+            "question": "業餘無線電人員參加業餘無線電人員 二等測試及格，可以申請那一等級的業餘無線電人員執照？",
+            "correctAnswer": 2,
+            "answers": [
+                "不能申請",
+                "二等",
+                "三等",
+                "一等"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 57,
+            "question": "非業餘無線電人員參加業餘無線電人員測試 及格，可以申請那一等級的業餘無線電人員執照？",
+            "correctAnswer": 3,
+            "answers": [
+                "不能申請",
+                "二等",
+                "三等",
+                "一等"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 58,
+            "question": "二等業餘無線電人員 要參加 一等業餘無線電人員測試時，其二等業餘無線電臺設置已達具備",
+            "correctAnswer": 1,
+            "answers": [
+                "一年以上",
+                "一年以下",
+                "六個月以下",
+                "三個月以下"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 59,
+            "question": "王大明在未取得業餘無線電人員執照下，參加二等業餘無線電人員測試及格後，發現先前三等業餘無線電人員測試及格已超過十年，他可以申請什麼業餘無線電人員執照 ？",
+            "correctAnswer": 1,
+            "answers": [
+                "不能申請",
+                "二等",
+                "三等",
+                "一等"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 60,
+            "question": "王大明在未取得業餘無線電人員執照下 ，參加二等業餘無線電人員測試不及格，發現先前三等業餘無線電人員 測試及格仍在十年內，他可以申請什麼業餘無線電人員執照 ？",
+            "correctAnswer": 3,
+            "answers": [
+                "不能申請",
+                "二等",
+                "三等",
+                "一等"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 61,
+            "question": "業餘無線電人員執照有效期間為",
+            "correctAnswer": 1,
+            "answers": [
+                "十年",
+                "三年",
+                "五年",
+                "七年"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 62,
+            "question": "一人可同時持有幾張業餘無線電人員執照",
+            "correctAnswer": 1,
+            "answers": [
+                "一張",
+                "二張",
+                "三張",
+                "四張"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 63,
+            "question": "業餘無線電人員執照有效期間為十年，應於期限屆滿前六個月起五個月內向誰申請換發執照 ？",
+            "correctAnswer": 3,
+            "answers": [
+                "當地業餘無線電團體",
+                "當地公路監理站（所）",
+                "國家通訊傳播委員會",
+                "內政部"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 64,
+            "question": "業餘無線電團體指",
+            "correctAnswer": 2,
+            "answers": [
+                "依電信管理法 成立，從事業餘無線電活動之團體",
+                "依人民團體法成立，從事業餘無線電活動之團體",
+                "依廣電法成立，從事業餘無線電活動之團體",
+                "依有線電視法規定成立，從事業餘無線電活動之團體"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 65,
+            "question": "業餘無線電機係屬",
+            "correctAnswer": 4,
+            "answers": [
+                "低功率射頻無線電機",
+                "電信終端設備",
+                "PHS（數位式低功率無線電話）",
+                "電信管制射頻器材"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 66,
+            "question": "業餘無線電人員及電臺管理辦法所規範之輻射指",
+            "correctAnswer": 1,
+            "answers": [
+                "以無線電磁波形式向外流動之能量",
+                "以高能量粒子形式向外發射之能量",
+                "以熱能形式向外流動之能量",
+                "以核能形式向外發射之能量"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 67,
+            "question": "業餘無線電人員及電臺管理辦法所規範之發射指",
+            "correctAnswer": 3,
+            "answers": [
+                "以光波形式向外流動之能量",
+                "以高能量粒子形式向外發射之能量",
+                "由無線電臺所產生之輻射或其輻射產物",
+                "以熱能形式向外流動之能量"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 68,
+            "question": "業餘無線電人員及電臺管理辦法所定義之發射機為",
+            "correctAnswer": 4,
+            "answers": [
+                "可發射任何物質之機器",
+                "可發射光線之機器",
+                "可發射火箭之機器",
+                "具有將電能轉換為電磁輻射能輸出之機器"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 69,
+            "question": "一等業餘無線電人員得申請設置",
+            "correctAnswer": 4,
+            "answers": [
+                "船舶無線電臺",
+                "三等業餘電臺",
+                "二等或三等業餘電臺",
+                "一等、二等或三等業餘電臺"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 70,
+            "question": "二等業餘無線電人員得申請設置",
+            "correctAnswer": 3,
+            "answers": [
+                "船舶無線電臺",
+                "一等業餘電臺",
+                "二等或三等業餘電臺",
+                "一等、二等或三等業餘電臺"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 71,
+            "question": "三等業餘無線電人員得申請設置",
+            "correctAnswer": 2,
+            "answers": [
+                "船舶無線電臺",
+                "三等業餘電臺",
+                "二等或三等業餘電臺",
+                "廣播電臺"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 72,
+            "question": "某未取得業餘無線電人員執照之軍中報務士",
+            "correctAnswer": 4,
+            "answers": [
+                "得申請設置三等業餘電臺",
+                "得申請設置二等或三等業餘電臺",
+                "得申請設置一等、二等或三等業餘電臺",
+                "不得申設業餘無線電臺"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 73,
+            "question": "軍中報務士可以申請換發那等級的業餘無線電人員執照？",
+            "correctAnswer": 4,
+            "answers": [
+                "一等",
+                "二等",
+                "三等",
+                "不得申請"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 74,
+            "question": "某未取得業餘無線電人員執照之高級電信工程人員",
+            "correctAnswer": 4,
+            "answers": [
+                "得申請設置三等業餘電臺",
+                "得申請設置二等或三等業餘電臺",
+                "得申請設置一等、二等或三等業餘電臺",
+                "不得申設業餘無線電臺"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 75,
+            "question": "高級電信工程人員執照 可以申請換發那等級的業餘無線電人員執照？",
+            "correctAnswer": 4,
+            "answers": [
+                "一等",
+                "二等",
+                "三等",
+                "不得申請"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 76,
+            "question": "持有漁船無線電對講機執照 可以申請換發那等級的業餘無線電人員執照？",
+            "correctAnswer": 4,
+            "answers": [
+                "一等",
+                "二等",
+                "三等",
+                "不得申請"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 77,
+            "question": "具何種資格之外國人於取得業餘無線電人員執照後，得比照本國業餘無線電人員申設業餘電臺",
+            "correctAnswer": 1,
+            "answers": [
+                "取得我國居留證明",
+                "參加我國舉辦之業餘無線電研討會",
+                "取得我國簽證",
+                "取得我國大學學位"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 78,
+            "question": "固定式業餘電臺",
+            "correctAnswer": 1,
+            "answers": [
+                "一人以設置一座為限",
+                "僅限設置一部",
+                "得未經主管機關核可，當作中繼使用",
+                "不得申請設置備用無線電機"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 79,
+            "question": "U/VHF 頻段行動式業餘電臺，其輸出功率不得超過",
+            "correctAnswer": 2,
+            "answers": [
+                "20 瓦特",
+                "25 瓦特",
+                "30 瓦特",
+                "35 瓦特"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 80,
+            "question": "U/VHF 頻段業餘電臺，其輸出功率超過幾瓦 特即需固定設置？",
+            "correctAnswer": 2,
+            "answers": [
+                "20 瓦特",
+                "25 瓦特",
+                "30 瓦特",
+                "35 瓦特"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 81,
+            "question": "50 百萬赫頻段以下之業餘電機，其輸出功率在幾瓦 特以下得申請行動式業餘無線電臺？",
+            "correctAnswer": 1,
+            "answers": [
+                "50 瓦特",
+                "60 瓦特",
+                "75 瓦特",
+                "100 瓦特"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 82,
+            "question": "50 百萬赫頻段以下之業餘無線電機，其輸出功率在幾瓦 特以上需申請固定式業餘電臺？",
+            "correctAnswer": 1,
+            "answers": [
+                "50 瓦特",
+                "60 瓦特",
+                "75 瓦特",
+                "100 瓦特"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 83,
+            "question": "三等業餘無線電人員在使用 U/VHF 頻段之行動式業餘電臺時，在電臺功能允許下，得採何種發射方式？",
+            "correctAnswer": 4,
+            "answers": [
+                "電報發射",
+                "電話發射",
+                "影像發射",
+                "以上皆是"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 84,
+            "question": "三等業餘無線電人員操作業餘電臺時，在電臺功能允許下可採何種發射方式",
+            "correctAnswer": 4,
+            "answers": [
+                "電話",
+                "數據",
+                "影像",
+                "以上皆是"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 85,
+            "question": "違反業餘無線電 人員及電臺 管理辦法第 四條有關業餘無線電人員之規定者，應依電信管理法相關規定處新臺幣一萬元以上多少元以下罰鍰？",
+            "correctAnswer": 4,
+            "answers": [
+                "四萬元",
+                "五萬元",
+                "三萬元",
+                "十萬元"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 86,
+            "question": "業餘無線電人員申請固定式業餘電臺 設置時，應填具業餘電臺設置申請書一份，並檢附業餘無線電人員執照影本及業餘無線電機認證證明等文件，向下列那單位申請？",
+            "correctAnswer": 3,
+            "answers": [
+                "當地業餘無線電團體",
+                "當地公路監理站（所）",
+                "主管機關",
+                "內政部"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 87,
+            "question": "業餘無線電人員向主管機關申請設置固定式業餘電臺時，所領得之電臺設置核准有效期間為",
+            "correctAnswer": 2,
+            "answers": [
+                "三個月",
+                "六個月",
+                "一年",
+                "五年"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 88,
+            "question": "業餘無線電人員於取得固定式業餘電臺 設置核准後，應於電臺設置核准有效期間內完成 電臺設置 ，並於完成後 ，向下列那一單位申請審驗 ？",
+            "correctAnswer": 3,
+            "answers": [
+                "當地業餘無線電團體",
+                "當地公路監理站（所）",
+                "主管機關",
+                "內政部"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 89,
+            "question": "業餘無線電人員申請行動式業餘電臺執照時，應填具行動式業餘無線電臺執照申請書一份，並檢附業餘無線電人員執 照影本及 備妥業餘無線電機，向下列那一單位申請核發行動式業餘電臺執照？",
+            "correctAnswer": 3,
+            "answers": [
+                "當地業餘無線電團體",
+                "當地公路監理站（所）",
+                "主管機關",
+                "內政部"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 90,
+            "question": "業餘無線電人員向主管機關 申請固定式業餘電臺 設置時，應檢附什麼資料？",
+            "correctAnswer": 4,
+            "answers": [
+                "採經型式認證合格之業餘無線電機架設者，應檢附業餘無線電機型式認證證明或文件影本：採非經型式認證電機者，檢附相關 技術規格資料影本等",
+                "固定式業餘電臺設置申請書",
+                "業餘無線電人員執照影本",
+                "以上皆是"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 91,
+            "question": "業餘電臺執照有效期間為 10 年，執照所有人應於期限屆滿前 6 個月起 5 個月內，向下列那一單位申請換發執照？",
+            "correctAnswer": 3,
+            "answers": [
+                "當地業餘無線電團體",
+                "當地公路監理站（所）",
+                "主管機關",
+                "內政部"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 92,
+            "question": "業餘無線電機設備或固定式業餘電臺設置地點變更時",
+            "correctAnswer": 4,
+            "answers": [
+                "不必申請即可逕行變更使用",
+                "應通知當地戶政事務所變更原始登記事項後使用",
+                "應向內政部申請異動",
+                "應填具電臺異動申請書，向主管機關申請，經審驗合格，換發電臺執照後，始得使用"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 93,
+            "question": "業餘電臺設置天線不得違反內政部、國防部、交通部會銜發布之航空站飛行場助航設備四周",
+            "correctAnswer": 1,
+            "answers": [
+                "禁止限制建築物及其他障礙物高度管理辦法之規定",
+                "禁止、限制輻射辦法之規定",
+                "禁止、限制發射辦法之規定",
+                "禁止、限制開發辦法之規定"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 94,
+            "question": "為避免危及公共安全，業餘電臺設置之天線結構應與高壓電線保持安全距離，下列那種情形，應具有航空色標及標識燈具",
+            "correctAnswer": 4,
+            "answers": [
+                "天線高度超過地平面  10 公尺者",
+                "天線高度超過地平面  30 公尺者",
+                "天線高度超過海平面  60 公尺者",
+                "天線高度超過地平面  60 公尺者"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 95,
+            "question": "業餘電臺呼號之第一字元使用英文字母Ｂ，呼號之第二字元優先由英文字母Ｍ、Ｎ、Ｏ、Ｐ、Ｑ、Ｕ、Ｖ、Ｗ及Ｘ內選配，呼號之第三字元使用一個阿拉伯數字， 除了數字０ 外，其他數字用以代表",
+            "correctAnswer": 2,
+            "answers": [
+                "業餘電臺之所有人",
+                "業餘電臺所在之縣、市",
+                "業餘電臺所在之省份",
+                "業餘電臺所在之國家"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 96,
+            "question": "業餘無線電臺之呼號，由電信監理資訊系統自動產生",
+            "correctAnswer": 2,
+            "answers": [
+                "任何人員皆得要求指配特定呼號",
+                "任何人員皆不得要求指配特定呼號",
+                "得指配特定呼號予非業餘無線電人員",
+                "必要時得敘明理由要求指配特定呼號"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 97,
+            "question": "業餘無線電人員取得較高等級之資格後，原設置之業餘電臺",
+            "correctAnswer": 1,
+            "answers": [
+                "得申請改配呼號，惟原呼號不得再使用",
+                "不得申請改配呼號",
+                "得申請增配呼號",
+                "於設置地點變更時，始得申請改配呼號"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 98,
+            "question": "某業餘無線電臺之呼號為  BX2A，表示該電臺為設置於中華民國",
+            "correctAnswer": 3,
+            "answers": [
+                "離島地區之二等業餘電臺",
+                "苗栗、臺中地區之二等業餘電臺",
+                "臺北地區之業餘中繼電臺",
+                "臺北地區之三等業餘電臺"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 99,
+            "question": "某業餘無線電臺之呼號為  BV9P，表示該電臺為設置於中華民國",
+            "correctAnswer": 1,
+            "answers": [
+                "離島地區之特殊業餘電臺",
+                "苗栗、臺中地區之三等業餘電臺",
+                "臺北地區之業餘中繼電臺",
+                "臺北地區之一等業餘電臺"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 100,
+            "question": "某業餘無線電臺之呼號為  BV5VA ，表示該電臺為設置於中華民國",
+            "correctAnswer": 2,
+            "answers": [
+                "離島地區之二等業餘電臺",
+                "彰化、南投、雲林地區之一等業餘電臺",
+                "臺北地區之一等業餘電臺",
+                "臺北地區之特殊業餘電臺"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 101,
+            "question": "某業餘無線電臺之呼號為  BX7AA ，表示該電臺為設置於中華民國",
+            "correctAnswer": 4,
+            "answers": [
+                "離島地區之二等業餘電臺",
+                "彰化、南投、雲林地區之二等業餘電臺",
+                "臺北地區之一等業餘電臺",
+                "高雄地區之一等業餘電臺"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 102,
+            "question": "某業餘無線電臺之呼號為  BV8AAA ，表示該電臺為設置於中華民國",
+            "correctAnswer": 3,
+            "answers": [
+                "離島地區之二等業餘電臺",
+                "彰化、南投、雲林地區之二等業餘電臺",
+                "屏東、花蓮、臺東地區之三等業餘電臺",
+                "高雄地區之一等業餘電臺"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 103,
+            "question": "某業餘無線電臺之呼號為  BX4AAA ，表示該電臺為設置於中華民國",
+            "correctAnswer": 2,
+            "answers": [
+                "離島地區之三等業餘電臺",
+                "苗栗、臺中地區之二等業餘電臺",
+                "屏東、花蓮、臺東地區之三等業餘電臺",
+                "高雄地區之一等業餘電臺"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 104,
+            "question": "某業餘無線電臺之呼號為  BV3AAA ，表示該電臺為設置於中華民國",
+            "correctAnswer": 4,
+            "answers": [
+                "離島地區之三等業餘電臺",
+                "苗栗、臺中地區之一等業餘電臺",
+                "屏東、花蓮、臺東地區之二等業餘電臺",
+                "桃園、新竹地區之三等業餘電臺"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 105,
+            "question": "某業餘無線電臺之呼號為  BV6WAD ，表示該電臺為設置於中華民國",
+            "correctAnswer": 2,
+            "answers": [
+                "離島地區之三等業餘電臺",
+                "嘉南地區之三等業餘電臺",
+                "屏東、花蓮、臺東地區之一等業餘電臺",
+                "桃竹地區之二等業餘電臺"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 106,
+            "question": "某業餘無線電臺之呼號為  BX1AAA ，表示該電臺為設置於中華民國",
+            "correctAnswer": 3,
+            "answers": [
+                "離島地區之三等業餘電臺",
+                "嘉南地區之三等業餘電臺",
+                "基宜地區之二等業餘電臺",
+                "桃竹地區之一等業餘電臺"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 107,
+            "question": "業餘電臺於語音通信時，呼號應使用",
+            "correctAnswer": 4,
+            "answers": [
+                "國語",
+                "國語或臺語",
+                "國語或臺語或英語",
+                "英語或國際無線電規則規定之英語識別代字"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 108,
+            "question": "業餘無線電人員在其資格等級以上之業餘電臺作業時，得以所在電臺之呼號作業。若在較低等級之電臺作業時，則應於所在電臺之呼號後以甚麼符號 字元分隔再加上作業人員本人之電臺呼號，予以識別",
+            "correctAnswer": 2,
+            "answers": [
+                "分號",
+                "斜線",
+                "逗點",
+                "空白"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 109,
+            "question": "業餘電臺於初次建立通信或通信完畢時，均應報明呼號，通信中每隔多少時間或更短期間應報呼號一次",
+            "correctAnswer": 1,
+            "answers": [
+                "十分鐘",
+                "二十分鐘",
+                "三十分鐘",
+                "四十分鐘"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 110,
+            "question": "可放大射頻功率，不屬發射機原始設計內之組件，但可與發射機連結使用而加大發射之輸出功率之裝置稱為",
+            "correctAnswer": 3,
+            "answers": [
+                "龜殼花",
+                "射頻增幅器",
+                "外接射頻功率放大器",
+                "減波器"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 111,
+            "question": "業餘電臺設備之 輸出功率及工作頻段",
+            "correctAnswer": 3,
+            "answers": [
+                "無任何規範",
+                "應符合美國聯邦通信委員會之業餘無線電技術標準",
+                "應符合我國業餘無線 射頻電機技術規範之規定",
+                "應符合日本國郵政省業餘無線電技術規範之規定"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 112,
+            "question": "在業餘無線電人員及電臺管理辦法所採用之發射功率計量方法有",
+            "correctAnswer": 3,
+            "answers": [
+                "輸出功率（output power）",
+                "輸出功率及有效輻射功率（ERP）二種",
+                "輸出功率、有效輻射功率及 等效全向輻射功率（EIRP）三種",
+                "輸入功率"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 113,
+            "question": "業餘無線電機屬？",
+            "correctAnswer": 1,
+            "answers": [
+                "需電臺執照之電信管制射頻器材",
+                "不需電臺執照之電信管制射頻器材",
+                "刀械彈藥管制器材",
+                "烹飪器材"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 114,
+            "question": "業餘無線電人員購 買業餘無線電機 後，下列何者正確？",
+            "correctAnswer": 1,
+            "answers": [
+                "經審驗合格發給執照，始得使用",
+                "購買後即可使用",
+                "租予他人使用",
+                "加大功率使用"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 115,
+            "question": "三等業餘無線電人員使用頻率範圍及發射功率之規定為",
+            "correctAnswer": 1,
+            "answers": [
+                "頻率限於 50百萬赫至 50.15百萬赫 、144百萬赫至 146百萬赫及 430百萬赫至440百萬赫，功率限於 25瓦特以下",
+                "頻率限於 144百萬赫至 148百萬赫及 430百萬赫至 440百萬赫，功率限於 25 瓦特以下",
+                "頻率限於 144百萬赫至 146百萬赫及 430百萬赫至 432百萬赫，功率限於 50 瓦特以下",
+                "頻率限於 144百萬赫至 148百萬赫及 430百萬赫至 440百萬赫，功率限於 50 瓦特以下"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 116,
+            "question": "業餘無線電頻率 145 百萬赫及 433 百萬赫為呼叫緊急救難頻率，任何電臺在呼叫完畢後，須改換至其他頻率工作，不得停留佔用及干擾，平時應經常守聽，俾供",
+            "correctAnswer": 4,
+            "answers": [
+                "做為個人通信之專用頻道",
+                "做為救難大隊之專用頻道",
+                "做為消防救難大隊之專用頻道",
+                "緊急呼叫及提供救助呼叫使用"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 117,
+            "question": "當一通訊網路啟用時，你與友臺正在該頻率上通信，應如何處理？",
+            "correctAnswer": 1,
+            "answers": [
+                "禮貌地切換至其他頻率",
+                "加大功率以強佔頻率",
+                "持續發射讓大家都無法使用",
+                "關機"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 118,
+            "question": "若你是 VHF 通訊網路的主控電臺，當平時使用的頻率被其他友臺先行使用了，應如何處理？",
+            "correctAnswer": 4,
+            "answers": [
+                "降低功率輸出，按原計畫使用",
+                "加大功率以強佔頻率",
+                "當日停止通信",
+                "避開該頻率，並於鄰近無人使用的頻率進行通信"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 119,
+            "question": "業餘無線電 臺至少應有幾個控制點？",
+            "correctAnswer": 1,
+            "answers": [
+                "一個",
+                "二個",
+                "三個",
+                "不需要"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 120,
+            "question": "於業餘無線電臺執照內指定，負責控制電臺信息之傳送，以確保符合無線電規章規定之業餘無線電人員稱為",
+            "correctAnswer": 1,
+            "answers": [
+                "控制員",
+                "管理員",
+                "作業員",
+                "頻率協調員"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 121,
+            "question": "由當地或當區合法業餘電臺或中繼電臺控制員共同認可之人員，擔任協調並建議該等電臺所適用之發射及接收之頻路、相關作業及技術參數之任務，以避免或減少干擾，稱為",
+            "correctAnswer": 4,
+            "answers": [
+                "控制員",
+                "管理員",
+                "作業員",
+                "頻率協調員"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 122,
+            "question": "業餘無線電控制員執行控制作業任務之地點，稱為",
+            "correctAnswer": 2,
+            "answers": [
+                "作業點",
+                "控制點",
+                "管理點",
+                "頻率協調點"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 123,
+            "question": "業餘無線電人員操作業餘無線電臺時，下列何種行為是被禁止的？",
+            "correctAnswer": 1,
+            "answers": [
+                "使用未經指配之電臺呼號",
+                "不將電臺租予他人",
+                "不佔用特定業餘無線電頻率",
+                "不對其他無線電信號產生干擾"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 124,
+            "question": "業餘電臺之發射機件或其電源線產生之 混附發射，對其他無線電通信產生妨害性干擾時",
+            "correctAnswer": 2,
+            "answers": [
+                "應不予理會並繼續發射",
+                "應立即停止發射並予以改善",
+                "應立即要求遭干擾之電臺停止發射並予以改善",
+                "可繼續發射，至主管機關通知後始停止發射並予以改善"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 125,
+            "question": "下列何種業餘電 臺之行為是被禁止的？",
+            "correctAnswer": 1,
+            "answers": [
+                "使用未經指配之頻率及電臺呼號",
+                "使用主管機關核准之密語或密碼通信",
+                "不對其他無線電信號產生干擾",
+                "不傳送不實之信號或信息"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 126,
+            "question": "下列何種業餘電臺行為是被禁止的？",
+            "correctAnswer": 1,
+            "answers": [
+                "從事違法通信或傳送非法信息",
+                "不播放音樂、唱歌、吹口哨，不使用鄙俚、淫邪之語音。影像信號或爭吵之信號",
+                "不作涉及公眾電信業務或從事具有任何營利性質之通信",
+                "不從事廣播或蒐集新聞活動"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 127,
+            "question": "業餘無線電人員操作業餘無線電臺時，下列何種行為是被禁止的？",
+            "correctAnswer": 2,
+            "answers": [
+                "不使用未經指配之電臺呼號",
+                "將電臺租予他人",
+                "不佔用特定業餘無線電頻率",
+                "不對其他無線電信號產生干擾"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 128,
+            "question": "取得業餘無線電臺執照後，未經主管機關核准私自「擴頻」使用，例如核准頻率為 144-146 百萬赫，使用時卻調到 148 百萬赫，此行為屬",
+            "correctAnswer": 1,
+            "answers": [
+                "違反電信管理法相關規定",
+                "合法",
+                "違反刑法",
+                "違反民法"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 129,
+            "question": "業餘電臺於初次建立通信或通信完畢時均應報名呼號，其呼號為",
+            "correctAnswer": 1,
+            "answers": [
+                "主管機關指配之電臺呼號",
+                "使用自取臺號（秘雕、孔鏘、嗶伯 ……）",
+                "007",
+                "長江1號"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 130,
+            "question": "未經主管機關核准，強行佔用特定業餘無線電頻率。例如：某一電臺在頻率上宣稱「這個跑道我們用很久了」以驅趕其他合法使用者，此種行徑",
+            "correctAnswer": 1,
+            "answers": [
+                "屬違法的行為",
+                "屬合法的行為",
+                "很好，佔久了就是我們的",
+                "無所謂，沒人管"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 131,
+            "question": "對其他無線電信號產生干擾。例如干擾其 他使用者而壓空信號、放音樂等",
+            "correctAnswer": 1,
+            "answers": [
+                "屬違法的行為",
+                "屬合法的行為",
+                "很好，佔地為王，捍衛權利",
+                "無所謂，欺過路客，顯示我神通廣大"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 132,
+            "question": "下列何者屬公眾通信？",
+            "correctAnswer": 1,
+            "answers": [
+                "公眾行動電話、行動 寬頻",
+                "航海無線電通信業務",
+                "航空行動通信業務",
+                "27百萬赫市民波段通信"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 133,
+            "question": "我在使用業餘電臺無意中收到公眾通信通話，",
+            "correctAnswer": 1,
+            "answers": [
+                "其內容不可以洩露 、發佈或加以利用",
+                "我可以利用業餘電臺向大眾公佈",
+                "我深以為得到許多信息而覺得偉大",
+                "我可以告訴我的女朋友表示我的神通廣大"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 134,
+            "question": "我在使用業餘無線電臺時",
+            "correctAnswer": 1,
+            "answers": [
+                "禁止未經核准截收非供公眾一般需用之無線電通信",
+                "偷聽別人使用大哥大通信",
+                "利用收聽到之公眾通信內容並告之通信社加以公佈",
+                "把收到之公眾通信據為己用"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 135,
+            "question": "佔用業餘無線電頻率使用在 開店送瓦斯、餐廳點菜、與營業車隊派車調度等都屬",
+            "correctAnswer": 2,
+            "answers": [
+                "合法行為",
+                "違反業餘無線電 人員及電臺 管理辦法行為",
+                "使用無線電不用付費，又不違反",
+                "無所謂"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 136,
+            "question": "某一業餘無線電人員取得業餘無線電臺執照後，未經主管機關許可擅自加大功率，例如將原電臺功率由 25 瓦特增為 50 瓦特，",
+            "correctAnswer": 2,
+            "answers": [
+                "屬合法行為",
+                "屬違法行為",
+                "很好，功率愈大愈好用",
+                "無所謂"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 137,
+            "question": "某地區一固定設置之業餘電臺禮讓路過之業餘無線 行動電臺優先使用並提供協助",
+            "correctAnswer": 1,
+            "answers": [
+                "屬業餘無線電人員禮讓的表現",
+                "不予理會直接加大功率示威",
+                "不值得學習。",
+                "取笑他並繼續使用該頻段"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 138,
+            "question": "將電臺租予他人，係",
+            "correctAnswer": 2,
+            "answers": [
+                "屬合法的行為",
+                "屬違法的行為",
+                "政府管不著",
+                "高興就好"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 139,
+            "question": "公司行號能否申請使用業餘無線電作為業務使用？",
+            "correctAnswer": 2,
+            "answers": [
+                "可",
+                "不可",
+                "不用申請",
+                "買來直接使用即可"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 140,
+            "question": "於業餘無線電播放音樂，係",
+            "correctAnswer": 1,
+            "answers": [
+                "屬違法行為",
+                "屬合法行為",
+                "寬宏大量的行為",
+                "獨樂樂不如眾樂樂"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 141,
+            "question": "違反業餘無線電 人員及電臺管理辦法規定者，應依",
+            "correctAnswer": 1,
+            "answers": [
+                "電信管理法相關規定處罰",
+                "消費者保護法相關規定處罰",
+                "槍砲彈藥刀械許可及管理辦法相關規定處罰",
+                "氣象法相關規定處罰"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 142,
+            "question": "足使資訊傳輸獲得在各類發射所規定條件下之傳輸品質及所需速率之頻帶寬度稱為",
+            "correctAnswer": 1,
+            "answers": [
+                "必需頻帶寬度",
+                "指配頻帶寬度",
+                "佔用頻帶寬度",
+                "民用頻帶寬度"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 143,
+            "question": "以總發射平均功率為中心衰減至低於總發射平均功率至少二十六分貝處，包括發射機容許頻率漂移及杜卜勒頻率漂移之頻率帶域寬度稱為",
+            "correctAnswer": 3,
+            "answers": [
+                "必需頻帶寬度",
+                "指配頻帶寬度",
+                "佔用頻帶寬度",
+                "業餘頻帶寬度"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 144,
+            "question": "載波遏制之程度足以使載波信號回復供解調使用之一種調幅單邊帶發射稱為",
+            "correctAnswer": 1,
+            "answers": [
+                "減載波單邊帶發射",
+                "遏制載波單邊帶發射",
+                "殘邊帶發射",
+                "強載波單邊帶發射"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 145,
+            "question": "載波被實質遏制，於解調時不予使用之一種調幅單邊帶發射稱為",
+            "correctAnswer": 2,
+            "answers": [
+                "減載波單邊帶發射",
+                "遏制載波單邊帶發射",
+                "殘邊帶發射",
+                "強載波單邊帶發射"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 146,
+            "question": "電視影像信號以",
+            "correctAnswer": 3,
+            "answers": [
+                "減載波單邊帶發射",
+                "遏制載波單邊帶發射",
+                "殘邊帶發射",
+                "強載波單邊帶發射"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 147,
+            "question": "由發射機輸出傳送到天線之功率及其天線與半波偶極天線相對增益之乘積稱為",
+            "correctAnswer": 2,
+            "answers": [
+                "輸出功率（output power）",
+                "有效輻射功率（ERP）",
+                "有效全向輻射功率（EIRP）",
+                "輸入功率"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 148,
+            "question": "發射或接收做為觀測電波傳播及其他相關實驗活動信號之業餘電臺稱為",
+            "correctAnswer": 1,
+            "answers": [
+                "示標電臺",
+                "實驗電臺",
+                "中繼電臺",
+                "遙測電臺"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 149,
+            "question": "利用業餘無線電傳送遠端觀測實驗信號之業餘電臺稱為",
+            "correctAnswer": 4,
+            "answers": [
+                "示標電臺",
+                "實驗電臺",
+                "中繼電臺",
+                "遙測電臺"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 150,
+            "question": "自動轉發其他電臺信號之業餘電臺稱為",
+            "correctAnswer": 3,
+            "answers": [
+                "示標電臺",
+                "實驗電臺",
+                "中繼電臺",
+                "遙測電臺"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 151,
+            "question": "設置於超過地面五十公里之業餘電臺稱為",
+            "correctAnswer": 1,
+            "answers": [
+                "太空電臺",
+                "地球電臺",
+                "中繼電臺",
+                "遙測電臺"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 152,
+            "question": "設置於離地面五十公里以內，擬與太空電臺或經由其他一或數具太空上之載具與其他地球電臺通信之業餘電臺稱為",
+            "correctAnswer": 2,
+            "answers": [
+                "太空電臺",
+                "地球電臺",
+                "中繼電臺",
+                "遙測電臺"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 153,
+            "question": "經由控制鏈路間接遙控控制之業餘電臺稱為",
+            "correctAnswer": 3,
+            "answers": [
+                "太空電臺",
+                "地球電臺",
+                "遙控電臺",
+                "遙測電臺"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 154,
+            "question": "傳送無線電信號以資指揮太空電臺之起動、修正或停止作業功能之業餘電臺稱為",
+            "correctAnswer": 4,
+            "answers": [
+                "太空電臺",
+                "地球電臺",
+                "遙控電臺",
+                "指揮電臺"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 155,
+            "question": "為符合無線電規章之規定，控制員在電臺內直接調校、控制無線電通信作業，稱為",
+            "correctAnswer": 3,
+            "answers": [
+                "自動控制",
+                "離線控制",
+                "即席控制",
+                "遙控控制"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 156,
+            "question": "為符合無線電規章之規定，控制員經由控制鏈路間接調校、控制業餘無線電通信作業，稱為",
+            "correctAnswer": 4,
+            "answers": [
+                "自動控制",
+                "離線控制",
+                "即席控制",
+                "遙控控制"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 157,
+            "question": "為符合無線電規章之規定，在無人操作之控制點上，自動控制該電臺之傳送所使用之設備及程序，稱為",
+            "correctAnswer": 1,
+            "answers": [
+                "自動控制",
+                "離線控制",
+                "即席控制",
+                "遙控控制"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 158,
+            "question": "第三者通信 指業餘電臺之控制員為他人傳送信息予何人之通信",
+            "correctAnswer": 2,
+            "answers": [
+                "另一非業餘無線電人員",
+                "另一業餘電臺控制員",
+                "公眾通信",
+                "任何其他人員"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 159,
+            "question": "業餘無線電 團體設置示標電臺、中繼電臺、地球電臺、太空電臺、遙控電臺、遙測電臺或指揮電臺等特殊業餘電臺時應向",
+            "correctAnswer": 3,
+            "answers": [
+                "當地業餘無線電團體申請",
+                "當地公路監理站申請",
+                "主管機關申請",
+                "內政部申請"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 160,
+            "question": "業餘無線電臺執照即將屆期時，",
+            "correctAnswer": 3,
+            "answers": [
+                "若要繼續使用，應於有效期屆滿前辦理換照",
+                "若已不想操作，應逕向主管機關申請電機封存或監燬",
+                "以上皆是",
+                "不予理會，持續使用"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 161,
+            "question": "個人進口或自製業餘無線電機僅供自用者，應向主管機關申請審驗合格",
+            "correctAnswer": 3,
+            "answers": [
+                "即可使用",
+                "並取得型式認證證明後始得使用",
+                "並取得電臺執照後始得使用",
+                "並取得廣播執照後始得使用"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 162,
+            "question": "自動控制電臺僅能傳送多少百萬赫之無線打字或數據通信？",
+            "correctAnswer": 4,
+            "answers": [
+                "10 百萬赫",
+                "20 百萬赫",
+                "30 百萬赫",
+                "超過50 百萬赫"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 163,
+            "question": "廠商應依電信管理法相關規定向何單位申請許可或備查 ，始得產銷業餘無線電機？",
+            "correctAnswer": 1,
+            "answers": [
+                "主管機關",
+                "標檢局",
+                "刑事警察局",
+                "經濟部"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 164,
+            "question": "業餘無線電人員取得較高等級之 測試及格 ，原設置之業餘電臺得申請改配呼號。其呼號一經改配，原呼號該電臺",
+            "correctAnswer": 1,
+            "answers": [
+                "不得再使用",
+                "可併同使用到大家都認識我的新呼號為止",
+                "可再使用至執照到期日",
+                "可永久使用"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 165,
+            "question": "業餘無線電人員經主管機關核發較高等級之業餘無線電人員執照時，原執照效力為何？",
+            "correctAnswer": 1,
+            "answers": [
+                "原執照失其效力",
+                "原執照有效",
+                "有效。可同時持有一張以上業餘無線電人員執照",
+                "原執照效期 未過仍有效"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 166,
+            "question": "業餘無線電人員設置業餘電臺，除以下電臺外，應申請電臺設置核准，經審驗合格，取得電臺執照，始得使用？",
+            "correctAnswer": 4,
+            "answers": [
+                "固定式業餘電臺",
+                "行動式業餘電臺",
+                "特殊業餘電臺",
+                "臨時電臺"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 167,
+            "question": "電臺審驗不合格者，得於電臺設置核准有效期間內申請複驗，並以幾次為限？",
+            "correctAnswer": 2,
+            "answers": [
+                "無限次數",
+                "一次",
+                "二次",
+                "三次"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 168,
+            "question": "以下何者非業餘無線電人員及電臺管理辦法規定之特殊業餘電臺？",
+            "correctAnswer": 3,
+            "answers": [
+                "示標電臺",
+                "中繼電臺",
+                "臨時電臺",
+                "太空電臺"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 169,
+            "question": "申請設置特殊業餘電臺應檢具以下那些文件，經全國性業餘無線電團體向主管機關申請核准？",
+            "correctAnswer": 4,
+            "answers": [
+                "固定式業餘電臺設置申請書",
+                "特殊業餘電臺計畫書",
+                "行動式業餘電臺執照申請書",
+                "特殊業餘電臺及呼號指配申請書與設置使用管理計畫書"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 170,
+            "question": "業餘無線電人員設置設置使用臨時電臺，其使用期間為何？",
+            "correctAnswer": 3,
+            "answers": [
+                "無時間限制",
+                "一年",
+                "六個月為限",
+                "以上皆非"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 171,
+            "question": "業餘電臺執照有效期間為何？業餘電臺所屬者應於電臺執照有效期間屆滿前多久向主管機關申請換照？",
+            "correctAnswer": 4,
+            "answers": [
+                "十年；一個月內",
+                "五年；一個月內",
+                "十年；五個月內",
+                "十年；六個月起五個月內"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 172,
+            "question": "業餘電臺之業餘無線電機之輸出功率及工作頻 段應符合以下法令之規定？",
+            "correctAnswer": 2,
+            "answers": [
+                "業餘無線電 人員及電臺 管理辦法",
+                "業餘無線 射頻電機技術規範",
+                "無線電頻率使用 管理辦法",
+                "以上皆非"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 173,
+            "question": "業餘電臺之業餘無線電機之頻率容許差度及混附發射應符合以下法令之規定？",
+            "correctAnswer": 3,
+            "answers": [
+                "業餘無線電 人員及電臺 管理辦法",
+                "業餘無線 射頻電機技術規範",
+                "無線電頻率使用 管理辦法",
+                "以上皆非"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 174,
+            "question": "業餘電臺增設或變更外接射頻功率放大器或套件時，所屬者應向誰申請，經審驗合格，換發電臺執照，始得使用？",
+            "correctAnswer": 4,
+            "answers": [
+                "經濟部",
+                "內政部",
+                "當地業餘無線電團體",
+                "主管機關"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 175,
+            "question": "業餘電臺之外接射頻功率放大器或套件，應符合下列何種之規定？",
+            "correctAnswer": 2,
+            "answers": [
+                "業餘無線電 人員及電臺 管理辦法",
+                "業餘無線 射頻電機技術規範",
+                "無線電頻率使用 管理辦法",
+                "以上皆非"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 176,
+            "question": "業餘無線電人員利用業餘電臺傳送無線打字或數據時，應使用下列規定之數據碼操作模式？",
+            "correctAnswer": 4,
+            "answers": [
+                "BAUDOT 碼",
+                "AMTOR 碼",
+                "ASCII 碼",
+                "以上皆是"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 177,
+            "question": "以下何者始能申請及從事展頻通信實驗？",
+            "correctAnswer": 1,
+            "answers": [
+                "限一等或二等業餘無線電人員",
+                "三等業餘無線電人員",
+                "一般人即可",
+                "以上皆非"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 178,
+            "question": "供展頻通信實驗之發射機輸出功率及工作頻率應為何？",
+            "correctAnswer": 2,
+            "answers": [
+                "輸出功率大於一百瓦特；工作頻率四三○百萬赫以上",
+                "輸出功率不得大於一百瓦特；工作頻率四三○百萬赫以上",
+                "輸出功率小於一百瓦特；工作頻率四三○百萬赫以下",
+                "以上皆非"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 179,
+            "question": "展頻通信實驗應做成紀錄，並應保存幾年？",
+            "correctAnswer": 1,
+            "answers": [
+                "一年",
+                "二年",
+                "三年",
+                "四年"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 180,
+            "question": "為業餘無線電作業之推廣或教育活動目的，業餘無線電團體或一等、二等業餘無線電人員，經向誰申請核准後，得於活動現場，在其監督及指導下，提供業餘電臺或臨時電臺供非業餘無線電人員操作？",
+            "correctAnswer": 4,
+            "answers": [
+                "經濟部",
+                "內政部",
+                "當地業餘無線電團體",
+                "主管機關"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 181,
+            "question": "業餘無線電人員操作業餘電臺，使用業餘無線電次要業務之頻段時，應遵守什麼規定？",
+            "correctAnswer": 4,
+            "answers": [
+                "不得干擾主要業務",
+                "須忍受合法通信之妨害性干擾",
+                "不應對業經指配之主要業務電臺產生妨害性干擾",
+                "以上皆是"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 182,
+            "question": "頻率容許差度，在正常供應電壓下，溫度在幾℃間變化？",
+            "correctAnswer": 2,
+            "answers": [
+                "-15℃至55℃",
+                "-10℃至50℃",
+                "-5℃至50℃",
+                "-15℃至50℃"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 183,
+            "question": "工作頻率小於 30 百萬赫者，電臺發射器或外接功率放大器之混附發射平均功率（ mean power ）至少應低於主波平均功率多少  dB？",
+            "correctAnswer": 4,
+            "answers": [
+                "40 dB",
+                "38 dB",
+                "45 dB",
+                "43 dB"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 184,
+            "question": "工作頻率為 17.7 吉赫以上者，混附發射依以下法令規定？",
+            "correctAnswer": 3,
+            "answers": [
+                "業餘無線電 人員及電臺 管理辦法",
+                "業餘無線 射頻電機技術規範",
+                "無線電頻率使用 管理辦法",
+                "以上皆非"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 185,
+            "question": "一等業餘無線 射頻電機， 50 百萬赫 ~50.15 百萬赫頻段，輸出功率限幾瓦？",
+            "correctAnswer": 1,
+            "answers": [
+                "400 瓦特以下",
+                "300 瓦特以下",
+                "200 瓦特以下",
+                "100 瓦特以下"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 186,
+            "question": "一等業餘無線 射頻電機， 430 百萬赫 ~440 百萬赫頻段，輸出功率限幾瓦？",
+            "correctAnswer": 4,
+            "answers": [
+                "400 瓦特以下",
+                "300 瓦特以下",
+                "200 瓦特以下",
+                "100 瓦特以下"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 187,
+            "question": "二等業餘無線 射頻電機， 50 百萬赫 ~50.15 百萬赫頻段，輸出功率限幾瓦？",
+            "correctAnswer": 3,
+            "answers": [
+                "400 瓦特以下",
+                "300 瓦特以下",
+                "200 瓦特以下",
+                "100 瓦特以下"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 188,
+            "question": "二等業餘無線 射頻電機， 430 百萬赫 ~440 百萬赫頻段，輸出功率限幾瓦？",
+            "correctAnswer": 1,
+            "answers": [
+                "50 瓦特以下",
+                "100 瓦特以下",
+                "200 瓦特以下",
+                "10 瓦特以下"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 189,
+            "question": "三等業餘無線 射頻電機， 50 百萬赫 ~50.15 百萬赫頻段，輸出功率限幾瓦？",
+            "correctAnswer": 2,
+            "answers": [
+                "50 瓦特以下",
+                "25 瓦特以下",
+                "10 瓦特以下",
+                "2 瓦特以下"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 190,
+            "question": "三等業餘無線 射頻電機， 430 百萬赫 ~440 百萬赫頻段，輸出功率限幾瓦？",
+            "correctAnswer": 2,
+            "answers": [
+                "50 瓦特以下",
+                "25 瓦特以下",
+                "10 瓦特以下",
+                "2 瓦特以下"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 191,
+            "question": "查驗外接射頻功率放大器時，應以多少瓦以上之平均射頻輸入功率驅動至其輸出功率（設計功率）達到飽和功率？",
+            "correctAnswer": 3,
+            "answers": [
+                "150 瓦特",
+                "100 瓦特",
+                "50 瓦特",
+                "以上皆非"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 192,
+            "question": "頻率容許差度在 20℃下，供應電壓在額定值之± 15％內變化時，工作頻率為 VHF 或 UHF 者，其規定為何？",
+            "correctAnswer": 1,
+            "answers": [
+                "限±5ppm內",
+                "限±4ppm內",
+                "限±3ppm內",
+                "限±2ppm內"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 193,
+            "question": "業餘無線電人員操作業餘電臺時，以下行為是被禁止的？",
+            "correctAnswer": 4,
+            "answers": [
+                "不對其他無線電信號產生干擾",
+                "不傳送不實之信號或信息",
+                "不將電臺租予他人使用",
+                "於遙控無人機利用業餘電臺傳送信號或信息"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 194,
+            "question": "非本國籍業餘無線電人員於中華民國領域內短期操作業餘電臺，經核准之作業期間規定為何？",
+            "correctAnswer": 3,
+            "answers": [
+                "無時間限制",
+                "一年",
+                "六個月為限",
+                "以上皆非"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 195,
+            "question": "自動控制作業之業餘電臺傳送無線打字或數據通信之頻率規定為何？",
+            "correctAnswer": 1,
+            "answers": [
+                "50 百萬赫 以上",
+                "50 百萬赫 以下",
+                "40 百萬赫 以上",
+                "以上皆非"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 196,
+            "question": "業餘電臺至少應有一個控制點，其傳送信息或信號時，除什麼作業外，控制員應在其中一個控制點上作業？",
+            "correctAnswer": 3,
+            "answers": [
+                "即席控制作業",
+                "遙控控制作業",
+                "自動控制作業",
+                "以上皆非"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 197,
+            "question": "特殊業餘電臺設置者應於接獲誰之通知之日起，記錄及保存通信紀錄，並依誰之要求方式提供之？",
+            "correctAnswer": 4,
+            "answers": [
+                "經濟部",
+                "內政部",
+                "當地業餘無線電團體",
+                "主管機關"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 198,
+            "question": "業餘電臺拆除外接射頻功率放大器或套件時，所屬者應依以下法令規定辦理，並應向主管機關申請換發電臺執照？",
+            "correctAnswer": 2,
+            "answers": [
+                "業餘無線電 人員及電臺 管理辦法",
+                "電信管制射頻器材製造輸入及申報作業 管理辦法",
+                "業餘無線 射頻電機技術規範",
+                "以上皆非"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 199,
+            "question": "申請設置特殊業餘電臺所檢具設置使用管理計畫書應載明以下那些共同事項？",
+            "correctAnswer": 4,
+            "answers": [
+                "電臺控制作業之運作方式及架構",
+                "業餘無線電機具發射或兼具收發功能",
+                "通信紀錄之保存方式及保存期間等規劃",
+                "以上皆是"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 200,
+            "question": "申請固定式業餘電臺執照，其電臺審驗不合格者，得於 電臺設置核准有效期間內申請複驗，並以幾次為限？",
+            "correctAnswer": 2,
+            "answers": [
+                "無次數限制",
+                "一次",
+                "二次",
+                "三次"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 201,
+            "question": "收發信機之接收機，其不必要發射應符合以下法令之規定？",
+            "correctAnswer": 2,
+            "answers": [
+                "業餘無線電人員及電臺管理辦法",
+                "低功率射頻 器材技術規範",
+                "電信管制射頻器材製造輸入及申報作業 管理辦法",
+                "以上皆非"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 202,
+            "question": "非本國籍業餘無線電人員經主管機關核准於中華民國領域內短期操作業餘電臺者，其臨時電臺呼號之第三字元使用為何？",
+            "correctAnswer": 3,
+            "answers": [
+                "阿拉伯數字",
+                "英文字母",
+                "斜線",
+                "以上皆非"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 203,
+            "question": "臨時電臺之呼號組合，若申設目的涉及紀念性質，其呼號組合亦得不受第三字元使用之限制。但以第三及第四字元使用為何？",
+            "correctAnswer": 1,
+            "answers": [
+                "均使用阿拉伯數字為限",
+                "均使用英文字母為限",
+                "第三字元使用阿拉伯數字；第四字元使用英文字母",
+                "以上皆非"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 204,
+            "question": "呼叫及緊急救難頻率規定為何，任何電臺不得停留佔用及干擾？",
+            "correctAnswer": 1,
+            "answers": [
+                "145百萬赫及 433百萬赫",
+                "145百萬赫及 431百萬赫",
+                "144百萬赫及 432百萬赫",
+                "以上皆非"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 205,
+            "question": "一、二等業餘無線電機， 135.7 千赫～ 137.8 千赫頻段， 輸出功率限幾瓦特？",
+            "correctAnswer": 3,
+            "answers": [
+                "400 瓦特以下",
+                "200 瓦特以下",
+                "1 瓦特（EIRP）以下",
+                "以上皆非"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 206,
+            "question": "設備調變頻率發射之最大允許頻率偏差，頻道間隔為 12.5 千赫者，調變信號之頻率偏差值為何？",
+            "correctAnswer": 2,
+            "answers": [
+                "須介於± 2.0 千赫",
+                "須介於± 2.5 千赫",
+                "須介於± 3.0 千赫",
+                "以上皆非"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 207,
+            "question": "設備調變頻率發射之最大允許頻率偏差，頻道間隔為 20.0 千赫者，調變信號之頻率偏差值為何？",
+            "correctAnswer": 3,
+            "answers": [
+                "須介於± 3.0 千赫",
+                "須介於± 3.5 千赫",
+                "須介於± 4.0 千赫",
+                "以上皆非"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 208,
+            "question": "設備調變頻率發射之最大允許頻率偏差，頻道間隔為 25.0 千赫者，調變信號之頻率偏差值為何？",
+            "correctAnswer": 3,
+            "answers": [
+                "須介於± 4.0 千赫",
+                "須介於± 4.5 千赫",
+                "須介於± 5.0 千赫",
+                "以上皆非"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 209,
+            "question": "工作頻率為 30 百萬赫～ 235 百萬赫者，混附發射之平均功率至少應低於主波平均功率 60dB，且不超過幾瓦特？",
+            "correctAnswer": 1,
+            "answers": [
+                "1 毫瓦特",
+                "2 毫瓦特",
+                "3 毫瓦特",
+                "以上皆非"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 210,
+            "question": "工作頻率為 235 百萬赫 ~960 百萬赫者，混附發射之平均功率至少應低於主波平均功率 60dB，且不超過幾瓦特？",
+            "correctAnswer": 3,
+            "answers": [
+                "10 毫瓦特",
+                "15 毫瓦特",
+                "20 毫瓦特",
+                "以上皆非"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 211,
+            "question": "工作頻率為 960 百萬赫 ~17.7 吉赫者，混附發射之平均功率至少應低於主波平均功率 50dB，且不超過幾瓦特？",
+            "correctAnswer": 2,
+            "answers": [
+                "50 毫瓦特",
+                "100 毫瓦特",
+                "150 毫瓦特",
+                "以上皆非"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 212,
+            "question": "非本國籍業餘無線電團體或人員於中華民國領域內短期操作業餘電臺，單次入境者，主管機關以核准幾次為限？",
+            "correctAnswer": 2,
+            "answers": [
+                "無次數限制",
+                "一次",
+                "二次",
+                "以上皆非"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 213,
+            "question": "無法於固定式 業餘電臺 設置核准 有效期間內完成 電臺設置者，得於期間屆滿前二個月起一個月內敘明理由， 向主管機關 申請展期，展期期間為幾個月，並以一次為限 ？",
+            "correctAnswer": 3,
+            "answers": [
+                "二個月",
+                "四個月",
+                "六個月",
+                "八個月"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        }
+    ]
+}
