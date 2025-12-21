@@ -58,6 +58,8 @@
             :question="store.currentQuestion"
             :is-flipped="store.isFlipped"
             @flip="store.flipCard"
+            @prev="store.prevQuestion"
+            @next="store.nextQuestion"
           />
         </div>
 

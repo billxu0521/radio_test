@@ -2,7 +2,9 @@
   <div
     class="w-full max-w-2xl cursor-pointer perspective-1000"
     :style="{ minHeight: cardHeight + 'px' }"
-    @click="$emit('flip')"
+    @click="handleClick"
+    @touchstart="swipe.onTouchStart"
+    @touchend="handleTouchEnd"
   >
     <div
       class="flip-card-inner relative w-full"
@@ -25,6 +27,7 @@
 import { computed } from 'vue'
 import QuestionCard from './QuestionCard.vue'
 import AnswerCard from './AnswerCard.vue'
+import { useSwipe } from '@/composables/useSwipe'
 import type { Question } from '@/types'
 
 const props = defineProps<{
@@ -32,9 +35,29 @@ const props = defineProps<{
   isFlipped: boolean
 }>()
 
-defineEmits<{
+const emit = defineEmits<{
   flip: []
+  prev: []
+  next: []
 }>()
+
+// 滑動控制
+const swipe = useSwipe(
+  () => emit('next'),  // 左滑 = 下一題
+  () => emit('prev')   // 右滑 = 上一題
+)
+
+// 處理點擊：滑動時不觸發翻轉
+const handleClick = () => {
+  if (!swipe.isSwiping.value) {
+    emit('flip')
+  }
+}
+
+// 處理觸控結束
+const handleTouchEnd = (e: TouchEvent) => {
+  swipe.onTouchEnd(e)
+}
 
 // 根據題目和選項長度動態計算卡片高度
 const cardHeight = computed(() => {
@@ -42,8 +65,8 @@ const cardHeight = computed(() => {
   const answersLength = props.question.answers.reduce((sum, a) => sum + a.length, 0)
   const totalLength = questionLength + answersLength
 
-  // 基本高度 350px，根據文字長度增加
-  // 每 100 字增加約 50px
+  // 基本高度 500px，根據文字長度增加
+  // 每 100 字增加約 40px
   const baseHeight = 500
   const extraHeight = Math.ceil(totalLength / 100) * 40
 
