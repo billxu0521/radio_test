@@ -6,7 +6,7 @@
         台灣無線電題庫
         <span class="block sm:inline text-blue-600">記憶卡片</span>
       </h1>
-      <p class="text-xs text-gray-500 text-center tracking-wide uppercase">Practice Tool</p>
+      <p class="text-xs text-gray-500 text-center tracking-wide uppercase">本工具僅供練習使用</p>
       <!-- 等級選擇器 -->
       <ClassSelector />
 
