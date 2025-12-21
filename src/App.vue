@@ -1,9 +1,12 @@
 <template>
-  <div class="min-h-screen bg-gradient-to-br from-blue-50 to-indigo-100 py-8 px-4">
+  <div class="min-h-screen bg-gray-50 text-gray-900 py-6 px-4 sm:py-8">
     <div class="max-w-4xl mx-auto space-y-6">
       <!-- 標題 -->
-      <h1 class="text-3xl font-bold text-center text-gray-800">台灣無線電題庫記憶卡片工具</h1>
-      <p class="text-xs text-gray-400 text-center ">本工具僅供練習使用</p>
+      <h1 class="text-2xl sm:text-3xl font-bold text-center tracking-tight text-gray-900">
+        台灣無線電題庫
+        <span class="block sm:inline text-blue-600">記憶卡片</span>
+      </h1>
+      <p class="text-xs text-gray-500 text-center tracking-wide uppercase">Practice Tool</p>
       <!-- 等級選擇器 -->
       <ClassSelector />
 
@@ -25,23 +28,26 @@
       <!-- 閃卡區域 -->
       <template v-else-if="store.currentQuestion">
         <!-- 進度條與跳轉 -->
-        <div class="flex items-center justify-center gap-4">
+        <div class="flex flex-col gap-4">
           <ProgressBar :current="store.progress.current" :total="store.progress.total" />
-          <div class="flex items-center gap-2">
+          
+          <div class="flex items-center justify-between sm:justify-end gap-2 bg-white p-2 rounded-lg border border-gray-100 shadow-sm">
+            <span class="text-sm text-gray-500 pl-2">跳至題號</span>
             <input
               v-model.number="jumpToNumber"
               type="number"
+              inputmode="numeric"
               min="1"
               :max="store.totalQuestions"
               placeholder="題號"
-              class="w-20 px-2 py-1 border border-gray-300 rounded text-center"
+              class="w-20 px-3 py-2 border border-gray-300 rounded-lg text-center text-base"
               @keyup.enter="handleJump"
             />
             <button
               @click="handleJump"
-              class="px-3 py-1 bg-indigo-600 text-white rounded hover:bg-indigo-700 transition-colors cursor-pointer text-sm"
+              class="px-4 py-2 bg-gray-900 text-white rounded-md hover:bg-gray-800 transition-colors cursor-pointer text-sm font-medium"
             >
-              跳轉
+              GO
             </button>
           </div>
         </div>
@@ -56,25 +62,27 @@
         </div>
 
         <!-- 導航按鈕 -->
-        <div class="flex justify-center gap-4">
+        <div class="grid grid-cols-2 gap-4">
           <button
             @click="store.prevQuestion"
             :disabled="store.currentIndex === 0"
-            class="px-6 py-2 bg-gray-600 text-white rounded-lg disabled:opacity-50 disabled:cursor-not-allowed hover:bg-gray-700 transition-colors cursor-pointer"
+            class="px-4 py-4 bg-white border border-gray-200 text-gray-700 rounded-xl shadow-sm disabled:opacity-50 disabled:cursor-not-allowed hover:bg-gray-50 active:scale-95 transition-all cursor-pointer font-medium flex items-center justify-center gap-2"
           >
             ← 上一題
           </button>
           <button
             @click="store.nextQuestion"
             :disabled="store.currentIndex >= store.totalQuestions - 1"
-            class="px-6 py-2 bg-blue-600 text-white rounded-lg disabled:opacity-50 disabled:cursor-not-allowed hover:bg-blue-700 transition-colors cursor-pointer"
+            class="px-4 py-4 bg-blue-600 text-white rounded-xl shadow-lg shadow-blue-200 disabled:opacity-50 disabled:cursor-not-allowed hover:bg-blue-700 active:scale-95 transition-all cursor-pointer font-medium flex items-center justify-center gap-2"
           >
             下一題 →
           </button>
         </div>
 
         <!-- 鍵盤提示 -->
-        <KeyboardHint />
+        <div class="hidden sm:block">
+          <KeyboardHint />
+        </div>
       </template>
 
       <!-- 選擇題庫提示 -->
@@ -106,7 +114,19 @@
           款規定，「依法令舉行之各類考試試題及其備用試題」不得為著作權之標的。
         </p>
       </div>
-      
+      <div class="text-xs text-gray-400 pt-2 border-t border-gray-200">
+        <p>
+          本專案：
+          <a
+            href="https://github.com/billxu0521/radio_test"
+            target="_blank"
+            class="text-indigo-600 hover:underline"
+          >
+            github.com/billxu0521/radio_test
+          </a>
+        </p>
+        <p class="mt-1">作者：ChihFan</p>
+      </div>
     </footer>
   </div>
 </template>

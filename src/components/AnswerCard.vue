@@ -1,9 +1,9 @@
 <template>
   <div
-    class="h-full bg-gradient-to-br from-green-50 to-emerald-100 rounded-2xl shadow-xl p-6 flex flex-col"
+    class="h-full bg-white rounded-2xl shadow-xl border-2 border-green-500 p-6 flex flex-col"
   >
     <!-- 標題 -->
-    <div class="text-lg font-semibold text-green-700 mb-4 text-center">正確答案</div>
+    <div class="text-lg font-bold text-green-700 mb-4 text-center tracking-wide">CORRECT ANSWER</div>
 
     <!-- 答案選項（標示正確） -->
     <div class="flex-1 space-y-3 overflow-y-auto">

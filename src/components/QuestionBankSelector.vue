@@ -1,18 +1,15 @@
 <template>
-  <div class="flex flex-wrap gap-2 justify-center">
-    <button
-      v-for="bank in banks"
-      :key="bank.id"
-      @click="$emit('select', bank.id)"
-      class="px-4 py-2 rounded-full text-sm font-medium transition-all cursor-pointer"
-      :class="
-        bank.id === selectedId
-          ? 'bg-blue-600 text-white shadow-lg'
-          : 'bg-gray-200 text-gray-700 hover:bg-gray-300'
-      "
+  <div class="flex justify-center">
+    <select
+      :value="selectedId || ''"
+      @change="handleChange"
+      class="px-4 py-2 rounded-lg border border-gray-300 bg-white text-gray-700 font-medium cursor-pointer focus:outline-none focus:ring-2 focus:ring-blue-500 focus:border-blue-500 min-w-[200px]"
     >
-      {{ bank.title }} ({{ bank.count }})
-    </button>
+      <option value="" disabled>請選擇題庫</option>
+      <option v-for="bank in banks" :key="bank.id" :value="bank.id">
+        {{ bank.title }} ({{ bank.count }}題)
+      </option>
+    </select>
   </div>
 </template>
 
@@ -24,7 +21,14 @@ defineProps<{
   selectedId: string | null
 }>()
 
-defineEmits<{
+const emit = defineEmits<{
   select: [id: string]
 }>()
+
+const handleChange = (event: Event) => {
+  const target = event.target as HTMLSelectElement
+  if (target.value) {
+    emit('select', target.value)
+  }
+}
 </script>

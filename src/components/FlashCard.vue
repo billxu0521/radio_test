@@ -1,6 +1,6 @@
 <template>
   <div
-    class="w-full max-w-2xl h-[28rem] cursor-pointer perspective-1000"
+    class="w-full max-w-2xl h-[60vh] min-h-[400px] max-h-[600px] cursor-pointer perspective-1000"
     @click="$emit('flip')"
   >
     <div
