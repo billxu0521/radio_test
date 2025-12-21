@@ -1,11 +1,13 @@
 <template>
   <div
-    class="w-full max-w-2xl h-[60vh] min-h-[400px] max-h-[600px] cursor-pointer perspective-1000"
+    class="w-full max-w-2xl cursor-pointer perspective-1000"
+    :style="{ minHeight: cardHeight + 'px' }"
     @click="$emit('flip')"
   >
     <div
-      class="flip-card-inner relative w-full h-full"
+      class="flip-card-inner relative w-full"
       :class="{ flipped: isFlipped }"
+      :style="{ height: cardHeight + 'px' }"
     >
       <!-- 正面 -->
       <div class="absolute w-full h-full backface-hidden">
@@ -20,11 +22,12 @@
 </template>
 
 <script setup lang="ts">
+import { computed } from 'vue'
 import QuestionCard from './QuestionCard.vue'
 import AnswerCard from './AnswerCard.vue'
 import type { Question } from '@/types'
 
-defineProps<{
+const props = defineProps<{
   question: Question
   isFlipped: boolean
 }>()
@@ -32,4 +35,18 @@ defineProps<{
 defineEmits<{
   flip: []
 }>()
+
+// 根據題目和選項長度動態計算卡片高度
+const cardHeight = computed(() => {
+  const questionLength = props.question.question.length
+  const answersLength = props.question.answers.reduce((sum, a) => sum + a.length, 0)
+  const totalLength = questionLength + answersLength
+
+  // 基本高度 350px，根據文字長度增加
+  // 每 100 字增加約 50px
+  const baseHeight = 600
+  const extraHeight = Math.ceil(totalLength / 100) * 40
+
+  return Math.max(baseHeight, baseHeight + extraHeight)
+})
 </script>
