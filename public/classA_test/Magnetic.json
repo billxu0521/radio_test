@@ -1,0 +1,538 @@
+{
+    "title": "電磁相容性技術題庫",
+    "questions": [
+        {
+            "questionNumber": 1,
+            "question": "何為集膚效應 (skin effect) ？",
+            "correctAnswer": 1,
+            "answers": [
+                "當RF 頻率增加， RF電流越集中在導體的表面",
+                "當RF 頻率減少， RF電流越集中在導體的表面",
+                "熱能效應導致導體的阻抗增加",
+                "熱能效應導致導體的阻抗減少"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 2,
+            "question": "為什麼在 VHF 或更高頻的電路中，使用的元件的引線要盡可能短？",
+            "correctAnswer": 2,
+            "answers": [
+                "為了要增加熱傳導的時間常數",
+                "為了減少不必要的感抗",
+                "為了延長元件壽命",
+                "以上皆是"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 3,
+            "question": "何為微波線 (Microstrip) ？",
+            "correctAnswer": 4,
+            "answers": [
+                "由並排導線所組成的輕量傳輸線",
+                "使用於低功耗應用的微型同軸線",
+                "在微波電路中，為了減低時間延遲而焊接在印刷電路板上的短同軸線",
+                "接地層 (ground plane) 上方的精密印刷導體，提供固定阻抗連接微波頻率"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 4,
+            "question": "為何在微波頻率裡的連接線需要盡量短？",
+            "correctAnswer": 2,
+            "answers": [
+                "可增加抵銷 (neturalizing) 阻抗",
+                "可以減少沿著連接線的相位移",
+                "因為地面反射效應",
+                "為了減少雜訊係數"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 5,
+            "question": "哪個寄生的(parasitic) 特性隨著導體長度而增加？",
+            "correctAnswer": 1,
+            "answers": [
+                "感抗",
+                "導磁性",
+                "介電常數",
+                "展延性"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 6,
+            "question": "磁場方向與其導體中的電流方向呈何種關係？",
+            "correctAnswer": 4,
+            "answers": [
+                "跟電流同方向",
+                "跟電流反方向",
+                "所有方向都有",
+                "以「左手定律」所決定的方向"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 7,
+            "question": "什麼決定了在導體周圍的磁場強度？",
+            "correctAnswer": 4,
+            "answers": [
+                "阻抗除以電流",
+                "電流對阻抗的比率",
+                "導體的直徑",
+                "流經導體的電流量"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 8,
+            "question": "什麼樣的能量儲存在電磁場或靜電場中？",
+            "correctAnswer": 2,
+            "answers": [
+                "機械能",
+                "電位能",
+                "熱動能",
+                "動能"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 9,
+            "question": "如果電路使用理想的電感、電容，則交流電路的無功 (reactive) 功率會發生什麼情形？",
+            "correctAnswer": 2,
+            "answers": [
+                "在電路中會產生熱",
+                "能量會不斷地在電場、磁場中交換，但不會損耗",
+                "會如動能般損耗在電路中",
+                "能量會在電感性、電容性組成的場域中損耗"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 10,
+            "question": "若交流電路中的電壓、電流不同相位時，如何計算真實功率？",
+            "correctAnswer": 1,
+            "answers": [
+                "視在功率乘以功率因數",
+                "無功(虛)功率除以功率因數",
+                "視在功率除以功率因數",
+                "無功(虛)功率乘以功率因數"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 11,
+            "question": "在 R-L 電路中，電壓與電流的相角為 60 度時，功率因數為何？",
+            "correctAnswer": 3,
+            "answers": [
+                "1.414",
+                "0.866",
+                "0.5",
+                "1.73"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 12,
+            "question": "如果輸入電壓 100VAC ，4 安培，功率因數為 0.2 時，消耗多少功率？",
+            "correctAnswer": 2,
+            "answers": [
+                "400  瓦特",
+                "80  瓦特",
+                "2000  瓦特",
+                "50  瓦特"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 13,
+            "question": "某個電路由 100 歐姆的電阻串接一個理想的 100 歐姆感抗所組成，當 1 安培直流電通過這個串接的電路時，這電路消耗多少功率？",
+            "correctAnswer": 2,
+            "answers": [
+                "70.7  瓦特",
+                "100  瓦特",
+                "141.4  瓦特",
+                "200  瓦特"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 14,
+            "question": "什麼是無功 (虛)功率？",
+            "correctAnswer": 1,
+            "answers": [
+                "沒有瓦特數、無法產生功率",
+                "消耗在電感線中阻抗的功率",
+                "因為電容所洩漏的功率損失",
+                "電路Q值所消耗的功率"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 15,
+            "question": "在 R-L 電路中，電壓與電流的相角為 45 度時，功率因數為何？",
+            "correctAnswer": 4,
+            "answers": [
+                "0.866",
+                "1.0",
+                "0.5",
+                "0.707"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 16,
+            "question": "在 R-L 電路中，電壓與電流的相角為 30 度時，功率因數為何 ？",
+            "correctAnswer": 3,
+            "answers": [
+                "1.73",
+                "0.5",
+                "0.866",
+                "0.577"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 17,
+            "question": "如果輸入電壓 200VAC ，5 安培，功率因數為 0.6 時，消耗多少功率？",
+            "correctAnswer": 4,
+            "answers": [
+                "200  瓦特",
+                "1000  瓦特",
+                "1600  瓦特",
+                "600  瓦特"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 18,
+            "question": "如果視在功率為 500VA ，功率因數為 0.71 時，消耗多少功率？",
+            "correctAnswer": 2,
+            "answers": [
+                "704 瓦特",
+                "355 瓦特",
+                "252 瓦特",
+                "1.42 毫瓦特"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 19,
+            "question": "什麼類型的波，其上升時間明顯快於其下降時間（反之亦然）？",
+            "correctAnswer": 3,
+            "answers": [
+                "餘弦波",
+                "方波",
+                "鋸齒波",
+                "正弦波"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 20,
+            "question": "傅立葉 (Fourier) 分析顯示什麼類型的波 ，由給定基頻的正弦波加上其所有諧波組成？",
+            "correctAnswer": 1,
+            "answers": [
+                "鋸齒波",
+                "方波",
+                "正弦波",
+                "餘弦波"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 21,
+            "question": "關於類比數位轉換器 (analog to digital converters) ，什麼是 “抖動”？",
+            "correctAnswer": 2,
+            "answers": [
+                "轉換器不能產生信號 表示值的異常情況",
+                "在輸入信號添加少量雜訊，以更精確地表示隨時間變化的訊號",
+                "由不規則量化步進大小 (step size) 引起的誤差",
+                "通過隨機跳過樣本抽取的方法"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 22,
+            "question": "什麼是測量複雜波形的 RMS 電壓的最精確方法？",
+            "correctAnswer": 4,
+            "answers": [
+                "使用網格傾斜儀",
+                "用D'Arsonval 計測量電壓",
+                "使用吸收波長計",
+                "測量已知電阻器中的加熱效應"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 23,
+            "question": "典型單邊帶電話信號的 PEP 與平均功率的近似比值是多少？",
+            "correctAnswer": 1,
+            "answers": [
+                "2.5 比1",
+                "25 比1",
+                "1 比1",
+                "100 比1"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 24,
+            "question": "什麼決定了單邊帶電話 訊號的 PEP 與平均功率比？",
+            "correctAnswer": 2,
+            "answers": [
+                "調變訊號的頻率",
+                "調變訊號的特性",
+                "載波抑制的程度",
+                "放大器增益"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 25,
+            "question": "為什麼直接或快閃轉換類比數位轉換器 (Analog to Digital Converter) 對軟體定義無線電 (SDR) 有用？",
+            "correctAnswer": 3,
+            "answers": [
+                "非常低的功耗降低頻率漂移",
+                "不受序列編碼的 影響降低了混附響應",
+                "非常高的速度允許對高頻數位化",
+                "以上皆是"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 26,
+            "question": "具有 8 位元解析度的類比數位轉換器 (Analog to Digital Converter) 可以編碼多少階？",
+            "correctAnswer": 4,
+            "answers": [
+                "8",
+                "8 乘以輸入放大器的增益",
+                "256 除以輸入放大器的增益",
+                "256"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 27,
+            "question": "數位類比轉換器 ( Digital to Analog Converter) 與低通濾波器 結合使用的目的是什麼？",
+            "correctAnswer": 3,
+            "answers": [
+                "降低輸入頻寬以提高有效解析度",
+                "藉由從輸入中刪除序列代碼 以提高精確度",
+                "消除因離散類比位準產生所引起的輸出諧波",
+                "以上皆是"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 28,
+            "question": "使用數位波形 可傳送什麼類型的資訊？",
+            "correctAnswer": 4,
+            "answers": [
+                "語音",
+                "視訊",
+                "數據",
+                "以上皆是"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 29,
+            "question": "使用數位訊號傳送相同的資訊 比使用類比訊號 ，有什麼優點？",
+            "correctAnswer": 3,
+            "answers": [
+                "數位訊號產生和檢測所需要電路較不複雜",
+                "數位訊號始終佔用較窄的頻寬",
+                "可多次重建 (regenerated) 數位訊號而沒有錯誤",
+                "以上皆是"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 30,
+            "question": "以下哪種方法通常用於將類比訊號轉換為數位訊號？",
+            "correctAnswer": 1,
+            "answers": [
+                "逐次抽樣 (Sequential sampling)",
+                "諧波重建 (Harmonic regeneration)",
+                "位準轉換 (Level shifting)",
+                "相位反轉 (Phase reversal)"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 31,
+            "question": "無線電中 RF 載波頻率偏移與其對應的 FM 語音訊號調變頻率的比率，稱為什麼 ?",
+            "correctAnswer": 4,
+            "answers": [
+                "FM 壓縮度",
+                "安靜指數",
+                "調變百分比",
+                "調變指數"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 32,
+            "question": "相位調變發射的調變指數如何依 RF 載波頻率而改變 ?",
+            "correctAnswer": 4,
+            "answers": [
+                "RF 載波頻率增加，調變指數增加",
+                "RF 載波頻率增加，調變指數減少",
+                "調變指數依 RF載波頻率的均方根而變",
+                "與RF載波頻率無關"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 33,
+            "question": "當調變頻率為 1,000 赫時，載波頻率的雙邊任一邊最大頻率偏移為 3,000 赫的 FM 語音訊號的調變指數為多少 ?",
+            "correctAnswer": 1,
+            "answers": [
+                "3",
+                "0.3",
+                "3,000",
+                "1,000"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 34,
+            "question": "當調變頻率為 2 千赫時，載波頻率有最大正或負 6 千赫的頻率偏移的 FM 語音訊號的調變指數為多少 ?",
+            "correctAnswer": 2,
+            "answers": [
+                "6,000",
+                "3",
+                "2,000",
+                "1/3"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 35,
+            "question": "當最大調變頻率為 3 千赫時，載波頻率有最大正或負 5 千赫擺動的 FM 語音訊號的偏異比率為多少 ?",
+            "correctAnswer": 4,
+            "answers": [
+                "60",
+                "0.167",
+                "0.6",
+                "1.67"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 36,
+            "question": "當最大調變頻率為 3.5 千赫時，載波頻率有最大正或負 7.5 千赫擺動的 FM 語音訊號的偏異比率為多少 ?",
+            "correctAnswer": 1,
+            "answers": [
+                "2.14",
+                "0.214",
+                "0.47",
+                "47"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 37,
+            "question": "正交分頻多工 (OFDM) 技術用在何種型式的業餘通訊 ?",
+            "correctAnswer": 1,
+            "answers": [
+                "高速數位模式",
+                "極小功率通聯",
+                "月面反射通聯 (EME)",
+                "正交分頻多工訊號不允許被用在 業餘頻段"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 38,
+            "question": "下列何者描述正交分頻多工 ?",
+            "correctAnswer": 4,
+            "answers": [
+                "非諧波相關頻率之調頻技術",
+                "使用傅立葉轉換的頻寬壓縮技術",
+                "慢速、窄頻傳輸的數位模式",
+                "在選定的頻率使用次載波頻率 以避免碼際 (intersymbol) 干擾的數位調變技術"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 39,
+            "question": "偏異比率 (deviation ratio) 所指為何 ?",
+            "correctAnswer": 2,
+            "answers": [
+                "音訊調變頻率與載波中心頻率的比率",
+                "最大載波頻率偏移與最高音訊調變頻率的比率",
+                "載波中心頻率與音訊調變頻率的比率",
+                "最高音訊調變頻率與平均音訊調變頻率的比率"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 40,
+            "question": "什麼是分頻多工 (FDM)?",
+            "correctAnswer": 2,
+            "answers": [
+                "發射訊號以預先設定之速率在頻帶間跳動",
+                "兩或多組資訊流結合成基頻，再加以調變發射機",
+                "發射訊號分割為資訊封包",
+                "兩或多組資訊流合併為數位結合器，再以脈衝位置調變發射"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 41,
+            "question": "什麼是數位分時多工 (TDM)?",
+            "correctAnswer": 2,
+            "answers": [
+                "在調頻發射機中，兩或多組資料流被分配至離散的次載波",
+                "兩或多組訊號被安排分享資料傳輸的離散時槽 (time slots)",
+                "藉由傳送次載波的傳輸時 間使兩或多組資料流分享相同的頻道",
+                "兩或多組訊號被正交調變以增加頻寬效率"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        }
+    ]
+}

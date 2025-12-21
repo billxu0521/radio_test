@@ -1,0 +1,1565 @@
+{
+    "title": "無線電系統原理題庫",
+    "questions": [
+        {
+            "questionNumber": 1,
+            "question": "電流的度量單位是什麼？",
+            "correctAnswer": 4,
+            "answers": [
+                "伏特",
+                "瓦特",
+                "歐姆",
+                "安培"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 2,
+            "question": "電功率的度量單位是什麼？",
+            "correctAnswer": 2,
+            "answers": [
+                "伏特",
+                "瓦特",
+                "歐姆",
+                "安培"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 3,
+            "question": "在電路中電子流動的名稱為何者？",
+            "correctAnswer": 4,
+            "answers": [
+                "電壓",
+                "電阻",
+                "電容",
+                "電流"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 4,
+            "question": "電流的流動只有單一方向稱為何者？",
+            "correctAnswer": 2,
+            "answers": [
+                "交流電",
+                "直流電",
+                "正常電流",
+                "平穩電流"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 5,
+            "question": "造成電子流動的電動勢（Electromotive Force）的電氣術語稱為何者？",
+            "correctAnswer": 1,
+            "answers": [
+                "電壓",
+                "安培小時",
+                "電容",
+                "電感"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 6,
+            "question": "行動收發機通常需要用多少電壓？",
+            "correctAnswer": 1,
+            "answers": [
+                "大約12 伏特 82",
+                "大約30 伏特",
+                "大約120 伏特",
+                "大約240 伏特"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 7,
+            "question": "下列何者為良好導體？",
+            "correctAnswer": 3,
+            "answers": [
+                "玻璃",
+                "木頭",
+                "銅",
+                "橡膠"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 8,
+            "question": "下列何者為良好絕緣體？",
+            "correctAnswer": 2,
+            "answers": [
+                "銅",
+                "玻璃",
+                "鋁",
+                "水銀"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 9,
+            "question": "規律變換方向的電流的名稱是什麼？",
+            "correctAnswer": 1,
+            "answers": [
+                "交流電流",
+                "直流電流",
+                "環型電流",
+                "垂直電流"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 10,
+            "question": "以下哪一項描述電能的使用比率？",
+            "correctAnswer": 3,
+            "answers": [
+                "電阻",
+                "電流",
+                "電功率",
+                "電壓"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 11,
+            "question": "電動勢（Electromotive Force）的基本單位為何？",
+            "correctAnswer": 1,
+            "answers": [
+                "伏特",
+                "瓦特",
+                "安培",
+                "歐姆"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 12,
+            "question": "交流電每秒改變流動方向的次數稱為何者？",
+            "correctAnswer": 4,
+            "answers": [
+                "脈衝率",
+                "速度",
+                "波長 83",
+                "頻率"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 13,
+            "question": "1.5 安培等於多少毫安培（毫安）？",
+            "correctAnswer": 3,
+            "answers": [
+                "15 毫安",
+                "150 毫安",
+                "1500 毫安",
+                "15000 毫安"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 14,
+            "question": "1,500,000 赫無線電信號頻率也可以稱為何者？",
+            "correctAnswer": 1,
+            "answers": [
+                "1500 千赫",
+                "1500 百萬赫",
+                "15 吉赫",
+                "150 千赫"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 15,
+            "question": "1kV 等於多少伏特？",
+            "correctAnswer": 3,
+            "answers": [
+                "一千分之一 伏特",
+                "一百 伏特",
+                "一千 伏特",
+                "一百萬 伏特"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 16,
+            "question": "1μV 等於多少伏特？",
+            "correctAnswer": 1,
+            "answers": [
+                "一百萬分之一 伏特",
+                "一百萬 伏特",
+                "一萬 伏特",
+                "一千分之一 伏特"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 21,
+            "question": "電功率由 5 瓦特增加至 10 瓦特的分貝值（dB）大約改變多少？",
+            "correctAnswer": 2,
+            "answers": [
+                "2 dB",
+                "3 dB",
+                "5 dB",
+                "10 dB"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 22,
+            "question": "電功率由 12 瓦特減少至 3 瓦特的分貝值（dB）大約改變多少？",
+            "correctAnswer": 3,
+            "answers": [
+                "-1 dB",
+                "-3 dB",
+                "-6 dB",
+                "-9 dB"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 23,
+            "question": "電功率由 20 瓦特增加至 200 瓦特的分貝值（dB）大約改變多少？",
+            "correctAnswer": 1,
+            "answers": [
+                "10 dB",
+                "12 dB",
+                "18 dB",
+                "28 dB"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 26,
+            "question": "在電場儲存能量的能力稱做什麼？",
+            "correctAnswer": 4,
+            "answers": [
+                "電感",
+                "電阻",
+                "容許度",
+                "電容"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 27,
+            "question": "下列何者為電容的基本單位？",
+            "correctAnswer": 1,
+            "answers": [
+                "法拉",
+                "歐姆",
+                "伏特",
+                "亨利"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 28,
+            "question": "在磁場儲存能量的能力稱做什麼？",
+            "correctAnswer": 4,
+            "answers": [
+                "導納",
+                "電容",
+                "電阻",
+                "電感"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 29,
+            "question": "下列何者為電感的基本單位？",
+            "correctAnswer": 3,
+            "answers": [
+                "庫倫",
+                "法拉",
+                "亨利",
+                "歐姆"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 30,
+            "question": "下列何者為頻率的基本單位？",
+            "correctAnswer": 1,
+            "answers": [
+                "赫茲",
+                "亨利",
+                "法拉",
+                "特斯拉"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 31,
+            "question": "縮寫 RF 是代表什麼？",
+            "correctAnswer": 1,
+            "answers": [
+                "各種射頻信號 86",
+                "調諧電路的共振頻率",
+                "真實發射頻率而不是外觀頻率",
+                "天線傳輸線中的反射力"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 32,
+            "question": "經由空間傳播的電磁波，通稱為何？",
+            "correctAnswer": 3,
+            "answers": [
+                "重力波",
+                "音波",
+                "無線電波",
+                "壓力波"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 37,
+            "question": "術語「阻抗」一詞是什麼意思？",
+            "correctAnswer": 1,
+            "answers": [
+                "衡量電路對交流電流的阻力 87",
+                "電阻的倒數",
+                "衡量元件的Q值或品質因數",
+                "衡量元件的電功率處理能力"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 38,
+            "question": "下列何者為阻抗的單位？",
+            "correctAnswer": 4,
+            "answers": [
+                "伏特",
+                "安培",
+                "庫倫",
+                "歐姆"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 42,
+            "question": "電阻器接上 90 伏特時有 3 安培電流通過，則電路電阻多大？",
+            "correctAnswer": 2,
+            "answers": [
+                "3 歐姆",
+                "30 歐姆",
+                "93 歐姆",
+                "270 歐姆"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 44,
+            "question": "電路接上 12 伏特電源有 4 安培電流通過，則其電阻多大？",
+            "correctAnswer": 1,
+            "answers": [
+                "3 歐姆",
+                "16 歐姆",
+                "48 歐姆",
+                "8 歐姆"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 49,
+            "question": "10 歐姆電阻器通過 1 安培電流時，則電阻器二端的電壓是多少？",
+            "correctAnswer": 2,
+            "answers": [
+                "1 伏特",
+                "10 伏特",
+                "11 伏特",
+                "9 伏特 89"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 51,
+            "question": "在直流電路中，使用什麼電子元件會阻止電流流動？",
+            "correctAnswer": 2,
+            "answers": [
+                "電感器",
+                "電阻器",
+                "電壓表",
+                "變壓器"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 52,
+            "question": "什麼類型的元件經常用作可調的音量控制？",
+            "correctAnswer": 3,
+            "answers": [
+                "固定電阻器",
+                "功率電阻器",
+                "電位計",
+                "變壓器"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 53,
+            "question": "什麼電氣參數由電位計控制？",
+            "correctAnswer": 2,
+            "answers": [
+                "感抗",
+                "阻抗",
+                "容抗",
+                "場強"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 54,
+            "question": "什麼電氣元件在電場中儲存能量？",
+            "correctAnswer": 2,
+            "answers": [
+                "電阻器",
+                "電容器",
+                "電感器",
+                "二極體"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 55,
+            "question": "什麼類型的電氣元件由兩個或多個由絕緣體隔開的導電表面組成？",
+            "correctAnswer": 4,
+            "answers": [
+                "電阻器",
+                "電位計",
+                "振盪器",
+                "電容器"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 56,
+            "question": "什麼類型的電氣元件在磁場中存儲能量？",
+            "correctAnswer": 3,
+            "answers": [
+                "電阻器 90",
+                "電容器",
+                "電感器",
+                "二極體"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 57,
+            "question": "什麼電氣元件通常由線圈組成？",
+            "correctAnswer": 4,
+            "answers": [
+                "開關",
+                "電容器",
+                "二極體",
+                "電感器"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 58,
+            "question": "什麼電氣元件用於連接或斷開電路？",
+            "correctAnswer": 2,
+            "answers": [
+                "磁控管",
+                "開關",
+                "熱敏電阻器",
+                "以上皆是"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 59,
+            "question": "什麼電氣元件用於保護其他電路元件免受電流過載？",
+            "correctAnswer": 1,
+            "answers": [
+                "保險絲",
+                "電容器",
+                "電感器",
+                "以上皆是"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 60,
+            "question": "以下哪種電池類型可充電？",
+            "correctAnswer": 4,
+            "answers": [
+                "鎳金屬氫化物",
+                "鋰離子",
+                "鉛酸凝膠電池",
+                "以上皆是"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 61,
+            "question": "以下哪種電池類型不可充電？",
+            "correctAnswer": 2,
+            "answers": [
+                "鎳鎘",
+                "碳鋅",
+                "鉛酸",
+                "鋰離子"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 62,
+            "question": "哪類電子元件能夠使用電壓或電流信號來控制電流？",
+            "correctAnswer": 4,
+            "answers": [
+                "電容器",
+                "電感器",
+                "電阻器 91",
+                "電晶體"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 63,
+            "question": "什麼電子元件允許電流僅在一個方向上流動？",
+            "correctAnswer": 3,
+            "answers": [
+                "電阻器",
+                "保險絲",
+                "二極體",
+                "被動元件"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 64,
+            "question": "哪些元件可以用作電子開關或放大器？",
+            "correctAnswer": 3,
+            "answers": [
+                "振盪器",
+                "電位計",
+                "電晶體",
+                "電壓表"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 65,
+            "question": "下列哪些元件可以由三層半導體材料製成？",
+            "correctAnswer": 2,
+            "answers": [
+                "交流發電機",
+                "電晶體",
+                "三極管",
+                "五極管"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 66,
+            "question": "以下哪個電子元件可以放大信號？",
+            "correctAnswer": 1,
+            "answers": [
+                "電晶體",
+                "可變電阻器",
+                "電解電容器",
+                "多節電池"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 67,
+            "question": "通常如何識別半導體二極體的陰極引線？",
+            "correctAnswer": 2,
+            "answers": [
+                "用陰極字",
+                "用條紋",
+                "用字母C",
+                "以上皆是"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 70,
+            "question": "什麼是二極體的兩個電極的名稱？",
+            "correctAnswer": 3,
+            "answers": [
+                "加號和減號",
+                "源極和汲極",
+                "陽極和陰極",
+                "閘極和基極"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 71,
+            "question": "PNP 或 NPN 電晶體的三個電極是什麼？",
+            "correctAnswer": 1,
+            "answers": [
+                "射極、基極和集極",
+                "源極、閘極和汲極",
+                "陰極、柵極和屏極",
+                "陰極、漂移腔和集極"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 72,
+            "question": "什麼是場效應電晶體的三個電極？",
+            "correctAnswer": 2,
+            "answers": [
+                "射極、基極和集極",
+                "源極、閘極和汲極",
+                "陰極、柵極和屏極",
+                "陰極、閘極和陽極"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 73,
+            "question": "描述電晶體放大信號能力的術語是什麼？",
+            "correctAnswer": 1,
+            "answers": [
+                "增益",
+                "順向阻抗",
+                "順向壓降",
+                "阻抗"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 74,
+            "question": "電氣接線圖中，元件標準化表示的名稱是什麼？",
+            "correctAnswer": 3,
+            "answers": [
+                "電氣描述",
+                "灰色素描",
+                "原理圖符號",
+                "元件標註"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 75,
+            "question": "圖 T-1 中的元件 1 是什麼？ 93",
+            "correctAnswer": 1,
+            "answers": [
+                "電阻器",
+                "電晶體",
+                "電池",
+                "連接器"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 76,
+            "question": "圖 T-1 中的元件 2 是什麼？",
+            "correctAnswer": 2,
+            "answers": [
+                "電阻器",
+                "電晶體",
+                "指示燈",
+                "連接器"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 77,
+            "question": "圖 T-1 中的元件 3 是什麼？",
+            "correctAnswer": 3,
+            "answers": [
+                "電阻器",
+                "電晶體",
+                "燈",
+                "接地符號"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 78,
+            "question": "圖 T-1 中的元件 4 是什麼？",
+            "correctAnswer": 3,
+            "answers": [
+                "電阻器",
+                "電晶體",
+                "電池",
+                "接地符號 94"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 79,
+            "question": "圖 T-2 中的元件 6 是什麼？",
+            "correctAnswer": 2,
+            "answers": [
+                "電阻器",
+                "電容器",
+                "調節器IC",
+                "電晶體"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 80,
+            "question": "圖 T-2 中的元件 8 是什麼？",
+            "correctAnswer": 4,
+            "answers": [
+                "電阻器",
+                "電感器",
+                "調節器IC",
+                "發光二極管"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 81,
+            "question": "圖 T-2 中的元件 9 是什麼？",
+            "correctAnswer": 3,
+            "answers": [
+                "可變電容器",
+                "可變電感器",
+                "可變電阻器",
+                "可變變壓器"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 82,
+            "question": "圖 T-2 中的元件 4 是什麼？",
+            "correctAnswer": 4,
+            "answers": [
+                "可變電感器 95",
+                "雙極開關",
+                "電位器",
+                "變壓器"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 83,
+            "question": "圖 T-3 中的元件 3 是什麼？",
+            "correctAnswer": 4,
+            "answers": [
+                "連接器",
+                "電表",
+                "可變電容器",
+                "可變電感器"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 84,
+            "question": "圖 T-3 中的元件 4 是什麼？",
+            "correctAnswer": 1,
+            "answers": [
+                "天線",
+                "發射機",
+                "假負載",
+                "接地"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 85,
+            "question": "電路圖上的符號代表什麼？",
+            "correctAnswer": 1,
+            "answers": [
+                "電氣元件",
+                "邏輯狀態",
+                "數字代碼",
+                "交通節點 96"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 86,
+            "question": "電路圖中準確地表示了以下哪項？",
+            "correctAnswer": 2,
+            "answers": [
+                "電線長度",
+                "元件的物理外觀",
+                "元件的連接",
+                "以上皆是"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 87,
+            "question": "下列哪種設備或電路改變交流電成不同的直流信號？",
+            "correctAnswer": 2,
+            "answers": [
+                "變壓器",
+                "整流器",
+                "放大器",
+                "反射器"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 88,
+            "question": "什麼最能描述繼電器？",
+            "correctAnswer": 1,
+            "answers": [
+                "由電磁鐵控制的開關",
+                "電流控制放大器",
+                "光學感應器",
+                "傳輸電晶體"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 89,
+            "question": "圖 T-2 中元件 3 代表什麼類型的開關？",
+            "correctAnswer": 1,
+            "answers": [
+                "單刀單擲",
+                "單刀雙擲",
+                "雙刀單擲",
+                "雙刀雙擲"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 90,
+            "question": "以下哪項被用在數字刻度上顯示信號強度？",
+            "correctAnswer": 3,
+            "answers": [
+                "電位計",
+                "電晶體",
+                "電表",
+                "繼電器"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 91,
+            "question": "什麼類型的電路控制的電壓量來自電源？",
+            "correctAnswer": 1,
+            "answers": [
+                "調節器",
+                "振盪器",
+                "過濾器",
+                "反向器"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 92,
+            "question": "通常使用什麼元件將交流 120 伏特電流轉換為較低的交流電壓以用於其 97 他用途？",
+            "correctAnswer": 2,
+            "answers": [
+                "可變電容器",
+                "變壓器",
+                "電晶體",
+                "二極體"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 93,
+            "question": "以下哪項通常被用作視覺指示器？",
+            "correctAnswer": 1,
+            "answers": [
+                "發光二極體",
+                "場效應電晶體",
+                "齊納二極體",
+                "雙極電晶體"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 94,
+            "question": "以下哪一項與電感器一起用來製作調諧電路？",
+            "correctAnswer": 4,
+            "answers": [
+                "電阻器",
+                "齊納二極體",
+                "電位計",
+                "電容器"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 95,
+            "question": "什麼是結合了許多半導體和其他設備到一個包裝的設備名稱？",
+            "correctAnswer": 3,
+            "answers": [
+                "傳感器",
+                "多極繼電器",
+                "積體電路",
+                "變壓器"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 96,
+            "question": "圖 T-1 中元件 2 的功能是什麼？",
+            "correctAnswer": 3,
+            "answers": [
+                "當電流流過發光",
+                "提供電能",
+                "控制電流的流動",
+                "將電能轉換成無線電波"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 97,
+            "question": "什麼是簡單的諧振或調諧電路？",
+            "correctAnswer": 1,
+            "answers": [
+                "串聯或並聯形成濾波器的電感器和電容器",
+                "電壓調節器",
+                "用於降低駐波比的電阻電路",
+                "設計用於提供高傳真音頻的電路"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 98,
+            "question": "以下哪個專有名詞是描述接收機檢知信號存在的能力？",
+            "correctAnswer": 2,
+            "answers": [
+                "線性 98",
+                "靈敏度",
+                "選擇性",
+                "總諧波失真"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 99,
+            "question": "什麼是收發機？",
+            "correctAnswer": 2,
+            "answers": [
+                "天線開關的類型",
+                "發射機和接收機的組合單元",
+                "中繼電臺濾除不必要干擾的元件",
+                "天線匹配網路的類型"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 100,
+            "question": "以下哪一個是將無線電信號從一個頻率轉換為另一個？",
+            "correctAnswer": 2,
+            "answers": [
+                "分相器",
+                "混頻器",
+                "倒向器",
+                "放大器"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 101,
+            "question": "以下哪個專有名詞是描述接收機解析多組信號的能力",
+            "correctAnswer": 3,
+            "answers": [
+                "解析度",
+                "靈敏度",
+                "選擇性",
+                "諧波失真"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 102,
+            "question": "什麼是產生所要頻率的信號的電路名稱？",
+            "correctAnswer": 4,
+            "answers": [
+                "電抗器",
+                "乘積檢波器",
+                "低通濾波器",
+                "振盪器"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 103,
+            "question": "什麼設備會將低功率 28 MHz SSB 激發器的輸出產生 222 MHz 輸出信 號？",
+            "correctAnswer": 3,
+            "answers": [
+                "高通濾波器",
+                "低通濾波器",
+                "變頻器",
+                "相位轉換器"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 104,
+            "question": "“PTT”是什麼意思？",
+            "correctAnswer": 4,
+            "answers": [
+                "預發射調諧以減少發射機諧波發射",
+                "使用精確的音頻傳輸讓中繼器只能接受某些信號 99",
+                "用於匹配天線的主變壓調諧器",
+                "在接收和發送之間切換的按鍵通話功能"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 105,
+            "question": "以下哪個專有名詞是描述將語音與射頻載波信號相結合？",
+            "correctAnswer": 3,
+            "answers": [
+                "阻抗匹配",
+                "振盪",
+                "調變",
+                "低通濾波"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 106,
+            "question": "以下哪種設備是對於 VHF 弱信號通信最有用？",
+            "correctAnswer": 2,
+            "answers": [
+                "四分之一波長垂直天線",
+                "多種模式的VHF收發機",
+                "全向性天線",
+                "行動式VHF FM收發機"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 107,
+            "question": "什麼設備增加了手持式收發機的低功率輸出？",
+            "correctAnswer": 2,
+            "answers": [
+                "分壓器",
+                "射頻功率放大器",
+                "阻抗網路",
+                "以上皆是"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 108,
+            "question": "RF 前置放大器應該安裝在哪裡？",
+            "correctAnswer": 1,
+            "answers": [
+                "在天線和接收機之間",
+                "在發射機功率放大器的輸出端",
+                "發射機和天線調諧器之間",
+                "在接收機的音頻輸出端"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 109,
+            "question": "假負載的主要用途是什麼？",
+            "correctAnswer": 1,
+            "answers": [
+                "防止測試時的信號輻射",
+                "防止發射機過調變",
+                "改善天線的輻射",
+                "提高接收機的雜訊比"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 111,
+            "question": "一般來說，駐波比（SWR）是什麼？",
+            "correctAnswer": 1,
+            "answers": [
+                "衡量負載與傳輸線相匹配情形",
+                "饋線中高阻抗與低阻抗的比率",
+                "發射機效率比",
+                "顯示您的電臺接地質量"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 112,
+            "question": "在 SWR 儀表上什麼讀數，表示天線和饋線之間的阻抗完美匹配？",
+            "correctAnswer": 3,
+            "answers": [
+                "2:1",
+                "1:3",
+                "1:1",
+                "10:1"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 113,
+            "question": "多數發射機中的保護電路開始降低發射機功率的近似 SWR 值是多少？",
+            "correctAnswer": 1,
+            "answers": [
+                "2:1",
+                "1:2",
+                "6:1",
+                "10:1"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 114,
+            "question": "SWR 讀數 4：1 代表什麼意義？",
+            "correctAnswer": 4,
+            "answers": [
+                "損失-4dB",
+                "良好的阻抗匹配",
+                "增益為+ 4dB",
+                "阻抗不匹配"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 115,
+            "question": "饋線的電力損耗會發生什麼事？",
+            "correctAnswer": 3,
+            "answers": [
+                "增加SWR",
+                "會反射回到您的發射機並可能導致損壞",
+                "被轉化成熱量",
+                "可能會導致信號失真"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 116,
+            "question": "除了 SWR 儀表外，您可以使用什麼儀器來確定饋線和天線是否正確匹 配？",
+            "correctAnswer": 4,
+            "answers": [
+                "電壓表",
+                "歐姆表",
+                "音聲調諧器",
+                "方向功率表 101"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 117,
+            "question": "以下哪項是同軸電纜故障的最常見原因？",
+            "correctAnswer": 1,
+            "answers": [
+                "受潮",
+                "伽馬射線",
+                "速度係數超過1.0",
+                "超載"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 118,
+            "question": "為什麼同軸電纜的外皮要抗紫外線？",
+            "correctAnswer": 4,
+            "answers": [
+                "防紫外線外皮可防止諧波輻射",
+                "紫外線會增加電纜外皮的損耗",
+                "紫外線和射頻信號可以混合在一起而造成干擾",
+                "紫外線會損壞外皮並讓水進入電纜"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 119,
+            "question": "與泡棉或固體介質類型同軸電纜相比，空氣絶緣同軸電纜的缺點是什 麼？",
+            "correctAnswer": 3,
+            "answers": [
+                "每公尺損失更多",
+                "不能用於VHF或UHF天線",
+                "需要特殊的技術來防止進水",
+                "不能在低於冰點的溫度下使用"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 121,
+            "question": "假負載由什麼組成？",
+            "correctAnswer": 2,
+            "answers": [
+                "高增益放大器和TR開關",
+                "無感電阻器和散熱器",
+                "低壓電源供應器和直流繼電器",
+                "用於終止傳輸線的50歐姆電抗"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 122,
+            "question": "哪種儀器用於測量電位或電動勢(EMF)？",
+            "correctAnswer": 2,
+            "answers": [
+                "電流表",
+                "電壓表",
+                "波長表",
+                "歐姆表"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 123,
+            "question": "將電壓表連接到電路的正確方法是什麼？ 102",
+            "correctAnswer": 2,
+            "answers": [
+                "與電路串聯",
+                "與電路並聯",
+                "與電路正交",
+                "與電路同相"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 124,
+            "question": "電流表通常如何連接到電路？",
+            "correctAnswer": 1,
+            "answers": [
+                "與電路串聯",
+                "與電路並聯",
+                "與電路正交",
+                "與電路同相"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 125,
+            "question": "哪種儀器用於測量電流？",
+            "correctAnswer": 4,
+            "answers": [
+                "歐姆表",
+                "波長表",
+                "電壓表",
+                "電流表"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 126,
+            "question": "哪種儀器用於測量電阻？",
+            "correctAnswer": 4,
+            "answers": [
+                "示波器",
+                "頻譜分析儀",
+                "雜訊電橋儀",
+                "歐姆表"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 127,
+            "question": "以下哪項可能會損壞萬用表？",
+            "correctAnswer": 3,
+            "answers": [
+                "選擇範圍而言測量的電壓很小",
+                "將儀表選項放置在量測毫安的項目整個晚上",
+                "嘗試選擇電阻選項來測量電壓",
+                "使用前不熱機"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 128,
+            "question": "通常使用萬用表測量以下哪些項目？",
+            "correctAnswer": 4,
+            "answers": [
+                "駐波比和發射功率",
+                "信號強度和雜訊",
+                "阻抗和電抗",
+                "電壓和電阻"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 129,
+            "question": "以下哪種材料最適合無線電收發機和電子焊接使用？",
+            "correctAnswer": 3,
+            "answers": [
+                "酸性焊劑",
+                "銀焊劑 103",
+                "松香劑",
+                "鋁焊劑"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 130,
+            "question": "冷焊的特徵是什麼？",
+            "correctAnswer": 3,
+            "answers": [
+                "深黑色斑點",
+                "明亮或有光澤的表面",
+                "粒狀或無光澤的表面",
+                "綠色的色調"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 131,
+            "question": "當歐姆表連接在無供電的電路上時，什麼原因導致剛開始歐姆表量測的 電阻值較低，隨著時間的增長電阻值會增加？",
+            "correctAnswer": 2,
+            "answers": [
+                "歐姆表故障有問題",
+                "電路中有一個大電容",
+                "電路中有一個大電感",
+                "這是一個弛緩振盪器電路"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 132,
+            "question": "以下哪一種是振幅調變的形式？",
+            "correctAnswer": 3,
+            "answers": [
+                "展頻",
+                "數據無線電",
+                "單邊帶",
+                "相位偏移調變"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 133,
+            "question": "什麼類型的調變最常用於 VHF 數據無線電模式？",
+            "correctAnswer": 1,
+            "answers": [
+                "調頻",
+                "單邊帶",
+                "振幅調變",
+                "展頻"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 135,
+            "question": "哪種類型的調製最常用於 VHF 和 UHF 語音中繼電臺？",
+            "correctAnswer": 4,
+            "answers": [
+                "振幅調變",
+                "單邊帶 104",
+                "相位偏移調變",
+                "調頻"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 136,
+            "question": "以下哪種發射類型的頻寬最窄？",
+            "correctAnswer": 3,
+            "answers": [
+                "調頻語音",
+                "單邊帶語音",
+                "電報",
+                "慢速掃瞄電視"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 137,
+            "question": "哪種邊帶通常用於 10 公尺 HF、VHF 和 UHF 單邊帶通信？",
+            "correctAnswer": 1,
+            "answers": [
+                "上邊帶",
+                "下邊帶",
+                "抑制邊帶",
+                "倒轉邊帶"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 138,
+            "question": "語音通訊使用單邊帶比 FM 好的原因是什麼？",
+            "correctAnswer": 3,
+            "answers": [
+                "單邊帶信號更容易調諧",
+                "單邊帶信號不易受干擾",
+                "單邊帶信號具有較窄的帶寬",
+                "以上皆是"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 139,
+            "question": "單邊帶語音信號的頻寬大概是多少？",
+            "correctAnswer": 2,
+            "answers": [
+                "1 千赫",
+                "3 千赫",
+                "6 千赫",
+                "15 千赫"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 140,
+            "question": "VHF 中繼電臺調頻語音信號的頻寬是多少？",
+            "correctAnswer": 3,
+            "answers": [
+                "低於500 赫",
+                "大約150 千赫",
+                "在10和15 千赫之間",
+                "在50和125 千赫之間"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 141,
+            "question": "在 70 公分頻帶，類比快速掃描電視傳輸的典型頻寬是多少？",
+            "correctAnswer": 2,
+            "answers": [
+                "超過10 百萬赫",
+                "大約6 百萬赫",
+                "大約3 百萬赫",
+                "大約1 百萬赫 105"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 143,
+            "question": "關於衛星通信，什麼是杜卜勒位移？",
+            "correctAnswer": 3,
+            "answers": [
+                "衛星軌道的變化",
+                "衛星在一個頻段上接收信號並在另一個頻段上發射的模式",
+                "衛星和地球電臺之間的相對運動引起的信號頻率變化",
+                "某些衞星使用的特殊數位通信模式"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 144,
+            "question": "衛星在 U / V 模式下運行的說法是什麼意思？",
+            "correctAnswer": 2,
+            "answers": [
+                "衛星上行鏈路在15公尺波段，下行鏈路在10公尺波段",
+                "衛星上行鏈路在70公分波段，下行鏈路在2公尺波段",
+                "衛星運行使用紫外線頻率",
+                "衛星頻率通常是可變的"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 145,
+            "question": "接收衛星信號時，會引起自旋衰落的原因是什麼？",
+            "correctAnswer": 2,
+            "answers": [
+                "來自太陽輻射的圓極化雜訊干擾",
+                "衛星及其天線的旋轉",
+                "接收信號的杜卜勒位移效應",
+                "在衛星上行鏈路頻帶內干擾信號 106"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        }
+    ]
+}

@@ -1,0 +1,486 @@
+{
+    "title": "無線電相關安全防護題庫",
+    "questions": [
+        {
+            "questionNumber": 1,
+            "question": "外部接地或接地棒的主要功能是什麼？",
+            "correctAnswer": 2,
+            "answers": [
+                "減少接收的噪聲",
+                "防雷",
+                "減少設備之間的 射頻電流",
+                "減少RFI對電話和家庭娛樂系統的影響"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 2,
+            "question": "當在鄰居家評估你的電臺的無線電波暴露等級時，你必須怎麼做？",
+            "correctAnswer": 2,
+            "answers": [
+                "確保電臺的信號小於可控制環境內的 MPE 限制",
+                "確保電臺的信號小於非控制環境的 MPE 限制",
+                "你只需要評估自己的設備的暴露水平",
+                "告訴你的鄰居你的測試結果"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 3,
+            "question": "以下哪一個是可用來估計業餘無線電臺產生的射頻場 (RF Fields) 是否在允許的 MPE 限制內的實用方法？",
+            "correctAnswer": 3,
+            "answers": [
+                "使用已校準的天線分析儀",
+                "使用計算機加上史密斯圓圖方程式來計算射頻場",
+                "使用天線建模程序計算可到達位置的場強",
+                "以上皆是"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 4,
+            "question": "當評估某地點具有多臺發射 機同時操作發生過度 暴露情形時，那一臺發射機的操作者和電臺執照持有者，應該負責減輕過度 暴露情況？",
+            "correctAnswer": 3,
+            "answers": [
+                "只有最強大的發射機",
+                "只有商用發射機",
+                "在可到達位置產生大於 MPE限制值 5％(含)以上的每一臺發射機",
+                "工作週期大於 50％的每臺發射機"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 5,
+            "question": "在業餘無線電頻段使用微波的潛在危險是什麼？",
+            "correctAnswer": 2,
+            "answers": [
+                "微波是電離輻射",
+                "通常使用的高增益天線可能導致高的 暴露等級",
+                "微波經常通過電離層反射達到遠距離的傳播",
+                "極高的頻率能量可以損壞天線結構的接頭"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 6,
+            "question": "為什麼有各別的電場（E）和磁場（H）的 MPE 限制？",
+            "correctAnswer": 4,
+            "answers": [
+                "身體對來自電場和磁場的電磁輻射皆會反應",
+                "地面反射和散射使場阻抗隨位置變化",
+                "電場和磁場輻射強度峰值可以發生在不同的位置",
+                "以上皆是"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 7,
+            "question": "如何檢測來自緊急發電機的一氧化碳的危險等級？",
+            "correctAnswer": 2,
+            "answers": [
+                "氣味",
+                "只能使用一氧化碳檢測器",
+                "可以使用任何普通的煙霧探測器",
+                "氣體的淡黃色外觀"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 8,
+            "question": "SAR 在測量什麼？",
+            "correctAnswer": 3,
+            "answers": [
+                "人體的合成孔徑比",
+                "信號放大等級",
+                "當暴露於射頻電磁場時，能量被身體吸收的速率",
+                "從固定地形反射的無線電波場能量的速率"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 9,
+            "question": "哪些絕緣材料通常用來做某些電子設備的熱導體，如果破碎或粉碎成顆粒後被意外吸入，是有劇毒的？",
+            "correctAnswer": 3,
+            "answers": [
+                "雲母",
+                "氧化鋅",
+                "氧化鈹",
+                "六氟化鈾"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 10,
+            "question": "什麼樣的有毒材料可能出現在一些電子元件中，例如高電壓電容器和變壓器？",
+            "correctAnswer": 1,
+            "answers": [
+                "多氯聯苯",
+                "聚乙烯",
+                "聚四氟乙烯",
+                "多晶矽"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 11,
+            "question": "使用高功率的 UHF 或微波發射機可能會導致以下哪種傷害？",
+            "correctAnswer": 3,
+            "answers": [
+                "高壓電放電引起的聽力損失",
+                "高磁場導致血液凝固",
+                "暴露在超過 MPE限制的射頻場造成身體局部加熱",
+                "從冷卻系統吸入臭氧氣體"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 12,
+            "question": "假設設備已連接到接地棒，如果您接觸在 HF 頻段上發射的設備時，受到RF 灼傷，可能的問題是什麼？",
+            "correctAnswer": 4,
+            "answers": [
+                "扁線編織而非圓形線用於地線",
+                "絕緣電線用於地線",
+                "接地棒共振",
+                "地線在該頻率上具有高阻抗"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 13,
+            "question": "射頻能量可以影響人體組織的方式是什麼？",
+            "correctAnswer": 1,
+            "answers": [
+                "加熱身體組織",
+                "導致輻射中毒",
+                "導致血球數量下降到危險的程度",
+                "冷卻身體組織"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 14,
+            "question": "在估計射頻信號是否超過最大允許暴露量時，以下哪些性質很重要？",
+            "correctAnswer": 4,
+            "answers": [
+                "工作週期",
+                "頻率",
+                "功率密度",
+                "以上皆是"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 15,
+            "question": "如何確定所屬的電臺符合我國的射頻暴露量規定？",
+            "correctAnswer": 4,
+            "answers": [
+                "使用衞福部訂定的射頻暴露量計算方式",
+                "使用電腦模型計算",
+                "使用經校準的設備測量場強",
+                "以上皆是"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 16,
+            "question": "射頻輻射暴露量的「時間平均」是什麼意思？",
+            "correctAnswer": 4,
+            "answers": [
+                "發射機在特定 24小時內所產生的平均功率",
+                "射頻輻射對身體有任何長期效應的平均時間",
+                "暴露的總時間",
+                "在一定時間內總射頻暴露量的平均值"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 17,
+            "question": "如果所屬電臺的射頻能量經評估，其輻射量超過允許限制，應該如何處理？",
+            "correctAnswer": 1,
+            "answers": [
+                "採取防止人類過度暴露於射頻電磁場的措施",
+                "向NCC申請許可",
+                "得到鄰居的書面許可，得在一般民眾的最大允許曝露量限制值之上操作",
+                "以上皆是"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 18,
+            "question": "安裝地面天線時應該採取什麼預防措施？",
+            "correctAnswer": 4,
+            "answers": [
+                "不應安裝在高於人可以達到之處",
+                "不應安裝在潮濕的地方",
+                "高度應限制在 3公尺內",
+                "應該安裝在一般民眾無法觸及之處"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 19,
+            "question": "發射機工作週期對評估射頻暴露，有什麼影響？",
+            "correctAnswer": 1,
+            "answers": [
+                "較低的發射機工作週期允許更大的短期暴露量",
+                "較高的發射機工作週期允許更大的短期暴露量",
+                "低工作週期發射機可免於射頻暴露評估要求",
+                "高工作週期發射機可免於射頻暴露評估要求"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 20,
+            "question": "可以使用什麼類型的儀器來精確測量射頻電磁場？",
+            "correctAnswer": 2,
+            "answers": [
+                "具有信號强度計的接收機",
+                "具有校準天線的校準强場計",
+                "具有峰值讀取功能的駐波比測量器",
+                "具有高穩定性晶體標記產生器的示波器"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 21,
+            "question": "如果評估顯示鄰居可能從定向天線的主波瓣接收到超過射頻輻射的允許限制值，那麼應該做什麼？",
+            "correctAnswer": 4,
+            "answers": [
+                "換用具有更高增益的非極化天線",
+                "做一個鄰居清晰可見警告標誌",
+                "使用具有較高前後比的天線",
+                "採取確保天線不會指向鄰居方向的預防措施"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 22,
+            "question": "安裝室內發射天線，應採取什麼預防措施？",
+            "correctAnswer": 3,
+            "answers": [
+                "將天線置於靠近操作位置，以最小化饋線輻射",
+                "沿著牆壁邊緣放置天線，以減少寄生輻射",
+                "確保在使用區域不超過最大允許暴露限制",
+                "確保天線已正確屏蔽"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 23,
+            "question": "對天線進行調整或維修時，應採取什麼預防措施？",
+            "correctAnswer": 2,
+            "answers": [
+                "確保執行者和天線結構均接地",
+                "關閉發射機並斷開饋線",
+                "佩戴輻射徽章",
+                "以上皆是"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 24,
+            "question": "在使用交流 220 伏特單相電源設備時，四條連接線中的哪些電線應連接到保險絲或斷路器？",
+            "correctAnswer": 1,
+            "answers": [
+                "只要連結帶電壓的那兩條線",
+                "只要連結零線",
+                "只要連結地線",
+                "要連接所有電線"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 25,
+            "question": "可以安全使用於達 20 安培連續電流的電路，其最小導線尺寸該為多少？",
+            "correctAnswer": 3,
+            "answers": [
+                "AWG 第20號",
+                "AWG 第16號",
+                "AWG 第12號",
+                "AWG 第8號"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 26,
+            "question": "下列哪種尺寸的保險絲或斷路器，適於使用 AWG 14 號線的電路？",
+            "correctAnswer": 4,
+            "answers": [
+                "100  安培",
+                "60  安培",
+                "30  安培",
+                "15  安培"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 27,
+            "question": "以下哪項是不將汽油發動機置於使用區域的主要原因？",
+            "correctAnswer": 1,
+            "answers": [
+                "一氧化碳中毒的危險",
+                "發動機扭力過大的危險",
+                "缺乏足夠燃燒的氧氣",
+                "缺少足夠燃燒的氮氣"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 28,
+            "question": "以下哪種情況會導致接地故障斷路器（ GFCI ）斷開設備的 120 或 240 伏特交流電源？",
+            "correctAnswer": 2,
+            "answers": [
+                "電流從一個或多個電壓承載線流到中性線",
+                "電流從一個或多個電壓承載線直接流到地線",
+                "電壓承載線上的過高電壓",
+                "以上皆是"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 29,
+            "question": "為什麼每個電臺設備的金屬外殼都必須接地？",
+            "correctAnswer": 4,
+            "answers": [
+                "防止內部短路時保險絲熔斷",
+                "防止信號過載",
+                "確保中性線接地",
+                "確保危險電壓不會出現在機箱上"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 30,
+            "question": "使用安全帶或吊帶攀爬鐵塔時，應該遵守下列哪一項？",
+            "correctAnswer": 2,
+            "answers": [
+                "不要後靠並僅依賴安全帶來支撐體重",
+                "確認安全帶的額定載重是否符合攀爬者的重量，並確認安全帶仍在允許的使用期限內",
+                "確保所有重型工具牢固地固定在安全帶 D形環上",
+                "以上皆是"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 31,
+            "question": "任何人準備爬上帶有電氣電力設備的鐵塔，應該做什麼？",
+            "correctAnswer": 2,
+            "answers": [
+                "通知電力公司將有人在塔上工作",
+                "確保所有相關供電的電路已鎖定並標記",
+                "使塔的底座不接地",
+                "以上皆是"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 32,
+            "question": "為什麼焊接接頭不能使用於塔底連接到接地棒系統的電線？",
+            "correctAnswer": 4,
+            "answers": [
+                "焊料的電阻太高",
+                "焊劑會防止低電導率連接",
+                "焊料具有太高的介電常數，以致無法提供足夠的雷電保護",
+                "焊接接頭可能被雷擊的熱量破壞"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 33,
+            "question": "以下哪一項是鉛錫焊料的危險？",
+            "correctAnswer": 1,
+            "answers": [
+                "接觸焊料後，如未能將手洗淨，鉛會污染食物",
+                "高電壓可能導致鉛錫焊料突然分解",
+                "焊料中的錫可能「冷流」導致電路短路",
+                "射頻能量會將鉛轉化為有毒氣體"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 34,
+            "question": "以下哪項是防雷接地的良好做法？",
+            "correctAnswer": 4,
+            "answers": [
+                "必須粘接到所有埋在地下的水管和瓦斯管線",
+                "接地線上的彎曲部分必須盡可能做成直角",
+                "避雷接地必須連接到所有未接地的接線",
+                "必須與所有其他防雷接地線粘接在一起"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 35,
+            "question": "電源連鎖 (interlock) 的目的是什麼？",
+            "correctAnswer": 3,
+            "answers": [
+                "防止對電路進行未經授權的更改，使製造商的保修失效",
+                "設備過熱時，關閉設備",
+                "確保機櫃打開時，移除危險電壓",
+                "產生過大的電壓時，使電源關閉"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 36,
+            "question": "在用緊急發電機供電給你的房子時，你必須做什麼？",
+            "correctAnswer": 1,
+            "answers": [
+                "斷開公共電源之輸入",
+                "確保發電機未接地",
+                "確保所有避雷接地均已斷開",
+                "以上皆是"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 37,
+            "question": "緊急發電機之安裝以下哪項是對的？",
+            "correctAnswer": 1,
+            "answers": [
+                "發電機應位於通風良好的區域",
+                "發電機必須與地絕緣",
+                "燃料應儲存在發電機附近，以便在緊急情況下快速加油",
+                "以上皆是"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        }
+    ]
+}

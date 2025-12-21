@@ -12,11 +12,26 @@ const BANK_FILES: Record<string, string> = {
   System: 'System.json',
 }
 
+// 等級資料夾對照
+const CLASS_FOLDERS: Record<string, string> = {
+  A: 'classA_test',
+  B: 'classB_test',
+  C: 'classC_test',
+}
+
+// 等級名稱對照
+export const CLASS_NAMES: Record<string, string> = {
+  A: '一等',
+  B: '二等',
+  C: '三等',
+}
+
 // 全部題庫的特殊 ID
 const ALL_BANKS_ID = 'all'
 
 export const useFlashCardStore = defineStore('flashCard', () => {
   // State
+  const currentClass = ref<string>('C') // 預設三等
   const banks = ref<QuestionBankInfo[]>([])
   const allBanksData = ref<Map<string, QuestionBank>>(new Map()) // 快取所有題庫資料
   const currentBankId = ref<string | null>(null)
@@ -45,10 +60,14 @@ export const useFlashCardStore = defineStore('flashCard', () => {
     isLoading.value = true
     const loadedBanks: QuestionBankInfo[] = []
     let totalCount = 0
+    const folder = CLASS_FOLDERS[currentClass.value]
+
+    // 清除舊的快取
+    allBanksData.value.clear()
 
     for (const [id, filename] of Object.entries(BANK_FILES)) {
       try {
-        const response = await fetch(`/testData/${filename}`)
+        const response = await fetch(`/${folder}/${filename}`)
         const data: QuestionBank = await response.json()
         allBanksData.value.set(id, data) // 快取題庫資料
         loadedBanks.push({
@@ -73,6 +92,18 @@ export const useFlashCardStore = defineStore('flashCard', () => {
 
     banks.value = loadedBanks
     isLoading.value = false
+  }
+
+  async function switchClass(classId: string) {
+    if (currentClass.value === classId) return
+
+    currentClass.value = classId
+    currentBankId.value = null
+    currentBank.value = null
+    currentIndex.value = 0
+    isFlipped.value = false
+
+    await loadBankList()
   }
 
   async function selectBank(bankId: string) {
@@ -134,6 +165,7 @@ export const useFlashCardStore = defineStore('flashCard', () => {
 
   return {
     // State
+    currentClass,
     banks,
     currentBankId,
     currentBank,
@@ -146,6 +178,7 @@ export const useFlashCardStore = defineStore('flashCard', () => {
     progress,
     // Actions
     loadBankList,
+    switchClass,
     selectBank,
     nextQuestion,
     prevQuestion,

@@ -1,0 +1,2332 @@
+{
+    "title": "無線電通訊方法題庫",
+    "questions": [
+        {
+            "questionNumber": 1,
+            "question": "業餘衛星的上升通行方向 (direction of ascending pass) 是什麼？",
+            "correctAnswer": 3,
+            "answers": [
+                "由西往東",
+                "由東往西",
+                "由南往北",
+                "由北往南"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 2,
+            "question": "業餘衛星的下降通行方向 (direction of descending pass) 是什麼？",
+            "correctAnswer": 1,
+            "answers": [
+                "由北往南",
+                "由西往東",
+                "由東往西",
+                "由南往北"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 3,
+            "question": "什麼是地球衛星的軌道周期？",
+            "correctAnswer": 3,
+            "answers": [
+                "衛星軌道的最高點",
+                "衛星軌道的最低點",
+                "衛星繞地球公轉一次所花費的時間",
+                "衛星從近地點運行到遠地點所花費的時間"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 4,
+            "question": "衛星業餘無線電之模式 (mode) 係指下列何者 ?",
+            "correctAnswer": 2,
+            "answers": [
+                "一種可以通過衛星中繼的信號類型",
+                "衛星上鏈及下鏈的工作頻率頻段",
+                "衛星相對於地球的方向",
+                "衛星是否在極地或赤道軌道"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 5,
+            "question": "衛星模式中的英文字母代號意義為何 ?",
+            "correctAnswer": 4,
+            "answers": [
+                "上行鏈路和下行鏈路的傳輸功率限制",
+                "地面控制站的位置",
+                "上行鏈路和下行鏈路信號極化",
+                "上行鏈路和下行鏈路的頻率範圍"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 6,
+            "question": "如果業餘衛星在模式 U / V 工作，會在哪個頻段接收訊號？",
+            "correctAnswer": 1,
+            "answers": [
+                "435 百萬赫  - 438 百萬赫",
+                "144 百萬赫  - 146 百萬赫",
+                "50.0 百萬赫  - 50.2 百萬赫",
+                "29.5 百萬赫  - 29.7 百萬赫"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 7,
+            "question": "以下哪種類型的信號可以透過線性衛星轉頻器傳送？",
+            "correctAnswer": 4,
+            "answers": [
+                "FM and CW",
+                "SSB and SSTV",
+                "PSK and Packet",
+                "以上皆是"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 8,
+            "question": "為什麼使用線性衛星轉頻器傳送的有效輻射功率需要受到限制？",
+            "correctAnswer": 2,
+            "answers": [
+                "防止在衛星遙測中發生錯誤",
+                "避免減低其他使用者的下行鏈路功率",
+                "防止衛星發射頻帶外信號",
+                "避免干擾陸地通聯 (QSO)"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 9,
+            "question": "在衛星通信業務中， L 頻段和 S 頻段指的是甚麼 ?",
+            "correctAnswer": 1,
+            "answers": [
+                "23 公分和 13公分頻段",
+                "2 公尺和 70公分頻段",
+                "FM 和數字儲存轉發系統",
+                "使用了其中一個邊帶"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 10,
+            "question": "為什麼從業餘衛星接收到的信號會出現快速的重複衰落效應？",
+            "correctAnswer": 1,
+            "answers": [
+                "因為衛星正在旋轉",
+                "由於電離層吸收",
+                "由於衛星在低軌道高度",
+                "因為杜卜勒效應"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 11,
+            "question": "哪一種類型的天線可以使旋轉調變與法拉第旋轉的效應最小化 ?",
+            "correctAnswer": 2,
+            "answers": [
+                "線性極化天線",
+                "圓極化天線",
+                "全向性天線",
+                "對數週期偶極子陣列"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 12,
+            "question": "下列哪一項是在特定時間預測衛星位置的方法？",
+            "correctAnswer": 4,
+            "answers": [
+                "透過特定衛星的 杜卜勒數據",
+                "從軌道傾角減去平均異常量",
+                "從軌道傾角加上平均異常量",
+                "用指定衛星的杜卜勒單元進行計算"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 13,
+            "question": "哪一種類型的衛星會停留在天空的一個位置？",
+            "correctAnswer": 2,
+            "answers": [
+                "高橢圓軌道衛星 (HEO)",
+                "地球靜止軌道衛星 (地球同步衛星 , GEO)",
+                "地磁軌道衛星",
+                "低地球軌道衛星 (LEO)"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 14,
+            "question": "下列哪一項技術用於即時追蹤攜帶業餘無線電的氣球 ?",
+            "correctAnswer": 3,
+            "answers": [
+                "雷達",
+                "LORAN 雙曲線遠程導航系統寬頻帶壓縮",
+                "APRS ( 自動位置報告系統 , Automatic Position Reporting System)",
+                "信標信號的杜卜勒頻移"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 15,
+            "question": "在快速掃描 (NTSC) 電視系統中，每秒中傳送幾個畫面 ?",
+            "correctAnswer": 1,
+            "answers": [
+                "30",
+                "60",
+                "90",
+                "120"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 16,
+            "question": "每個快速掃描 (NTSC) 電視畫面，有幾條水平線 ?",
+            "correctAnswer": 3,
+            "answers": [
+                "30",
+                "60",
+                "525",
+                "1080"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 17,
+            "question": "在快速掃描 (NTSC) 電視系統中，如何產生交錯掃描圖案 ?",
+            "correctAnswer": 4,
+            "answers": [
+                "同時掃描兩個圖場 (field)",
+                "從下到上掃描每個圖場 (field)",
+                "在某圖場 (field) 由左至右掃描，下一個圖場 (field) 則由右至左掃描",
+                "在某圖場 (field) 掃描奇數線，下一個圖場 (field) 則掃描偶數線"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 18,
+            "question": "什麼是影像訊號的空白區 ?",
+            "correctAnswer": 2,
+            "answers": [
+                "水平和垂直同步脈波的同步 化",
+                "當由右至左或下至上掃描移動時，關閉掃描射線 (beam)",
+                "當結束傳送時，關閉掃描射 線(beam)",
+                "傳送黑白測試圖案"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 19,
+            "question": "下列何者為在快速掃描電視傳送系統中使用殘邊帶的優勢 ?",
+            "correctAnswer": 3,
+            "answers": [
+                "殘邊帶可攜帶聲音資訊",
+                "殘邊帶包含色彩資訊",
+                "殘邊帶降低所需使用頻寬，致可採用簡單的影像感測電路",
+                "殘邊帶提供了高頻加強，使影像銳利化"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 20,
+            "question": "什麼是殘邊帶調變 ?",
+            "correctAnswer": 1,
+            "answers": [
+                "調幅調變 (AM)中一邊完整，且另一邊部分傳送",
+                "一種調變型式其中一邊反相",
+                "窄頻調頻調變 (FM)在頻率調變於載波之前，過濾掉其中單邊之音訊",
+                "展頻調變藉由單邊帶調幅調變後，再加上調頻調變"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 21,
+            "question": "在 NTSC 視訊中攜帶色彩資訊的成分 (component) 叫什麼 ?",
+            "correctAnswer": 2,
+            "answers": [
+                "照度",
+                "色度",
+                "色調",
+                "頻譜強度"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 22,
+            "question": "下列何者為常見伴隨業餘快速掃描電視發送音訊的方式 ?",
+            "correctAnswer": 4,
+            "answers": [
+                "副載波調頻",
+                "獨立VHF或UHF音訊連結",
+                "影像載波調頻",
+                "以上皆是"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 23,
+            "question": "利用 DRM 解碼慢速掃描電視 (SSTV) ，除了有接收 SSB 功能之接收機及適當的電腦外，還需要什麼硬體 ?",
+            "correctAnswer": 4,
+            "answers": [
+                "特別的 IF轉換器",
+                "特別的前端限制器",
+                "特別的去除同步脈波的帶阻濾波器",
+                "不需其他硬體"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 24,
+            "question": "下列何者為 HF 業餘頻段裡傳送 DRM 聲音或慢速掃描電視 (SSTV) 所需的頻寬?",
+            "correctAnswer": 1,
+            "answers": [
+                "3 千赫",
+                "10 千赫",
+                "15 千赫",
+                "20 千赫"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 25,
+            "question": "慢速掃描電視 (SSTV) 傳送的垂直掃描間隔信號 (VIS) 的功用為何 ?",
+            "correctAnswer": 2,
+            "answers": [
+                "鎖定彩色 SSTV影像的色彩振盪器",
+                "辨別所使用的 SSTV模式",
+                "提供垂直同步",
+                "辨別發射電臺的呼號"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 26,
+            "question": "在 HF 頻帶，通常如何傳送類比慢速掃描電視 (SSTV) 影像?",
+            "correctAnswer": 4,
+            "answers": [
+                "影像被轉換為相應 Baudot 碼表示",
+                "影像被轉換為相應 ASCII 碼表示",
+                "代表影像的不同音頻 (tone) 頻率係以 PSK傳送",
+                "代表影像的不同音頻 (tone) 頻率係以 SSB傳送"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 27,
+            "question": "業餘彩色慢速掃描電視 (SSTV) 影像通常採用多少掃描線 ?",
+            "correctAnswer": 3,
+            "answers": [
+                "30 或 60",
+                "60 或 100",
+                "128 或 256",
+                "180 或 360"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 28,
+            "question": "在業餘慢速掃描電視 (SSTV) 中如何將影像的亮度編碼 ?",
+            "correctAnswer": 1,
+            "answers": [
+                "音頻(tone) 頻率",
+                "音頻(tone) 振幅",
+                "同步振幅",
+                "同步頻率"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 29,
+            "question": "接收到何訊號，慢速掃描電視 (SSTV) 的接收裝置即開始新的影像掃描行 ?",
+            "correctAnswer": 1,
+            "answers": [
+                "特定的音頻 (tone) 頻率",
+                "持續時間",
+                "特定的音頻振幅",
+                "雙音頻訊號"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 30,
+            "question": "何者為北美快速掃描業餘電視 (ATV) 電臺所使用的視訊標準 ?",
+            "correctAnswer": 4,
+            "answers": [
+                "PAL",
+                "DRM",
+                "Scottie",
+                "NTSC"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 31,
+            "question": "慢速掃描電視 (SSTV) 的訊號之所佔頻寬 大約為何?",
+            "correctAnswer": 2,
+            "answers": [
+                "600 赫",
+                "3 千赫",
+                "2 百萬赫",
+                "6 百萬赫"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 32,
+            "question": "FM ATV 常見使用下列何頻率傳輸 ?",
+            "correctAnswer": 4,
+            "answers": [
+                "14.230 百萬赫",
+                "29.6 百萬赫",
+                "3.5 百萬赫",
+                "1262 百萬赫"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 33,
+            "question": "慢速掃描電視 (SSTV) 在何頻率有使用限制 ?",
+            "correctAnswer": 3,
+            "answers": [
+                "無，可在所有的業餘頻率操作",
+                "限制在 7.145 百萬赫、 14.245 百萬赫、  21.345 百萬赫  和 28.945 百萬赫",
+                "限制在語音操作頻段，且頻寬不可大於相同調變模式之語音頻寬",
+                "不可在  54 百萬赫  以上的頻率操作"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 34,
+            "question": "下列有關比賽之操作何者正確 ?",
+            "correctAnswer": 1,
+            "answers": [
+                "操作者即使沒有遞送通聯紀錄 (log) ，仍可以進行通聯",
+                "對於其他業餘使用者的干擾是無法避免的，所以此干擾可接受",
+                "與其他電臺通聯，每次發射需要發射呼號",
+                "每個比賽皆需交換訊號報告"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 35,
+            "question": "以下何者為 HF 比賽中自我通 報(self -spotting) 之最佳描述 ?",
+            "correctAnswer": 1,
+            "answers": [
+                "通常禁止某人將其呼號及操作的頻率公布在通報網路  (spotting network) 上的作業方式",
+                "可接受手動將電臺呼號公布在通報網路 (spotting network) 上的作業方式",
+                "在呼叫電臺前，快速調諧頻率的手動技巧",
+                "在呼叫電臺前，快速調諧頻率的自動方法"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 36,
+            "question": "下列何頻段通常業餘無線電比賽會避免使用 ?",
+            "correctAnswer": 1,
+            "answers": [
+                "30  公尺頻段",
+                "6  公尺頻段",
+                "2  公尺頻段",
+                "24  公分頻段"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 37,
+            "question": "什麼類型的傳輸最常用於業餘無線電網狀網路？",
+            "correctAnswer": 1,
+            "answers": [
+                "在2.4 吉赫頻帶的展頻  (Spread Spectrum, SS)",
+                "在10 吉赫頻帶中的多頻移鍵控  (Multiple frequency -shift keying, MFSK)",
+                "在440 百萬赫頻帶上儲存和轉發  (store and forward)",
+                "在24 吉赫頻帶中的分頻多工  (Frequency division multiplex, FDM)"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 38,
+            "question": "DX QSL 管理者之作用為何 ?",
+            "correctAnswer": 2,
+            "answers": [
+                "指派頻率給遠征通聯活動",
+                "處理遠方電臺的通聯證明卡的收發",
+                "維運網路讓多數電臺 與稀有遠方電臺 (DX station)  通聯",
+                "中繼發自或傳送至遠方電臺 (DX station) 的呼叫"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 39,
+            "question": "在 VHF/UHF 比賽期間，在何頻帶區域可能會發現較有最高級技巧的通聯?",
+            "correctAnswer": 3,
+            "answers": [
+                "在每個頻帶的高頻段，通常會預留給比賽使用",
+                "在每個頻帶的中頻段，通常在全國呼叫頻率",
+                "在每個頻帶的弱訊號通聯段，接近呼叫頻率",
+                "在頻帶的中頻段，通常會在全國呼叫 頻率以上 25 千赫處"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 40,
+            "question": "什麼是 Cabrillo 資料格式 ?",
+            "correctAnswer": 1,
+            "answers": [
+                "傳送電子比賽紀錄的標準",
+                "在比賽時交換資訊的方式",
+                "最常見的比賽規則",
+                "比賽贊助商會議規則"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 41,
+            "question": "什麼類型的設備通常用於建置業餘無線電網狀網路？",
+            "correctAnswer": 3,
+            "answers": [
+                "具有1200 鮑數據機 (modem) 的2公尺VHF收發機",
+                "連接兩個獨立電腦的 USB端口之間的光纜",
+                "執行客製化軟體的標準無線路由器",
+                "具有9600 鮑數據機 (modem) 的440 百萬赫收發機"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 42,
+            "question": "為何有些 DX 電臺接收在不同的頻率 ?",
+            "correctAnswer": 4,
+            "answers": [
+                "因為DX電臺發射的頻率也許其他回應的電臺不能在該頻率發射",
+                "分隔呼叫電臺與 DX電臺",
+                "用以減少干擾，來改善操作效率",
+                "以上皆是"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 43,
+            "question": "當在比賽或 pileup ，嘗試與 DX 電臺通聯時，你通常需要如何識別你的電臺?",
+            "correctAnswer": 1,
+            "answers": [
+                "傳送你的完整呼號一次或兩次",
+                "僅傳送你的呼號最後兩個字母直到建立通聯",
+                "傳送你的完整呼號和地理 方格",
+                "傳送DX電臺呼號三次，再接上 \"我是\"以及自己的完整呼號三次"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 44,
+            "question": "當日落數個小時後， DX 電臺訊號減弱到無法於整個 HF 頻帶通聯時，下列何者也許可幫助再建立通聯 ?",
+            "correctAnswer": 2,
+            "answers": [
+                "轉換到更高頻率的 HF頻帶",
+                "轉換到更低頻率的 HF頻帶",
+                "等90分鐘左右，待訊號衰減情況消失",
+                "等24小時後再嘗試"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 45,
+            "question": "下列何種數位模式特別設計用於流星散射信號？",
+            "correctAnswer": 2,
+            "answers": [
+                "WSPR",
+                "FSK441",
+                "Hell schreiber",
+                "APRS"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 46,
+            "question": "下列何者是製作流星散射通信的好技術？",
+            "correctAnswer": 4,
+            "answers": [
+                "不同位置的電臺輪流傳送 15秒定時序列",
+                "使用高速 CW或數位模式",
+                "具有快速重複的呼號和信號報告的短傳輸",
+                "以上皆是"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 47,
+            "question": "下列何種數位模式於月 面反射通信特別有用？",
+            "correctAnswer": 4,
+            "answers": [
+                "FSK441",
+                "PACTOR III",
+                "Olivia",
+                "JT65"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 48,
+            "question": "在業餘無線電衛星上的數位儲存轉發功能的目的為何？",
+            "correctAnswer": 3,
+            "answers": [
+                "上傳轉頻器的操作軟體",
+                "延遲衛星之間遙測的下載",
+                "將數位訊息儲存於衛星，以便稍後其他電臺下載",
+                "中繼衛星之間的訊息"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 49,
+            "question": "低地球軌道數位衛星通常使用下列何種技術在全世界傳播信息？",
+            "correctAnswer": 2,
+            "answers": [
+                "數位中繼",
+                "儲存轉發",
+                "多衛星中繼",
+                "節點跳躍"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 50,
+            "question": "下列何者描述了建立月面反射通信的方法？",
+            "correctAnswer": 1,
+            "answers": [
+                "從每個電臺交替地進行時間同步傳輸",
+                "儲存和轉發數位訊息",
+                "透過監測從月 面反射的信標來判斷最佳傳輸時間",
+                "高速CW識別，以避免衰減"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 51,
+            "question": "APRS( 自動位置報告系統 , Automatic Position Reporting System) 使用下列何種通訊協定？",
+            "correctAnswer": 3,
+            "answers": [
+                "PACTOR",
+                "802.11",
+                "AX.25",
+                "AMTOR"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 52,
+            "question": "什麼類型的封包用於傳輸 APRS( 自動位置報告系統 , Automatic Position Reporting System) 信標數據？",
+            "correctAnswer": 1,
+            "answers": [
+                "未編碼訊息",
+                "中斷",
+                "確認",
+                "連接"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 53,
+            "question": "在清晰的通信條件下，哪些數位模式具有最快的數據吞吐量(throughput) ？",
+            "correctAnswer": 4,
+            "answers": [
+                "AMTOR",
+                "170 赫偏移， 45鮑RTTY",
+                "PSK31",
+                "300 鮑封包"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 54,
+            "question": "如何使用 APRS( 自動位置報告系統 , Automatic Position Reporting System)站來協助支援公共服務通信活動？",
+            "correctAnswer": 3,
+            "answers": [
+                "具有緊急醫療技師的 APRS站可以自動將醫療數據傳輸到最近的醫院",
+                "具有通用個人掃描器的 APRS站可以在參與者通過檢查點時自動中繼其號碼和時間",
+                "具有GPS的APRS站可以自動發送資訊，以顯示活動期間行動電臺的位置",
+                "以上皆是"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 55,
+            "question": "APRS( 自動位置報告系統 , Automatic Position Reporting System) 網路使用下列哪些數據來傳達您的位置？",
+            "correctAnswer": 4,
+            "answers": [
+                "極坐標",
+                "時間和頻率",
+                "無線電測向頻譜分析",
+                "經度和緯度"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 56,
+            "question": "JT65 如何改善月面反射通信？",
+            "correctAnswer": 1,
+            "answers": [
+                "它可以使用  FEC 對低於背景雜訊許多  dB 的信號進行解碼",
+                "它控制接收機 ；追蹤杜卜勒頻移",
+                "它提供信號，引導天線追蹤月球",
+                "以上皆是"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 57,
+            "question": "JT65 通訊使用什麼類型的調變方式？",
+            "correctAnswer": 1,
+            "answers": [
+                "Multi -tone AFSK",
+                "PSK",
+                "RTTY",
+                "IEEE 802.11"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 58,
+            "question": "下列何者是使用 JT65 編碼的優點？",
+            "correctAnswer": 2,
+            "answers": [
+                "僅使用  65赫 頻寬",
+                "具有對非常低信噪比的信號進行解碼的能力",
+                "若有必要，人耳亦能輕鬆抄收",
+                "允許快速掃描電視用窄頻寬傳輸"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 59,
+            "question": "下列何者為  30 百萬赫以下數據傳送常見之調變型式 ?",
+            "correctAnswer": 2,
+            "answers": [
+                "調變FM訊號之 DTMF tone",
+                "FSK",
+                "Pulse 調變",
+                "展頻"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 60,
+            "question": "在數位模式操作中， FEC 各個字母代表何意 ?",
+            "correctAnswer": 1,
+            "answers": [
+                "Forward Error Correction",
+                "First Error Correction",
+                "Fatal Error Correction",
+                "Final Error Correction"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 61,
+            "question": "JT65 通訊的時序如何安排 ?",
+            "correctAnswer": 3,
+            "answers": [
+                "藉由交換 ACK/NAK 封包",
+                "電臺每天輪流",
+                "每1分鐘時段，電臺交替發射",
+                "依月相而定"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 62,
+            "question": "當 FSK 的交錯 ellipse 顯示中，其中一個 ellipse 忽然消失，這代表著什麼?",
+            "correctAnswer": 1,
+            "answers": [
+                "發生選擇性衰落",
+                "其中一個訊號濾波器飽和了",
+                "接收機與想要接收的頻率有 5 千赫偏差",
+                "Mark 和 Space 訊號被倒置"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 63,
+            "question": "下列何種數位模式不支援電腦鍵盤對電腦鍵盤 (keyboard -to-keyboard) 之操作方式 ?",
+            "correctAnswer": 1,
+            "answers": [
+                "Winlink",
+                "RTTY",
+                "PSK31",
+                "MFSK"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 64,
+            "question": "下列何者為常見的 HF 封包通訊資料傳送率 ?",
+            "correctAnswer": 3,
+            "answers": [
+                "48 鮑(baud)",
+                "110  鮑(baud)",
+                "300  鮑(baud)",
+                "1200  鮑(baud)"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 65,
+            "question": "適當調變之 MFSK16 訊號的頻寬為何 ?",
+            "correctAnswer": 2,
+            "answers": [
+                "31 赫",
+                "316 赫",
+                "550 赫",
+                "2.16 千赫"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 66,
+            "question": "下列何種 HF 數位模式可用來傳送二進位檔案 ?",
+            "correctAnswer": 2,
+            "answers": [
+                "Hellschreiber",
+                "PACTOR",
+                "RTTY",
+                "AMTOR"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 67,
+            "question": "下列何種 HF 數位模式可利用可變長度的編碼來增加頻寬的效率 ?",
+            "correctAnswer": 4,
+            "answers": [
+                "RTTY",
+                "PACTOR",
+                "MT63",
+                "PSK31"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 68,
+            "question": "下列何種數位模式的使用頻寬最小 ?",
+            "correctAnswer": 3,
+            "answers": [
+                "MFSK16",
+                "170 赫偏移, 45 鮑(baud) RTTY",
+                "PSK31",
+                "300 -鮑(buad) packet"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 69,
+            "question": "Direct FSK 和 Audio FSK 的差異為何 ?",
+            "correctAnswer": 1,
+            "answers": [
+                "Direct FSK 將數據訊號施加於發 射機VFO上",
+                "Audio FSK 有較佳的頻率響應",
+                "Direct FSK 使用直流耦合之資料連結",
+                "Audio FSK 可作用於訊號發射鏈中任何環結"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 70,
+            "question": "使用 Automatic Link Enable(ALE) 協定的電臺的控制方式為何 ?",
+            "correctAnswer": 3,
+            "answers": [
+                "即席控制",
+                "遙控控制",
+                "自動控制",
+                "ALE 可用在任何控制方式"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 71,
+            "question": "嘗試在無人使用的頻率與某數位模式之電臺通聯失敗，下列何者為可能的原因 ?",
+            "correctAnswer": 4,
+            "answers": [
+                "你的發射頻率有誤",
+                "該數位模式電臺 不支援你使用的通訊協定之版本",
+                "其他電臺在使用這個頻率，只是你無法聽到",
+                "以上皆是"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 72,
+            "question": "使用月面反射通信 (EME) 的兩個電臺之間，沿地球表面測量的近似最大間隔是多少？",
+            "correctAnswer": 4,
+            "answers": [
+                "800 公里，若月球在近地點",
+                "3,200 公里，若月球在遠地點",
+                "8,000 公里，若月球在近地點",
+                "19,200 公里，若雙方都能看見月亮"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 73,
+            "question": "什麼是月面反射通信 (EME) 信號振盪衰減的特徵？",
+            "correctAnswer": 2,
+            "answers": [
+                "CW 信號的音調緩慢變化",
+                "飄忽不規則的衰減",
+                "隨著太陽升起，信號逐漸消失",
+                "反射的頻率比發射信號低幾赫"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 74,
+            "question": "在從事月面反射通信 (EME) 時，通常下列哪一個條件會產生最少的路徑損失？",
+            "correctAnswer": 1,
+            "answers": [
+                "當月球在近地點時",
+                "當滿月時",
+                "當月球在遠地點時",
+                "當 MUF 高於 30 百萬赫時"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 75,
+            "question": "赫本(Hepburn) 地圖能預測什麼？",
+            "correctAnswer": 4,
+            "answers": [
+                "偶發性 E 層傳播",
+                "極光反射區的位置",
+                "沿著冷鋒或暖鋒的雨滴散射的可能性",
+                "對流層傳播的概率"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 76,
+            "question": "微波信號的對流層傳播，通常伴隨著什麼天氣結構發生？",
+            "correctAnswer": 3,
+            "answers": [
+                "灰線",
+                "閃電放電",
+                "暖鋒和冷鋒",
+                "精靈和噴流"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 77,
+            "question": "下列何者是透過雨滴散射進行微波傳播必備條件？",
+            "correctAnswer": 3,
+            "answers": [
+                "雨滴必須帶電",
+                "雨滴必須在  E 層內",
+                "雨滴必須在兩個電臺的無線電範圍內",
+                "以上皆是"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 78,
+            "question": "能夠傳播微波信號的大氣管道通常在什麼地理特徵下形成？",
+            "correctAnswer": 3,
+            "answers": [
+                "山脈",
+                "森林",
+                "水體",
+                "市區"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 79,
+            "question": "當流星撞擊地球大氣時，在那一個電離層形成自由電子的圓柱形區域？",
+            "correctAnswer": 1,
+            "answers": [
+                "E 層",
+                "F1 層",
+                "F2 層",
+                "D 層"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 80,
+            "question": "以下哪個頻率範圍最適合流星散射通信？",
+            "correctAnswer": 3,
+            "answers": [
+                "1.8 百萬赫  - 1.9 百萬赫",
+                "10 百萬赫  - 14 百萬赫",
+                "28 百萬赫  - 148 百萬赫",
+                "220 百萬赫  - 450 百萬赫"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 81,
+            "question": "何種類型的大氣結構可以建立微波傳播的路徑？",
+            "correctAnswer": 2,
+            "answers": [
+                "噴射氣流",
+                "逆溫(Temperature inversion)",
+                "風切",
+                "塵埃"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 82,
+            "question": "微波信號的對流層傳播的典型範圍是多少？",
+            "correctAnswer": 2,
+            "answers": [
+                "16  公里到  80 公里",
+                "160 公里到  480 公里",
+                "1,920 公里",
+                "4,000 公里"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 83,
+            "question": "極光生成的原因為何？",
+            "correctAnswer": 3,
+            "answers": [
+                "在F2 層中太陽風和范艾倫帶之間相互作用",
+                "低太陽黑子活躍結合對流層管道化作用",
+                "在E 層中來自太陽的帶電粒子與地球磁場的相互作用",
+                "流星雨集中在北極和南極"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 84,
+            "question": "哪種發射模式最適合極光傳播？",
+            "correctAnswer": 1,
+            "answers": [
+                "CW",
+                "SSB",
+                "FM",
+                "RTTY"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 86,
+            "question": "什麼是電磁波？",
+            "correctAnswer": 3,
+            "answers": [
+                "在電磁鐵核心的交流波",
+                "由兩個彼此平行成直角的電場組成的波",
+                "由彼此成直角振盪的電場和磁場組成的波",
+                "由兩個彼此成直角的磁場組成的波"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 87,
+            "question": "下列何者最佳描述在自由空間中行進的電磁波？",
+            "correctAnswer": 4,
+            "answers": [
+                "電場和磁場移動時變得對齊",
+                "能量透過具有高折射率的介質傳播",
+                "波被電離層反射折返回發射源",
+                "透過改變的電場和磁場傳播能量"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 88,
+            "question": "什麼是圓極化電磁波？",
+            "correctAnswer": 2,
+            "answers": [
+                "具有彎曲成圓形狀電場的波",
+                "具有旋轉電場的波",
+                "繞地球的波",
+                "由環形天線產生的波"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 89,
+            "question": "什麼是跨越赤道傳播？",
+            "correctAnswer": 1,
+            "answers": [
+                "在磁赤道的南北大致相同距離的兩個中緯度地點之間的傳播",
+                "在磁赤道上任意兩點之間的傳播",
+                "在兩個大陸之間沿著赤道管道的傳播",
+                "在同一緯度的兩個電臺之間的傳播"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 90,
+            "question": "使用跨越赤道傳播的信號的最大近似範圍是多少？",
+            "correctAnswer": 3,
+            "answers": [
+                "1,600  公里",
+                "4,000  公里",
+                "8,000  公里",
+                "12,000  公里"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 91,
+            "question": "每天跨越赤道傳播的最佳時間為何？",
+            "correctAnswer": 3,
+            "answers": [
+                "早上",
+                "中午",
+                "下午或傍晚",
+                "深夜"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 92,
+            "question": "異常波和常波 (extraordinary and ordinary waves) 是什麼意思？",
+            "correctAnswer": 2,
+            "answers": [
+                "與移動較短距離的常波相比，異常波描述罕見的長跳躍傳播",
+                "在電離層中產生的橢圓極化的獨立波",
+                "長路徑和短路徑波",
+                "折射波和反射波"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 93,
+            "question": "哪個業餘頻段通常支援長路徑傳播？",
+            "correctAnswer": 3,
+            "answers": [
+                "160 公尺到 40公尺",
+                "30 公尺到 10公尺",
+                "160 公尺到 10公尺",
+                "6 公尺到 2公尺"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 94,
+            "question": "哪個業餘頻段最常提供長路徑傳播？",
+            "correctAnswer": 2,
+            "answers": [
+                "80  公尺",
+                "20  公尺",
+                "10  公尺",
+                "6  公尺"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 95,
+            "question": "以下哪項可能導致對遠端電臺的接收信號裡聽到迴聲？",
+            "correctAnswer": 4,
+            "answers": [
+                "高D層吸收",
+                "流星散射",
+                "發射頻率高於 MUF",
+                "接收到的信號來自多個路徑"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 96,
+            "question": "如果無線電信號沿著白天和黑夜的分界線行進，可能發生什麼類型的 HF 傳播？",
+            "correctAnswer": 4,
+            "answers": [
+                "跨越赤道",
+                "散狀E層(Sporadic -E)",
+                "長途徑",
+                "灰線(Gray -line)"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 97,
+            "question": "在一年的什麼時間散狀 E 層傳播 (Sporadic -E propagation) 最可能發生？",
+            "correctAnswer": 1,
+            "answers": [
+                "大約在至點，特別是夏至",
+                "大約在至點，特別是冬至",
+                "大約在分點，特別是春分",
+                "大約在分點，尤其是秋分"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 98,
+            "question": "形成灰線傳播的原因是什麼？",
+            "correctAnswer": 2,
+            "answers": [
+                "在中午，太陽加熱電離層，導致無線電波的折射增加",
+                "在黃昏和日出， D層吸收低，而 E層和F層傳播能力仍高",
+                "在黑夜，太陽能吸收大幅下降，而大氣電離保持穩定",
+                "在中午，太陽加熱電離層，減少無線電波折射和 MUF"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 99,
+            "question": "在一天中的什麼時間散狀 E 層傳播 (Sporadic -E propagation) 最可能發生？",
+            "correctAnswer": 4,
+            "answers": [
+                "大約日落",
+                "大約日出",
+                "傍晚",
+                "任何時候"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 100,
+            "question": "弦跳傳播 (chordal hop propagation) 的主要特徵是什麼？",
+            "correctAnswer": 2,
+            "answers": [
+                "遠離電臺之間的大圓方位傳播",
+                "沒有來自地面的中間反射的連續電離層反射",
+                "橫過地磁赤道的傳播",
+                "信號反射回發射臺"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 101,
+            "question": "為什麼要使用弦跳傳播 (chordal hop propagation) ？",
+            "correctAnswer": 1,
+            "answers": [
+                "與正常跳躍傳播相比，信號沿著路徑經歷更少的損失",
+                "用於弦跳傳播的 MUF比用於正常跳躍傳播低得多",
+                "大氣雜訊在弦跳傳播方向上較低",
+                "信號沿電離層行進得更快"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 102,
+            "question": "在電離層中線性極化無線電波分裂成常波和異常波會發生什麼？",
+            "correctAnswer": 3,
+            "answers": [
+                "它們彎向磁極",
+                "它們的極化隨機改變",
+                "它們變成橢圓極化",
+                "它們變為鎖相"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 103,
+            "question": "關於無線電通信的術語，射線追 蹤是什麼？",
+            "correctAnswer": 2,
+            "answers": [
+                "電子顯示器呈現圖案的過程",
+                "建立無線電波通過電離層的路徑模型",
+                "從天線陣列確定輻射模式",
+                "評估X射線的高電壓來源"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 104,
+            "question": "上升的 A 或 K 指數表示什麼？",
+            "correctAnswer": 1,
+            "answers": [
+                "增加地磁場的擾動",
+                "減少地磁場的擾動",
+                "更高程度的太陽紫外線輻射",
+                "臨界頻率的增加"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 105,
+            "question": "當 A 指數或 K 指數升高時，下列哪種信號路徑最有可能經歷高程度的吸收？",
+            "correctAnswer": 2,
+            "answers": [
+                "跨越赤道傳播",
+                "磁極路徑 (Polar paths)",
+                "散狀E層(Sporadic -E)",
+                "NVIS"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 106,
+            "question": "Bz (B sub Z) 的值代表什麼？",
+            "correctAnswer": 3,
+            "answers": [
+                "地磁場穩定性",
+                "垂直傳輸的臨界頻率",
+                "星際間磁場的方向和強度",
+                "長延遲回波的持續時間"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 107,
+            "question": "什麼方向的 Bz (B sub z) 會使來自太陽的入射粒子導致擾亂狀態的可能性增加？",
+            "correctAnswer": 1,
+            "answers": [
+                "南向",
+                "北向",
+                "東向",
+                "西向"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 108,
+            "question": "VHF / UHF 無線電地平線距離超過幾何地平線多少？",
+            "correctAnswer": 1,
+            "answers": [
+                "大約是距離的 15％",
+                "大約是距離的兩倍",
+                "大約是距離的 50％",
+                "大約是距離的四倍"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 109,
+            "question": "以下哪個描述表示最大的太陽閃燄強度？",
+            "correctAnswer": 4,
+            "answers": [
+                "A 級",
+                "B 級",
+                "M 級",
+                "X 級"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 110,
+            "question": "太空天氣用語 G5 是什麼意思？",
+            "correctAnswer": 1,
+            "answers": [
+                "極端地磁風暴",
+                "低度的太陽活動",
+                "中度太陽風",
+                "減少太陽黑子數"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 111,
+            "question": "X3 閃燄的強度與 X2 閃燄相比如何？",
+            "correctAnswer": 3,
+            "answers": [
+                "大10％",
+                "大50％",
+                "兩倍大",
+                "四倍大"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 112,
+            "question": "304A 太陽參數是測量什麼？",
+            "correctAnswer": 2,
+            "answers": [
+                "X 射線通量與無線電通量的比率，與太陽黑子數量相關",
+                "在304埃(angstrom) 的紫外線輻射，與太陽通量指數相關",
+                "從太陽赤道的 304級太陽風速度，與太陽活動相關",
+                "在304吉赫(GHz) 的太陽輻射，與 X射線閃燄等級相關"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 113,
+            "question": "VOACAP 軟體是要建立什麼模型？",
+            "correctAnswer": 3,
+            "answers": [
+                "交流電壓和阻抗",
+                "VHF 無線電傳播",
+                "HF 無線電傳播",
+                "交流電流和阻抗"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 114,
+            "question": "當信號頻率增加時，地波傳播的最大距離如何變化？",
+            "correctAnswer": 3,
+            "answers": [
+                "保持不變",
+                "增加",
+                "減少",
+                "峰值在大約 14 百萬赫"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 115,
+            "question": "什麼類型的極化最適合地波傳播？",
+            "correctAnswer": 1,
+            "answers": [
+                "垂直",
+                "水平",
+                "圓",
+                "橢圓"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 116,
+            "question": "為什麼無線電地平線距離超過幾何地平線？",
+            "correctAnswer": 4,
+            "answers": [
+                "E 層跳躍",
+                "D 層跳躍",
+                "由於極光折射導致的向下彎曲",
+                "由於大氣中的密度變化而向下彎曲"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 117,
+            "question": "無線電背景雜訊突然增加可能表示什麼？",
+            "correctAnswer": 2,
+            "answers": [
+                "流星",
+                "發生了太陽閃燄",
+                "增加跨越赤道傳播可能",
+                "長路徑傳播正在發生"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 118,
+            "question": "下列哪個參數決定數位或以電腦演算的示波器頻寬 ?",
+            "correctAnswer": 3,
+            "answers": [
+                "輸入電容",
+                "輸入阻抗",
+                "取樣頻率",
+                "取樣解析度"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 119,
+            "question": "頻譜分析儀在垂直軸和水平軸顯示下列參數 ?",
+            "correctAnswer": 2,
+            "answers": [
+                "射頻振幅和時間",
+                "射頻振幅和頻率",
+                "駐波和頻率",
+                "駐波和時間"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 120,
+            "question": "下列哪個測試儀器是用來顯示單旁帶發射機產生的混附訊號與內調變失真?",
+            "correctAnswer": 2,
+            "answers": [
+                "功率表",
+                "頻譜分析儀",
+                "邏輯分析儀",
+                "TDR 時域反射儀"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 121,
+            "question": "下列那一項決定電腦音效卡示波器程式的頻率上限 ?",
+            "correctAnswer": 1,
+            "answers": [
+                "音效卡的類比轉換成數位的轉換速度",
+                "音效卡記憶數量",
+                "介面線路的介面 Q值",
+                "以上皆是"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 122,
+            "question": "數位示波器跟類比示波器比有什麼優勢 ?",
+            "correctAnswer": 4,
+            "answers": [
+                "自動讀出振幅和頻率數值",
+                "儲存軌跡作未來參考",
+                "在截取軌跡後可操作時基",
+                "以上皆是"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 123,
+            "question": "對於數位或以電腦演算的示波器來說，什麼是混疊效應 ?",
+            "correctAnswer": 1,
+            "answers": [
+                "顯示出來是假的訊號",
+                "所有訊號有直流偏移",
+                "垂直刻度調 校無效",
+                "觸發假的訊號"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 124,
+            "question": "使用天線分析儀測量天線駐波比 (SWR) 比使用駐波比電橋的優勢是什麼 ?",
+            "correctAnswer": 2,
+            "answers": [
+                "天線分析儀自動調諧共振點",
+                "天線分析儀不需要外加射頻訊號源",
+                "天線分析儀顯示調變包絡的時間變化",
+                "以上皆是"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 125,
+            "question": "下列哪個儀器測量定向天線 (beam antenna) 的駐波比最佳 ?",
+            "correctAnswer": 4,
+            "answers": [
+                "頻譜分析儀",
+                "Q值錶",
+                "歐姆錶",
+                "天線分析儀"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 126,
+            "question": "當使用電腦音效卡的輸入來數位化訊號時，可以數位化但不會混疊的最高信號頻率是多少 ?",
+            "correctAnswer": 2,
+            "answers": [
+                "跟取樣率相同",
+                "取樣率的一半",
+                "取樣率的十分之一",
+                "取決於內部儲存資料而定"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 127,
+            "question": "下列哪個儀器可同時顯示多個數位訊號狀態 ?",
+            "correctAnswer": 4,
+            "answers": [
+                "網路分析儀",
+                "位元偵錯器",
+                "調變監控器",
+                "邏輯分析儀"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 128,
+            "question": "使用示波器探測棒時，下列哪個是好的使用方法 ?",
+            "correctAnswer": 1,
+            "answers": [
+                "使用探測棒時，訊號接地端盡量保持愈短愈好",
+                "絕不使用高阻抗探測棒測量低阻抗線路",
+                "絕不使用直流耦合探測棒測量交流線路",
+                "以上皆是"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 129,
+            "question": "當頻譜分析儀連接到發射機輸出端時，必須遵守下列哪個重要的預防步驟?",
+            "correctAnswer": 2,
+            "answers": [
+                "使用高品質雙層同軸遮蔽線減少訊號損失",
+                "使連接頻譜分析儀的發射機輸出功率衰減",
+                "天線到負載端 須匹配",
+                "以上皆是"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 130,
+            "question": "典型的示波器探測棒補償值調整方法為何 ?",
+            "correctAnswer": 1,
+            "answers": [
+                "調整探測棒直到顯示的方波波形的水平部分， 儘可能接近平整",
+                "調整探測棒 直到顯示的高頻正弦波的振幅最大",
+                "整調探測棒 直到顯示的標準頻率的偏差時間是精確的",
+                "調整探測棒 直到顯示的直流標準電壓的電壓是精確的"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 131,
+            "question": "計頻器的預分頻器功能的用途為何 ?",
+            "correctAnswer": 4,
+            "answers": [
+                "它放大低準位訊號作更精確計頻",
+                "它乘上比較高的頻率訊號，因此低頻計頻器可以顯示工作頻率",
+                "它預防低頻計頻器電路 振盪",
+                "它除以比較高的頻率訊號，因此低頻計頻器可以顯示輸入頻率"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 132,
+            "question": "週期測量計頻器勝過直接計頻器的優點是甚麼 ?",
+            "correctAnswer": 3,
+            "answers": [
+                "可以使用電池當電源來遙測",
+                "不需要採用昂貴的高精確度時基電路",
+                "在可比較 周期內，提供改善低頻率訊號解析度",
+                "可直接測量 FM調頻發射機的調變指數"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 133,
+            "question": "下列哪個因素影響計頻器精確度最大 ?",
+            "correctAnswer": 2,
+            "answers": [
+                "輸入衰減器精確度",
+                "時基精確度",
+                "十進位分頻器精確度",
+                "邏輯電路的溫度係數"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 134,
+            "question": "使用電橋電路測量阻抗有何優勢 ?",
+            "correctAnswer": 3,
+            "answers": [
+                "不管在任何情況下，提供極佳的匹配",
+                "不受訊號產生源頻率漂移干擾",
+                "非常精確取得訊號原點",
+                "可以在史密斯圖表直接顯示結果"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 135,
+            "question": "假設計頻器標明精度為 +/- 1.0 PPM ，讀數為 146,520,000 赫，實際頻率與測量的讀數最大差值是多少？",
+            "correctAnswer": 3,
+            "answers": [
+                "165.2 赫",
+                "14.652 千赫",
+                "146.52 赫",
+                "1.4652 百萬赫"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 136,
+            "question": "假設計頻器標明精度為 +/- 0.1 PPM ，讀數為 146,520,000 赫，實際頻率與測量的讀數最大差值是多少？",
+            "correctAnswer": 1,
+            "answers": [
+                "14.652 赫",
+                "0.1 百萬赫",
+                "1.4652 赫",
+                "1.4652 千赫"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 137,
+            "question": "假設計頻器標明精度為 +/-10 PPM ，讀數為 146,520,000 赫，實際頻率與測量的讀數最大差值是多少？",
+            "correctAnswer": 4,
+            "answers": [
+                "146.52 赫",
+                "10 赫",
+                "146.52 千赫",
+                "1465.20 赫"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 138,
+            "question": "當發射機端與終端負載間連接的指向性功率表讀數為順向功率 100 瓦特，反向功率 25 瓦特時，多少功率被負載吸收？",
+            "correctAnswer": 4,
+            "answers": [
+                "100 瓦特",
+                "125 瓦特",
+                "25 瓦特",
+                "75 瓦特"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 139,
+            "question": "S 參數的下標數目代表著甚麼 ？",
+            "correctAnswer": 1,
+            "answers": [
+                "指被測量的一端口或數端口",
+                "測試期間的相對時間",
+                "有關數據的質量",
+                "頻率的測量次序"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 140,
+            "question": "好的直流電壓 表具備下列的哪個特性 ？",
+            "correctAnswer": 3,
+            "answers": [
+                "高磁阻輸入",
+                "低磁阻輸入",
+                "高阻抗輸入",
+                "低阻抗輸入"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 141,
+            "question": "當發射機調諧到共振時，與發射機的天線饋電線串聯的射頻電流表上的電流讀數增加，所代表意義為何 ？",
+            "correctAnswer": 4,
+            "answers": [
+                "可能饋線對地短路",
+                "發射機無法適當抵銷 (neutralized)",
+                "天線跟饋線之間無法匹配",
+                "更多功率輸入到天線"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 142,
+            "question": "下列哪個描述測量單旁帶發射機內調變失真方法 ？",
+            "correctAnswer": 2,
+            "answers": [
+                "用二個没有諧波 (non-harmonically) 關係的無線電頻率調變發射機，並用頻譜分析儀觀察 射頻輸出",
+                "用二個没有諧波 (non-harmonically) 關係的音頻訊號調變發射機，並用頻譜分析儀觀察射頻輸出",
+                "用二個有諧波 (harmonically) 關係的音頻訊號調變發射機，並用功率錶峰值讀數觀察射頻輸出",
+                "用二個有諧波 (harmonically) 關係的音頻訊號調變發射機，並用邏輯分析儀觀察射頻輸出"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 143,
+            "question": "如果要測量天線諧振和饋線點阻抗，請問如何連接天線分析儀 ？",
+            "correctAnswer": 4,
+            "answers": [
+                "將分析儀鬆耦合地靠近天線基座",
+                "分析儀經高阻抗變壓器連接到天線",
+                "將天線和假負載鬆耦合到分析儀",
+                "直接連接天線饋線到分析儀接頭"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 144,
+            "question": "電壓表靈敏度以歐姆 /伏特表示，代表甚麼意義 ？",
+            "correctAnswer": 1,
+            "answers": [
+                "電壓表滿幅度的讀數乘以歐姆 /伏特額定值，可得到電壓錶輸入阻抗",
+                "當成電流計使用時，伏特電壓乘以歐姆 /伏特額定值，可得到被測試裝置功率消耗",
+                "當成歐姆 表使用時，讀數值 (以歐姆為單位 )除以歐姆 /伏特額定值，可得到施加到電路的電壓",
+                "當成安培計使用時，滿幅讀數 (以安培為單位 )除以歐姆 /伏特額定值，可得到所需的分流器大小"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 145,
+            "question": "哪個 S 參數等同順向增益 ？",
+            "correctAnswer": 3,
+            "answers": [
+                "S11",
+                "S12",
+                "S21",
+                "S22"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 146,
+            "question": "當柵陷 表過度緊密耦合想要檢測的調諧電路會發生何種情況 ？",
+            "correctAnswer": 2,
+            "answers": [
+                "產生諧波",
+                "造成不精確讀數",
+                "產生交互調變",
+                "產生內調變失真"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 147,
+            "question": "下列哪個可以當作串聯調諧電路 Q 值的相對測量 ？",
+            "correctAnswer": 3,
+            "answers": [
+                "阻抗跟電容抗比率",
+                "頻率的漂移",
+                "電路的頻率響應頻寬",
+                "電路諧振頻率"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 148,
+            "question": "哪個 S 參數代表反射損失或駐波 ？",
+            "correctAnswer": 1,
+            "answers": [
+                "S11",
+                "S12",
+                "S21",
+                "S22"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 149,
+            "question": "校正標準射頻向量網路分析儀要用哪三個測試負載 ？",
+            "correctAnswer": 2,
+            "answers": [
+                "50 歐姆、 75歐姆和 90歐姆",
+                "短路電路、開路電路和 50歐姆",
+                "短路電路、開路電路和諧振電路",
+                "用50歐姆的 1/8波長、1/4波長和 1/2波長的同軸電纜"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 150,
+            "question": "在接收機本地振盪器部份有過大相位雜訊的影響是什麼 ？",
+            "correctAnswer": 4,
+            "answers": [
+                "限制接收機接收強訊號能力",
+                "減低接收機靈敏度",
+                "減少接收機第三階內調變失真動態範圍",
+                "導致臨近頻率強訊號干擾弱訊號的接收"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 151,
+            "question": "下列接收機哪個部份可以有效消除鏡像 (image) 訊號干擾 ？",
+            "correctAnswer": 1,
+            "answers": [
+                "前端濾波器或預先選擇器",
+                "窄帶中頻濾波器",
+                "陷波濾波器",
+                "適當調整的乘積檢波器"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 152,
+            "question": "FM 話務訊號被另一個較強的 FM 話務訊號阻擋的術語稱做甚麼 ？",
+            "correctAnswer": 3,
+            "answers": [
+                "靈敏度降低",
+                "交互調變干擾",
+                "捕獲效應",
+                "頻率辨別"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 153,
+            "question": "如何定義接收機雜訊指數 ？",
+            "correctAnswer": 4,
+            "answers": [
+                "大氣雜訊與相位雜訊比率",
+                "雜訊頻寬 (以赫茲為單位 )與拒斥網路的理論頻寬的比率",
+                "熱雜訊與大氣雜訊比率",
+                "接收機產生的雜訊與理論上最小雜訊的比率 (dB)"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 154,
+            "question": "針對接收機的雜訊基底 (noise floor) ，-174 dBm/ 赫之數值表示什麼 ?",
+            "correctAnswer": 2,
+            "answers": [
+                "最小可檢測訊號，它是接收頻率的函數",
+                "在室溫下，完美接收機輸入端的理論雜訊",
+                "1 赫頻寬接收機的雜訊指數",
+                "星際雜訊 造成最小可檢測訊號"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 155,
+            "question": "關閉自動增益控制的 CW 接收機，其等效輸入雜訊功率密度為  -174dBm/ 赫，讓該接收機在 400 赫雜訊頻寬的音頻輸出雜訊比為 0dB 的未調變載波準位為何 ?",
+            "correctAnswer": 4,
+            "answers": [
+                "-174 dBm",
+                "-164 dBm",
+                "-155 dBm",
+                "-148 dBm"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 156,
+            "question": "接收機的 MDS 代表什麼 ？",
+            "correctAnswer": 2,
+            "answers": [
+                "儀表顯示靈敏度 (The meter display sensitivity)",
+                "最小可識別訊號 ( The minimum discernible signal)",
+                "多工失真穩定性 (The multiplex distortion stability)",
+                "最大可檢測頻譜 (The maximum detectable spectrum)"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 157,
+            "question": "當數位接收機的輸入訊號位準超過多少會過載 ？",
+            "correctAnswer": 3,
+            "answers": [
+                "最大取樣頻率的一半",
+                "最大取樣頻率緩衝區大小的一半",
+                "類比轉數位轉換器的最大計數值",
+                "類比轉數位轉換器的參考電壓"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 158,
+            "question": "在傳統 HF 或 VHF 通訊接收機的中頻設計選擇高頻率，下列那一個是這個選擇的好理由 ?",
+            "correctAnswer": 3,
+            "answers": [
+                "接收機內較少零組件",
+                "減低漂移",
+                "較容易讓前端電路消除鏡像響應",
+                "改善接收雜訊指數"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 159,
+            "question": "下列那一個是業餘 RTTY HF 接收機選擇性的可期望值 (desirable amount)?",
+            "correctAnswer": 2,
+            "answers": [
+                "100 赫",
+                "300 赫",
+                "6000 赫",
+                "2400 赫"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 160,
+            "question": "下列那一個是業餘 SSB 電話接收機選擇性的可期望值 (desirable amount)?",
+            "correctAnswer": 2,
+            "answers": [
+                "1 千赫",
+                "2.4 千赫",
+                "4.2 千赫",
+                "4.8 千赫"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 161,
+            "question": "在接收機中頻部分用過寬的濾波器頻寬會有甚麼不良影響?",
+            "correctAnswer": 4,
+            "answers": [
+                "輸出偏移過衝",
+                "濾波器振鈴",
+                "熱雜訊失真",
+                "聽到不想要的訊號"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 162,
+            "question": "窄頻修平濾波器 (narrow -band Roofing filter) 如何影響接收機功能 ?",
+            "correctAnswer": 3,
+            "answers": [
+                "藉減少前端雜訊，改善靈敏度",
+                "使用低 Q值電路降低振鈴，改善可識性",
+                "藉由衰減接收頻率附近的強訊號，改善動態範圍",
+                "以上皆是"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 163,
+            "question": "當接收機調到 14.300 百萬赫  並使用 455 千赫中頻時，甚麼發射頻率可能產生鏡像響應訊號 ?",
+            "correctAnswer": 4,
+            "answers": [
+                "13.845 百萬赫",
+                "14.755 百萬赫",
+                "14.445 百萬赫",
+                "15.210 百萬赫"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 164,
+            "question": "通常從 HF 接收機連接的天線聽到的主要雜訊來源為何 ?",
+            "correctAnswer": 4,
+            "answers": [
+                "檢測器雜訊",
+                "感應馬達雜訊",
+                "接收機前端電路雜訊",
+                "大氣雜訊"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 165,
+            "question": "下列哪個是數位接收機類比轉數位轉換器數碼不見所導致的 ?",
+            "correctAnswer": 1,
+            "answers": [
+                "失真",
+                "過載",
+                "失去靈敏度",
+                "輸出位準過量"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 166,
+            "question": "下列哪一項對數位接收機線性度影響最大 ?",
+            "correctAnswer": 4,
+            "answers": [
+                "CPU 暫存器位元寬度",
+                "抗混疊輸入濾波器頻寬",
+                "用於資料儲存的 RAM的速度",
+                "類比轉數位轉換器取樣位元寬度"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 167,
+            "question": "接收機的阻隔動態範圍是甚麼意思 ?",
+            "correctAnswer": 1,
+            "answers": [
+                "背景雜訊和進入的訊號位準之間差異 (dB)，它會造成 1dB的增益壓縮",
+                "介於二個 FM訊號位準之間的最小差異 (dB)，它會導致一個訊號阻隔另一個",
+                "介於背景雜訊和第三階截取點之間差異 (dB)，它會導致一個訊號阻隔另一個",
+                "介於二訊號間最小差異 (dB)，它會產生第三階內調變結果大於背景雜訊"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 168,
+            "question": "因通訊接收機動態範圍不足會導致下列描述的那二個問題 ?",
+            "correctAnswer": 1,
+            "answers": [
+                "想要訊號的交互調變和因鄰近強訊號造成的鈍化 (desensitization)",
+                "振盪器不穩定需要經常重新調諧和失去恢復相對邊帶能力",
+                "想要訊號的交互調變和音訊功率不足以推動喇叭",
+                "振盪器不穩定和嚴重的音訊失真"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 169,
+            "question": "在二中繼電臺之間如何發生內調變干擾 ?",
+            "correctAnswer": 2,
+            "answers": [
+                "當該二中繼電臺非常接近並且訊號在其一或二個發射機後級放大器造成回授",
+                "當該二中繼電臺非常接近並且訊號混合到其一或二個發射機後級放大器",
+                "當來自發射機的訊號被經過上方的飛機異相折射",
+                "當來自發射機的訊號被經過上方的飛機同相位折射"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 170,
+            "question": "下列哪項可以減少或消除另一個發射機在非常接近的位置工作造成的中繼電臺的內調變干擾 ?",
+            "correctAnswer": 2,
+            "answers": [
+                "在發射機和接收機之間的饋線中的帶通濾波器",
+                "發射機輸出端具妥適的終端環形器",
+                "C類後級功率放大器",
+                "D類後級功率放大器"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 171,
+            "question": "當有一鄰近發射站在 146.52 百萬赫發射時，甚麼發射機頻率會造成接收 146.70 百萬赫的接收機產生內調變訊號 ?",
+            "correctAnswer": 1,
+            "answers": [
+                "146.34 百萬赫和 146.61 百萬赫",
+                "146.88 百萬赫和 146.34 百萬赫",
+                "146.10 百萬赫和 147.30 百萬赫",
+                "173.35 百萬赫和 139.40 百萬赫"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 172,
+            "question": "混合二個或多個訊號產生不必要的訊號的術語稱做甚麼 ?",
+            "correctAnswer": 4,
+            "answers": [
+                "放大器鈍化 (desensitization)",
+                "中和化 (neutralization)",
+                "相鄰頻道干擾",
+                "內調變干擾"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 173,
+            "question": "當偏移頻率 訊號對想要 訊號造成交互調變干擾時，如何描述其最顯著影響?",
+            "correctAnswer": 4,
+            "answers": [
+                "背景雜訊大量增加",
+                "明顯的訊號強度減少",
+                "不能再聽到想要訊號",
+                "除了想要訊號之外，還聽到偏移頻率的不必要訊號"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 174,
+            "question": "在電子電路中甚麼原因造成內調變 ?",
+            "correctAnswer": 3,
+            "answers": [
+                "增益太小",
+                "缺少中和化 (neutralization)",
+                "非線性線路或裝置元件",
+                "正回授"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 175,
+            "question": "通訊接收機預選器 (preselector) 的功用為何 ?",
+            "correctAnswer": 3,
+            "answers": [
+                "儲存常用頻率",
+                "提供一定範圍的自動增益控制常數",
+                "增加對不必要訊號的抑制",
+                "允許選定最佳化 的射頻放大器元件"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 176,
+            "question": "關於接收機性能， 40dBm 的第三階截止位準是什麼意思 ?",
+            "correctAnswer": 3,
+            "answers": [
+                "小於40dBm 的訊號不會產生一可聽見的三階內調變",
+                "接收機可以忍受達到 40dB以上的雜訊基底而不產生三階內調變",
+                "一對40dBm 訊號理論上會產生與輸入訊號相同位準的三階內調變",
+                "一對1mW輸入訊號會產生比輸入訊號強 40dB的三階內調變"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 177,
+            "question": "與其他調變相比，為什麼特別在意接收機的三階內調變 ?",
+            "correctAnswer": 1,
+            "answers": [
+                "在意的頻帶內的二個訊號的三階內調變也可能出現在該頻帶內",
+                "三階截取高於其他階層",
+                "三階內調變是差的鏡像拒斥指標",
+                "針對在意的頻帶內的每個輸入訊號，三階內調變各產生三個調變"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 178,
+            "question": "在接收頻率附近的強訊號導致接收機靈敏度降低的術語是甚麼 ?",
+            "correctAnswer": 1,
+            "answers": [
+                "鈍化(desensitization)",
+                "靜默(quieting)",
+                "交互調變干擾",
+                "靜噪音增益返回 (rollback)"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 179,
+            "question": "下列哪項導致接收機接收鈍化 (desensitization)?",
+            "correctAnswer": 2,
+            "answers": [
+                "音訊增益調的太低",
+                "相鄰頻道信號太強",
+                "音訊偏壓調的太高",
+                "靜噪音增益調整不當"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 180,
+            "question": "以下哪項是減少接收機鈍化 (desensitization) 可能性的方法 ?",
+            "correctAnswer": 1,
+            "answers": [
+                "降低接收機射頻頻寬",
+                "提升接收機中頻頻率",
+                "增加接收機前端電路增益",
+                "從快速自動增益控制切換到慢速自動增益控制"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        }
+    ]
+}

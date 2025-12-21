@@ -1,0 +1,447 @@
+{
+    "title": "無線電相關安全防護題庫",
+    "questions": [
+        {
+            "questionNumber": 1,
+            "question": "用歐姆表測量電路中的電阻時，應採取以下哪些措施？",
+            "correctAnswer": 2,
+            "answers": [
+                "確定提供的電壓是正確的",
+                "確定電路是沒有供電的狀況",
+                "確定電路有接地",
+                "確定電路工作是在正確的頻率"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 2,
+            "question": "用電壓表測量高電壓時，應採取以下哪一項措施？",
+            "correctAnswer": 2,
+            "answers": [
+                "確定電壓表具有非常低的阻抗",
+                "確定電壓表和測量線材是在額定電壓規格下使用",
+                "確定電路經由電壓表接地",
+                "確定電壓是設定在正確的頻率"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 3,
+            "question": "以下哪項是 12 伏特蓄電池的安全隱憂？",
+            "correctAnswer": 2,
+            "answers": [
+                "用手觸摸兩端可能會導致電擊",
+                "端子短路會導致灼傷、起火或爆炸",
+                "電池的射頻發射",
+                "以上皆是"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 4,
+            "question": "流經身體的電流是如何造成傷害？",
+            "correctAnswer": 4,
+            "answers": [
+                "加熱身體組織",
+                "破壞細胞的功能",
+                "導致不自主的肌肉收縮",
+                "以上皆是"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 5,
+            "question": "連接到三孔交流插頭中的綠線是什麼？",
+            "correctAnswer": 3,
+            "answers": [
+                "中性線",
+                "火線",
+                "接地線",
+                "白線"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 6,
+            "question": "電路中保險絲的用途是什麼？",
+            "correctAnswer": 2,
+            "answers": [
+                "防止電源雜訊損壞電路 107",
+                "在過載情況下中斷電源",
+                "限制電流以防止電擊",
+                "以上皆是"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 7,
+            "question": "為什麼在 5 安培的保險絲處安裝 20 安培的保險絲是不可以的？",
+            "correctAnswer": 3,
+            "answers": [
+                "較大的保險絲可能會因為額定值較高而燒斷",
+                "電源波動會增加",
+                "電流過大可能會引起火災",
+                "以上皆是"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 8,
+            "question": "在您的電臺裡什麼是防止觸電的好方法？",
+            "correctAnswer": 4,
+            "answers": [
+                "將電臺的所有交流電設備改用三線式電源線和三孔插頭",
+                "將電臺的所有交流電設備連接到一個共用的安全地線",
+                "使用由接地故障斷路器保護的電路",
+                "以上皆是"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 9,
+            "question": "在同軸電纜饋線安裝避雷裝置時，應採取哪些預防措施？",
+            "correctAnswer": 4,
+            "answers": [
+                "為每個保護器安裝一個並聯旁路開關，以便在高功率運行時將其切離電路",
+                "在每個保護器的地線安裝一個串聯開關，以防止發射過載時，無意中損壞 保護器",
+                "將每個保護器的接地線分開，並連接到電臺接地",
+                "將所有保護器接地到共用的接地板，再將這塊接地板連接到外部接地"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 10,
+            "question": "由 120 伏特交流電源電路供電的自製設備應該包含哪些安全設備？",
+            "correctAnswer": 1,
+            "answers": [
+                "與交流電火線串聯的保險絲或斷路器",
+                "輸入電源上的交流電壓表",
+                "與交流電電源串聯的電感器",
+                "交流電源上的電容器"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 11,
+            "question": "傳統的 12 伏特蓄電池會有什麼的危害？",
+            "correctAnswer": 3,
+            "answers": [
+                "它會釋放出對大氣有害的臭氧",
+                "高電壓引起的衝擊危險",
+                "如果通風不良，爆炸性氣體會累積",
+                "以上皆是"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 12,
+            "question": "如果鉛酸蓄電池充電或放電太快會發生什麼事情？",
+            "correctAnswer": 1,
+            "answers": [
+                "電池可能會過熱，並放出易燃氣體或爆炸",
+                "電壓可能會反轉 108",
+                "記憶效應會降低電池的容量",
+                "以上皆是"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 13,
+            "question": "電源關閉和斷開時，可能存在哪種危險？",
+            "correctAnswer": 4,
+            "answers": [
+                "靜電可能會損壞接地系統",
+                "變壓器內部的循環電流可能會導致損壞",
+                "如果取下蓋子，保險絲可能會熔斷",
+                "可能會因儲存在大容量電容器中的電量而受到電擊"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 14,
+            "question": "在鐵塔工作時人員應該何時配戴安全帽和安全眼鏡？",
+            "correctAnswer": 3,
+            "answers": [
+                "除攀登鐵塔外的所有時間",
+                "除牢靠固定到鐵塔外的所有時間",
+                "在鐵塔上完成工作的所有時間",
+                "只有當塔高超過10公尺時"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 15,
+            "question": "攀登天線鐵塔之前，需要注意那些預防措施？",
+            "correctAnswer": 3,
+            "answers": [
+                "確定有佩戴接地腕帶",
+                "移除所有的鐵塔接地連接線",
+                "穿上安全背帶和安全眼鏡",
+                "以上皆是"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 16,
+            "question": "在沒有其他人員協助的情況下，攀登鐵塔時，什麼情況是安全的？",
+            "correctAnswer": 4,
+            "answers": [
+                "未進行電氣工作時",
+                "未進行機械工作時",
+                "工作的高度不超過地面6公尺",
+                "以上皆非"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 17,
+            "question": "安裝天線鐵塔時，以下哪項是重要的安全防範措施？",
+            "correctAnswer": 3,
+            "answers": [
+                "始終佩戴連接手腕的接地帶",
+                "絶緣鐵塔基座以避免雷擊",
+                "尋找並清除任何上方電線",
+                "以上皆是"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 18,
+            "question": "起重吊杆的目的是什麼？",
+            "correctAnswer": 3,
+            "answers": [
+                "暫時更換拉線",
+                "用於代替安全帶",
+                "吊升塔節或天線",
+                "提供臨時接地 109"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 19,
+            "question": "安裝天線時，與電力線的最小安全距離是多少？",
+            "correctAnswer": 4,
+            "answers": [
+                "你的房屋的一半寬度",
+                "電力線離地面的高度",
+                "工作頻率的1/2波長",
+                "假如天線意外掉落，天線必須要離電力線超過3公尺"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 20,
+            "question": "以下哪項是使用曲軸(crank-up)塔時，要記住的重要安全規則？",
+            "correctAnswer": 3,
+            "answers": [
+                "這種類型的塔絕不能塗漆",
+                "這種類型的塔絕對不能接地",
+                "除非它處於完全縮回的位置，否則絕不能攀爬這種類型的塔",
+                "以上皆是"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 21,
+            "question": "以下哪項是鐵塔正確接地的方法？",
+            "correctAnswer": 3,
+            "answers": [
+                "一支1.3公尺的接地棒，從地面打到地基不超過30公分",
+                "一個鐵氧體磁環連接在塔和地面之間",
+                "在鐵塔底部每個支撐點分別安裝2.7公尺長的接地棒，將每支接地棒都連 接到鐵塔",
+                "將鐵塔基座和冷水管連接"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 22,
+            "question": "為什麼要避免將天線安裝到電線桿？",
+            "correctAnswer": 3,
+            "answers": [
+                "由於感應電壓，天線不能正常工作",
+                "公用事業公司將向您收取額外的月費",
+                "天線會接觸到高壓電線",
+                "以上皆是"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 23,
+            "question": "關於防雷所使用的接地導體，以下哪項是正確的？",
+            "correctAnswer": 3,
+            "answers": [
+                "只能使用非絕緣電線",
+                "必須用精確的直角彎曲的導線小心地佈線",
+                "導線避免過大的彎曲",
+                "必須避免共用接地"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 24,
+            "question": "為防護雷擊在鐵塔安裝地線時，以下哪項是最佳做法？",
+            "correctAnswer": 3,
+            "answers": [
+                "在接地連接處安裝一個迴路，以防止水對地面系統造成損害",
+                "確保地線中的所有彎頭都是乾淨的、直角彎曲",
+                "確保接地線連接短而直接",
+                "以上皆是 110"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 25,
+            "question": "VHF 和 UHF 無線電信號是什麼類型的輻射？",
+            "correctAnswer": 4,
+            "answers": [
+                "伽瑪輻射",
+                "游離輻射",
+                "阿爾法輻射",
+                "非游離輻射"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 28,
+            "question": "什麼因素會影響人員接近業餘電臺天線的電磁暴露(RF exposure)？",
+            "correctAnswer": 4,
+            "answers": [
+                "輻射場強的頻率和功率",
+                "從天線到人的距離",
+                "天線的輻射場型",
+                "以上皆是"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 29,
+            "question": "為什麼暴露限制隨頻率而變化？",
+            "correctAnswer": 4,
+            "answers": [
+                "較低頻率的射頻場強比較高頻率的射頻場強具有更多的能量",
+                "較低頻率的射頻場強不能穿透人體",
+                "本質上，更高頻率的射頻場強是瞬態的",
+                "人體在某些頻率比其他頻率吸收更多的射頻能量"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 30,
+            "question": "如果有人意外觸摸了你發射中的天線會發生什麼？",
+            "correctAnswer": 2,
+            "answers": [
+                "觸摸天線可能會造成電視干擾",
+                "他們可能會受到射頻燒傷",
+                "他們可能會發生輻射中毒",
+                "以上皆是"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 31,
+            "question": "業餘無線電人員可採取以下哪些措施來防止射頻輻射超過我國的電磁暴 111 露限制？",
+            "correctAnswer": 1,
+            "answers": [
+                "重新安置天線",
+                "重新安置發射機",
+                "增加工作週期",
+                "以上皆是"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 32,
+            "question": "如何確保您的電臺符合射頻安全規定？",
+            "correctAnswer": 2,
+            "answers": [
+                "通知NCC您的電臺進行的任何更改",
+                "每當異動設備的元件時，重新評估電臺的射頻安全規定",
+                "確保天線系統是低駐波比",
+                "以上皆是"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 33,
+            "question": "為什麼工作週期是用來確定安全射頻輻射暴露限值的因素之一？",
+            "correctAnswer": 1,
+            "answers": [
+                "工作週期影響人們對輻射的暴露的平均值",
+                "工作週期影響人們對輻射的暴露的峰值",
+                "工作週期考慮到天線饋線損耗",
+                "工作週期考慮了放大器的熱效應"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 34,
+            "question": "射頻暴露平均時間內工作週期的定義是什麼？",
+            "correctAnswer": 3,
+            "answers": [
+                "發射機的最低功率輸出與最高功率輸出之間的差異",
+                "發射機的PEP和平均功率輸出之間的差異",
+                "發射機發射的時間百分比",
+                "發射機未發射的時間百分比"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 35,
+            "question": "射頻輻射與游離輻射（放射性）有什麼不同？",
+            "correctAnswer": 1,
+            "answers": [
+                "射頻輻射沒有足夠的能量來引起基因的損傷",
+                "射頻輻射只能用射頻計量計檢測",
+                "射頻輻射範圍限制在幾公尺",
+                "射頻輻射非常安全"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 36,
+            "question": "當暴露的平均時間是 6 分鐘，如果信號在整個 6 分鐘內，出現 3 分鐘、 消失 3 分鐘，則允許多少功率密度？",
+            "correctAnswer": 3,
+            "answers": [
+                "3倍",
+                "一樣多",
+                "2倍",
+                "不允許調整更短的暴露時間 112"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        }
+    ]
+}

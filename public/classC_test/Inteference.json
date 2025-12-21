@@ -1,0 +1,239 @@
+{
+    "title": "射頻干擾的預防與排除題庫",
+    "questions": [
+        {
+            "questionNumber": 1,
+            "question": "下列何者是符合 NCC 關於妨害性干擾的定義?",
+            "correctAnswer": 3,
+            "answers": [
+                "干擾使用者中繼臺之無線電傳輸",
+                "不必要的無線電傳輸對於無線電臺內設備造成財產損害",
+                "嚴重降低、阻礙或重覆性中斷操作於符合法規電臺的無線電通訊服務",
+                "暴風雨所產生的靜電"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 2,
+            "question": "下列何者應受到保護，免於受業餘無線電的訊號干擾?",
+            "correctAnswer": 4,
+            "answers": [
+                "市民無線電",
+                "廣播電視",
+                "行動電話",
+                "無線電導航"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 3,
+            "question": "何時允許有意的干擾其他業餘電臺?",
+            "correctAnswer": 2,
+            "answers": [
+                "只有在其他友台發表極端的宗教或政治看法時",
+                "任何時候都不可以",
+                "僅只於比賽時",
+                "任何時候，業餘電臺都不受到有意的干擾的保護"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 4,
+            "question": "當你正在操作 70 公分波段，干擾到無線電定位電臺時，你應採取什麼措 施？",
+            "correctAnswer": 1,
+            "answers": [
+                "停止操作並採取行動消除任何有害的干擾",
+                "無動於衷，因為這個波段是專門保留給業餘無線電的",
+                "連絡上該定位電臺並要求他們改變頻率",
+                "改成電報模式，因為這樣比較不會造成干擾"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 5,
+            "question": "甚麼會導致你的 FM 訊號干擾鄰近頻率的電臺?",
+            "correctAnswer": 1,
+            "answers": [
+                "麥克風的增益過強導致過度偏移",
+                "SWR太高",
+                "不正確的CTCSS音頻",
+                "以上皆是"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 6,
+            "question": "下列何者適用於兩個電臺在同一頻率發射時互相干擾的情況? 115",
+            "correctAnswer": 1,
+            "answers": [
+                "應該遵循日常的禮儀，但是沒有電臺有絕對的優先",
+                "誰有最強的訊，號誰就優先",
+                "待在頻率上越久的電臺就有優先權",
+                "訊號微弱的電臺有優先權"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 7,
+            "question": "下列何種 Q 信號代表你正受到其他電臺的干擾",
+            "correctAnswer": 1,
+            "answers": [
+                "QRM",
+                "QRN",
+                "QTH",
+                "QSB"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 8,
+            "question": "以下哪一項可降低接收機受到的點火干擾？",
+            "correctAnswer": 3,
+            "answers": [
+                "稍微將頻率變動一下",
+                "減少制躁設定",
+                "把噪音消除器打開",
+                "使用RIT控制"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 9,
+            "question": "為了將 SSB 接收作業的噪音及干擾極小化，下面哪一項是較為適用的接收 濾波器頻寬選項？",
+            "correctAnswer": 3,
+            "answers": [
+                "500 赫",
+                "1000 赫",
+                "2400 赫",
+                "5000 赫"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 10,
+            "question": "為了將 CW 接收作業的噪音及干擾極小化，下面哪一項是較為適用的接 收濾波器頻寬選項？",
+            "correctAnswer": 1,
+            "answers": [
+                "500 赫",
+                "1000 赫",
+                "2400 赫",
+                "5000 赫"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 11,
+            "question": "以下哪項可能是射頻干擾的原因？",
+            "correctAnswer": 4,
+            "answers": [
+                "基本超載",
+                "諧波",
+                "混附發射",
+                "以上皆是"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 12,
+            "question": "以下哪一項是減少或消除業餘發射機對附近電話的干擾的方法？ 116",
+            "correctAnswer": 4,
+            "answers": [
+                "濾波器裝在發射機上",
+                "降低麥克風增益",
+                "減少發射機發射的駐波比",
+                "在電話機裝一個射頻濾波器"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 13,
+            "question": "如何減少或消除業餘無線電信號對非業餘無線電或電視機造成的過載？",
+            "correctAnswer": 1,
+            "answers": [
+                "在受影響的接收機天線輸入端用濾波器阻擋業餘信號",
+                "用業餘發射機上的濾波器阻止干擾信號",
+                "將發射機從FM模式切換到SSB模式",
+                "將發射機切換到窄頻模式"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 14,
+            "question": "如果鄰居告訴您，您的電臺的操作正在干擾他們的收音機或電視，您應 採取以下哪種行動？",
+            "correctAnswer": 1,
+            "answers": [
+                "確保您的電臺工作正常情形下，不會對調諧到同一頻道的你的收音機或電 視機造成干擾",
+                "立即關閉發射機並聯繫離您最近的NCC辦事處尋求幫助",
+                "告訴他們您的許可證授予您操作權並且無法做任何改變來減少干擾",
+                "在發射機的輸出端安裝一個諧波倍增器並對其進行調諧，直至消除干擾"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 15,
+            "question": "以下哪項可能有助於修正射頻干擾問題？",
+            "correctAnswer": 4,
+            "answers": [
+                "咬合鐵氧體扼流圈",
+                "低通和高通濾波器",
+                "帶阻濾波器和帶通濾波器",
+                "以上皆是"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 16,
+            "question": "如果鄰居家裡的東西對你的業餘電臺造成妨害性干擾，你應該怎麼做？",
+            "correctAnswer": 4,
+            "answers": [
+                "和你的鄰居一起確定造成的設備",
+                "有禮貌地通知您的鄰居不要使用導致干擾的設備的相關規定",
+                "檢查你的電臺設備，並確保它符合良好的業餘準則標準",
+                "以上皆是"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 17,
+            "question": "解決業餘無線電干擾有線電視的第一步是什麼？",
+            "correctAnswer": 4,
+            "answers": [
+                "在電視天線輸入端添加一個低通濾波器",
+                "在電視天線輸入端添加一個高通濾波器",
+                "將前置放大器添加到電視天線輸入",
+                "確保正確安裝所有電視同軸連接器"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 18,
+            "question": "使用以下哪種方法來定位雜訊干擾或人為干擾源？ 117",
+            "correctAnswer": 3,
+            "answers": [
+                "迴聲定位",
+                "杜卜勒雷達",
+                "無線電測向",
+                "鎖相"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        }
+    ]
+}

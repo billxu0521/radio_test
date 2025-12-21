@@ -1,0 +1,265 @@
+{
+    "title": "射頻干擾的預防與排除題庫",
+    "questions": [
+        {
+            "questionNumber": 1,
+            "question": "通訊中因為傳播改變，導致同頻率其他電臺的干擾逐漸增加時，應該怎麼 做：",
+            "correctAnswer": 3,
+            "answers": [
+                "叫干擾電臺變更頻率",
+                "向頻率協調員報告干擾電臺",
+                "依共通禮節，自己變更頻率",
+                "加大發射功率"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 2,
+            "question": "使用 CW 通訊時，與其他電臺間隔的最小頻率差距為多少?",
+            "correctAnswer": 2,
+            "answers": [
+                "5-50 赫",
+                "150-500 赫",
+                "1-3 千赫",
+                "3-6 千赫"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 3,
+            "question": "使用 SSB 通訊時，與其他電臺間隔的最小頻率差距為多少?.",
+            "correctAnswer": 2,
+            "answers": [
+                "150-500 赫",
+                "大約3 千赫",
+                "大約6 千赫",
+                "大約10 千赫"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 4,
+            "question": "在乾淨的頻率上，準備用 CW 或語音呼叫 CQ 前，實務上如何避免造成干 擾?",
+            "correctAnswer": 1,
+            "answers": [
+                "CW先發QRL，再發呼號；語音先問頻率上有沒有人使用，再發呼號",
+                "先守聽2分鐘，再呼叫CQ",
+                "CW先發幾個V字，語音先説「test」幾次，再守聽有無反應",
+                "CW先發QSY，語音說「此頻率在使用中」，再守聽有無反應。"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 5,
+            "question": "下列何種 HF 天線最能減少干擾?",
+            "correctAnswer": 3,
+            "answers": [
+                "1/4波長垂直天線",
+                "等向性天線",
+                "方向性天線",
+                "全向性天線 121"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 6,
+            "question": "PACTOR 數據機或控制器如何確定頻道上無其他 PACTOR 電臺使用?",
+            "correctAnswer": 2,
+            "answers": [
+                "暫時拔掉數據接頭，看看「頻道忙碌」指示燈是否熄掉",
+                "將數據機或控制器設定於不連線的通訊監聽模式",
+                "傳送數次UI封包，看其他PACTOR電臺是否有反應",
+                "傳送「頻率是否使用中」之訊息"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 7,
+            "question": "若有其他電臺干擾 PACTOR 或 WINMOR 發射，會造成什麼現象？",
+            "correctAnswer": 4,
+            "answers": [
+                "頻繁重試或逾時",
+                "訊息傳送停頓很久",
+                "與其他電臺無法建立連線",
+                "以上皆是"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 8,
+            "question": "對於 HF 傳播太陽黑子數目有何明顯影響?",
+            "correctAnswer": 1,
+            "answers": [
+                "太陽黑子數量愈多，通常代表頻率越高會有越好的傳播",
+                "太陽黑子數量越少，通常代表偶發性電離層傳播有較高機率",
+                "沒有黑子數量表示無論任何頻率的無線電都無法傳播",
+                "以上皆是"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 9,
+            "question": "瞬間的電離層擾動對於日間的 HF 無線電波的電離層傳播有何影響?",
+            "correctAnswer": 2,
+            "answers": [
+                "加強所有HF頻率的傳播",
+                "對於較低頻率的信號，干擾會更多",
+                "衛星通訊比直接通訊干擾更多",
+                "沒影響，因為只有地球無日照的部分才會被影響"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 10,
+            "question": "以下那一項症狀可能是發射的 RF 信號，干擾了電腦和收發機傳輸 AFSK 數據信號的音頻電纜",
+            "correctAnswer": 4,
+            "answers": [
+                "VOX電路不會解鎖發射機",
+                "發射機信號失真",
+                "頻繁的連接超時",
+                "以上皆是"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 11,
+            "question": "以下那項可能對減少對音頻設備的射頻干擾有用？",
+            "correctAnswer": 2,
+            "answers": [
+                "旁路電感器",
+                "旁路電容器",
+                "正向偏置二極體",
+                "反向偏置二極體"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 12,
+            "question": "下列那一項可能是造成涵蓋寬頻頻率的干擾原因？ 122",
+            "correctAnswer": 3,
+            "answers": [
+                "未使用平衡-不平衡轉換器或線路隔離器來饋送平衡天線",
+                "在電源導線中缺少對發射機信號的整流",
+                "在電氣連接不良的情況下放電",
+                "使用平衡-不平衡轉換器來饋送至不平衡天線"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 13,
+            "question": "如果受到鄰近單邊帶語音發射機干擾，從音訊設備或電話聽到什麼聲 音？",
+            "correctAnswer": 3,
+            "answers": [
+                "當發射機在發射時，穩定的嗡嗡聲",
+                "開/關的嗡嗡聲或點擊聲",
+                "失真的聲音",
+                "清晰可聞的聲音"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 14,
+            "question": "如果受到附近的 CW 發射機干擾，對音訊設備或電話系統有什麼影響？",
+            "correctAnswer": 1,
+            "answers": [
+                "開/關的嗡嗡聲或點擊聲",
+                "接近純音頻的CW信號",
+                "吱吱的CW信號",
+                "嚴重失真的音訊"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 15,
+            "question": "共振接地會產生什麼影響？",
+            "correctAnswer": 3,
+            "answers": [
+                "接地線過熱",
+                "接地棒的腐蝕",
+                "電臺設備外殼上的高射頻電壓",
+                "接地迴路"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 16,
+            "question": "在業餘電臺中避免射頻能量雜散的不良影響的好方法是什麼？",
+            "correctAnswer": 1,
+            "answers": [
+                "將所有設備接地連接在一起",
+                "安裝與地線串聯的射頻濾波器",
+                "使用接地迴路以獲得最佳導電性",
+                "在連接到您的電臺的地線上安裝一些鐵氧磁珠"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 17,
+            "question": "以下那一項可以減少音訊電纜上共模電流引起的射頻干擾？",
+            "correctAnswer": 1,
+            "answers": [
+                "在音訊電纜上安裝鐵氧扼流圈",
+                "將串聯電容器添加到導線",
+                "在導線中加入分流電感",
+                "在音訊電纜上增加一個絕緣套"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 18,
+            "question": "如何避免接地迴路？",
+            "correctAnswer": 4,
+            "answers": [
+                "串連所有接地導體 123",
+                "將交流中性線連接到接地線",
+                "接地時避免使用鎖緊墊圈和星形墊圈",
+                "將所有接地導線連接到一個點上"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 19,
+            "question": "什麼可能是電臺某處接地迴路的現象？",
+            "correctAnswer": 1,
+            "answers": [
+                "收到有關您的電臺傳輸信號的“嗡嗡聲”報告",
+                "一個或多個天線的SWR讀數突然很高",
+                "電臺某設備開始流入過量的電流",
+                "會收到您的電臺的諧波干擾報告"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 21,
+            "question": "在最新的車型中安裝 HF 接收機，下列那項可能會引起干擾？",
+            "correctAnswer": 4,
+            "answers": [
+                "電池充電系統",
+                "燃料輸送系統",
+                "車輛控制電腦",
+                "以上皆是"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        }
+    ]
+}

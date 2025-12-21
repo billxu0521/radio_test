@@ -1,0 +1,1773 @@
+{
+    "title": "無線電系統原理題庫",
+    "questions": [
+        {
+            "questionNumber": 1,
+            "question": "以下那一項是數位信號處理器的功能？",
+            "correctAnswer": 2,
+            "answers": [
+                "提供足夠的接地",
+                "消除接收信號中的雜訊",
+                "增加天線增益",
+                "增加天線帶寬"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 2,
+            "question": "與類比濾波器相比，以下那一項是接收機數位處理器(DSP)中頻濾波器的 優點？",
+            "correctAnswer": 1,
+            "answers": [
+                "可以創建寬範圍的濾波器帶寬和形狀",
+                "需要更少的數位零件",
+                "大量減少混附諧波",
+                "在VHF頻率，DSP濾波器更有效"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 3,
+            "question": "什麼是阻抗？",
+            "correctAnswer": 3,
+            "answers": [
+                "電容器儲存的電荷",
+                "電阻的倒數",
+                "AC電路中對抗電流的流動",
+                "二個相似電場之間的排斥力"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 4,
+            "question": "什麼是電抗？",
+            "correctAnswer": 2,
+            "answers": [
+                "對抗電阻產生的直流電流",
+                "對抗電容或電感產生的交流電流",
+                "AC電路中理想電阻的特性",
+                "電感器失去能量時，在開關接觸點產生的巨大火花"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 5,
+            "question": "何者對抗電感器產生的交流電流？",
+            "correctAnswer": 4,
+            "answers": [
+                "電導",
+                "磁抗",
+                "導納",
+                "電抗"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 6,
+            "question": "何者對抗電容器產生的交流電流？ 80",
+            "correctAnswer": 3,
+            "answers": [
+                "電導",
+                "磁抗",
+                "電抗",
+                "導納"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 7,
+            "question": "電感器對交流電會產生何種反應？",
+            "correctAnswer": 4,
+            "answers": [
+                "外加交流電的頻率增加時，電抗減少",
+                "外加交流電的振幅增加時，電抗增加",
+                "外加交流電的振幅增加時，電抗減少",
+                "外加交流電的頻率增加時，電抗增加"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 8,
+            "question": "電容器對交流電會產生何種反應？",
+            "correctAnswer": 1,
+            "answers": [
+                "外加交流電的頻率增加時，電抗減少",
+                "外加交流電的頻率增加時，電抗增加",
+                "外加交流電的振幅增加時，電抗增加",
+                "外加交流電的振幅增加時，電抗減少"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 9,
+            "question": "假設電氣負載與電源的輸出阻抗為電阻性，當電氣負載的阻抗與電力源的 輸出阻抗相等時會怎樣？",
+            "correctAnswer": 4,
+            "answers": [
+                "電源傳送至負載的功率為極小值",
+                "電氣負載為短路",
+                "電路無電流通過",
+                "電源傳送至負載的功率為極大值"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 10,
+            "question": "為何阻抗匹配很重要？",
+            "correctAnswer": 1,
+            "answers": [
+                "電源傳送到負載的功率為極大值",
+                "電源傳送到負載的功率為極小值",
+                "可以確保電路的電阻比電抗小",
+                "可以確保電路內電阻與電抗相等"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 11,
+            "question": "測量電抗的單位是什麼",
+            "correctAnswer": 2,
+            "answers": [
+                "法拉",
+                "歐姆",
+                "安培",
+                "西門子"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 12,
+            "question": "測量阻抗的單位是什麼？",
+            "correctAnswer": 2,
+            "answers": [
+                "伏特 81",
+                "歐姆",
+                "安培",
+                "瓦特"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 13,
+            "question": "下列那一個描述二個 AC 交流電路間的阻抗匹配方法？",
+            "correctAnswer": 1,
+            "answers": [
+                "二個電路間插入LC網路",
+                "減少第一級電路的電功率輸出",
+                "增加第一級電路的電功率輸出",
+                "二個電路間插入循環電路"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 14,
+            "question": "使用阻抗匹配變壓器的理由為何？",
+            "correctAnswer": 2,
+            "answers": [
+                "極小化發射機輸出功率",
+                "極大化功率傳輸",
+                "減少電源供應器漣波",
+                "極小化輻射電阻"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 15,
+            "question": "以下何種裝置可以用於射頻阻抗匹配？",
+            "correctAnswer": 4,
+            "answers": [
+                "變壓器",
+                "pi網路",
+                "某個長度的傳輸線",
+                "以上皆是"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 16,
+            "question": "電功率增加或減少二倍代表多少分貝的改變？",
+            "correctAnswer": 2,
+            "answers": [
+                "大約2分貝",
+                "大約3分貝",
+                "大約6分貝",
+                "大約12分貝"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 17,
+            "question": "純電阻並聯電路的總電流與個別分支電流有什麼關係？",
+            "correctAnswer": 3,
+            "answers": [
+                "總電流與分支電流的平均值相等",
+                "更多並聯分支加入電路會使總電流減小",
+                "總電流等於各個分支電流的加總",
+                "總電流等於各分支電壓降的倒數的加總"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 20,
+            "question": "當 7.0 毫安培電流流過 1.25 千歐姆電阻時，所消耗的電功率為幾瓦特？",
+            "correctAnswer": 1,
+            "answers": [
+                "大約61 毫瓦特",
+                "大約61 瓦特",
+                "大約11 毫瓦特",
+                "大約11 瓦特"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 26,
+            "question": "當 50 歐姆假負載消耗 1,200 瓦特時，其均方根（RMS）電壓為何？",
+            "correctAnswer": 2,
+            "answers": [
+                "173 伏特",
+                "245 伏特",
+                "346 伏特",
+                "692 伏特"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 27,
+            "question": "接到發射機輸出的瓦特錶顯示平均功率為 1,060 瓦特，則未調變載波的峰 值波封功率（PEP）為何？",
+            "correctAnswer": 2,
+            "answers": [
+                "530 瓦特",
+                "1,060 瓦特",
+                "1,500 瓦特",
+                "2,120 瓦特"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 29,
+            "question": "當交流電壓源接上變壓器的初級繞線後，什麼原因造成次級繞線產生電 壓？",
+            "correctAnswer": 3,
+            "answers": [
+                "電容耦合",
+                "位移電流耦合",
+                "互感",
+                "互容"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 30,
+            "question": "將 4：1 降壓變壓器的初級與次級繞線反接會發生什麼？",
+            "correctAnswer": 1,
+            "answers": [
+                "次級繞線的電壓變成初級繞線的4倍 84",
+                "因為是單向性裝置，變壓器將無法工作",
+                "需在初級繞線加上串聯電阻以防過載",
+                "需在次級繞線加上並聯電阻以防過載"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 31,
+            "question": "現有的電阻器加上什麼元件可以增加電阻？",
+            "correctAnswer": 2,
+            "answers": [
+                "並聯電阻器",
+                "串聯電阻器",
+                "串聯電容器",
+                "並聯電容器"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 33,
+            "question": "三個相同的電阻器串聯，其總電阻為 450 歐姆，則每個電阻是多少？",
+            "correctAnswer": 3,
+            "answers": [
+                "1,500 歐姆",
+                "90 歐姆",
+                "150 歐姆",
+                "175 歐姆"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 41,
+            "question": "電容器加上什麼元件可以增加電容值？",
+            "correctAnswer": 3,
+            "answers": [
+                "串聯一個電感器",
+                "串聯一個電阻器",
+                "並聯一個電容器",
+                "串聯一個電容器"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 42,
+            "question": "電感器加上什麼元件可以增加電感值？",
+            "correctAnswer": 4,
+            "answers": [
+                "串聯一個電容器 86",
+                "並聯一個電阻器",
+                "並聯一個電感器",
+                "串聯一個電感器"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 44,
+            "question": "為什麼昇壓變壓器的初級繞線線徑比次級繞線線徑還要粗？",
+            "correctAnswer": 2,
+            "answers": [
+                "增加初級與次級繞線的耦合",
+                "容納初級繞線較大的電流",
+                "防止初級繞線電阻性損失所造成的寄生振盪",
+                "確保初級與次級繞線的體積相等"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 48,
+            "question": "鎳鎘（Ni-Cd）電池的低內電阻有何優點？",
+            "correctAnswer": 2,
+            "answers": [
+                "壽命長",
+                "放電電流高 87",
+                "電壓高",
+                "充電快速"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 50,
+            "question": "碳鋅一次電池何時可以充電？",
+            "correctAnswer": 4,
+            "answers": [
+                "電壓未低於1伏特時可以充電",
+                "充電過程中保持溫暖即可",
+                "使用恆流充電器",
+                "不可充電"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 52,
+            "question": "在射頻開關電路中使用蕭特基（Schottky）二極體，與標準矽二極體比有 何優點？",
+            "correctAnswer": 1,
+            "answers": [
+                "電容低",
+                "電感低",
+                "開關時間較長",
+                "潰崩電壓較高"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 55,
+            "question": "如何描述金氧場效應電晶體（MOSFET）的結構？",
+            "correctAnswer": 2,
+            "answers": [
+                "閘極由反向偏壓接面形成",
+                "閘極與通道由薄絕緣層隔開",
+                "源極與洩極由薄絕緣層隔開",
+                "源極由金屬沈積於矽晶上形成"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 56,
+            "question": "三極真空管的陰極與屏極之間的電子流由什麼元件控制？",
+            "correctAnswer": 1,
+            "answers": [
+                "控制柵",
+                "加熱器",
+                "屏柵",
+                "觸發電極"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 58,
+            "question": "真空管屏柵的主要目的為何？",
+            "correctAnswer": 1,
+            "answers": [
+                "減少柵極屏極間的電容",
+                "增加效率",
+                "增加控制柵電阻",
+                "減少屏極電阻"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 59,
+            "question": "為何施加於極性電容器的電壓極性很重要？",
+            "correctAnswer": 4,
+            "answers": [
+                "錯誤的極性可能導致電容器短路",
+                "反向電壓可能損毀電解電容器的電介質層",
+                "電容器可能過熱而爆炸",
+                "以上皆是"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 60,
+            "question": "陶瓷電容器比其他電容器有何優點？",
+            "correctAnswer": 4,
+            "answers": [
+                "容許度緊密",
+                "穩定性高",
+                "同樣體積的電容量較高",
+                "成本較便宜 89"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 61,
+            "question": "何者為電解電容器的優點？",
+            "correctAnswer": 3,
+            "answers": [
+                "容許度緊密",
+                "比其他種類較少洩漏",
+                "同樣體積的電容量較高",
+                "較便宜的射頻電容器"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 62,
+            "question": "電阻器的溫度上升，電阻會如何變化？",
+            "correctAnswer": 3,
+            "answers": [
+                "依據電阻器的容抗係數而變化",
+                "維持一樣",
+                "依據電阻器的溫度係數而變化",
+                "依時間而變化"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 63,
+            "question": "在射頻電路中不使用繞線電阻器的理由為何？",
+            "correctAnswer": 2,
+            "answers": [
+                "電阻器的容許度不適合用於射頻電路",
+                "電阻器的電感會造成線路的性能無法預測",
+                "電阻器可能過熱",
+                "電阻器的內電容會造成電路失調諧"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 64,
+            "question": "使用鐵心環狀電感器的優點是什麼？",
+            "correctAnswer": 4,
+            "answers": [
+                "可得到較高的電感值",
+                "在特定頻率範圍鐵心的磁特性可以最佳化",
+                "大部分的磁場可被侷限於鐵心內",
+                "以上皆是"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 65,
+            "question": "二個螺旋電感器的繞線軸應如何放置才可最小化兩者互感？",
+            "correctAnswer": 3,
+            "answers": [
+                "成一直線",
+                "互相平行",
+                "互相垂直",
+                "間隔放置"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 66,
+            "question": "下列何者為類比積體電路？",
+            "correctAnswer": 4,
+            "answers": [
+                "NAND閘",
+                "微處理器",
+                "計頻器",
+                "線性穩壓器"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 68,
+            "question": "CMOS 積體電路與 TTL 積體電路比具有什麼優點？",
+            "correctAnswer": 1,
+            "answers": [
+                "功率消耗低",
+                "功率處理能力高",
+                "較適合射頻放大",
+                "較適合電源供應調節"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 70,
+            "question": "記憶體的特性為「非揮發」（non-volatile）是指什麼意思？",
+            "correctAnswer": 3,
+            "answers": [
+                "可以抵抗輻射破壞",
+                "可以抵抗高溫",
+                "電源移除之後，儲存的資訊仍然維持著",
+                "寫入之後，儲存的資訊即不可改變"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 71,
+            "question": "積體電路運算放大器是何種裝置？",
+            "correctAnswer": 4,
+            "answers": [
+                "數位的",
+                "MMIC",
+                "可程式邏輯",
+                "類比的"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 72,
+            "question": "LED 顯示器與白熾燈顯示器比具有什麼優點？",
+            "correctAnswer": 4,
+            "answers": [
+                "功率消耗低",
+                "反應時間快",
+                "壽命較長",
+                "以上皆是"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 74,
+            "question": "下列何者是液晶顯示器（LCD）的特性？",
+            "correctAnswer": 1,
+            "answers": [
+                "需要環境或背面光源",
+                "提供寬動態範圍",
+                "具有廣可視角度",
+                "以上皆是"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 75,
+            "question": "業餘無線電電臺可用 USB 介面連接下列哪二個裝置？",
+            "correctAnswer": 1,
+            "answers": [
+                "電腦與收發機",
+                "麥克風與收發機",
+                "放大器與天線",
+                "電源供應器與放大器"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 76,
+            "question": "微處理器是什麼？",
+            "correctAnswer": 2,
+            "answers": [
+                "用做微波偵測器的低功率類比信號處理器",
+                "單片積體電路的電腦",
+                "具微波偵測器、放大器、與本地震盪器的單片積體電路",
+                "用於微波發射機調變器級的低電壓放大器"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 78,
+            "question": "電源供應器用什麼元件提供濾波迴路？",
+            "correctAnswer": 4,
+            "answers": [
+                "二極體",
+                "變壓器與傳感器",
+                "石英晶體",
+                "電容器與電感器"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 79,
+            "question": "全波橋式電源供應器的的整流器上的反向電壓峰值為何？",
+            "correctAnswer": 4,
+            "answers": [
+                "電源供應器正常輸出電壓的1/4",
+                "電源供應器正常輸出電壓的一半",
+                "電源供應器正常輸出電壓的兩倍",
+                "等於電源供應器正常輸出電壓 92"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 80,
+            "question": "電源供應器的半波整流的整流器上的反向峰值電壓為？",
+            "correctAnswer": 4,
+            "answers": [
+                "電源供應器正常輸出峰值電壓",
+                "電源供應器正常輸出電壓的一半",
+                "等於電源供應器正常輸出電壓",
+                "電源供應器正常輸出峰值電壓的兩倍"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 81,
+            "question": "半波整流器將交流電週期的多少部分轉換成直流？",
+            "correctAnswer": 2,
+            "answers": [
+                "90度",
+                "180度",
+                "270度",
+                "360度"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 82,
+            "question": "全波整流器將交流電週期的多少部分轉換成直流？",
+            "correctAnswer": 4,
+            "answers": [
+                "90度",
+                "180度",
+                "270度",
+                "360度"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 83,
+            "question": "接上電阻性負載未濾波全波整流器輸出波形為何？",
+            "correctAnswer": 1,
+            "answers": [
+                "交流電輸入二倍頻的直流脈衝序列",
+                "交流電輸入同頻的直流脈衝序列",
+                "交流電輸入一半頻率的正弦波",
+                "穩定的直流電壓"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 84,
+            "question": "開關式電源供應器比線性電源供應器有何優點？",
+            "correctAnswer": 3,
+            "answers": [
+                "更快切換時間，使輸出電壓可以更高",
+                "可以使用較少的元件",
+                "較高頻率操作可以使用較小型的元件",
+                "以上皆是"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 85,
+            "question": "圖 G7-1 何者代表場效應電晶體(FET) 93",
+            "correctAnswer": 3,
+            "answers": [
+                "符號2",
+                "符號5",
+                "符號1",
+                "符號4"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 86,
+            "question": "圖 G7-1 何者代表稽納二極體(Zener)",
+            "correctAnswer": 4,
+            "answers": [
+                "符號4",
+                "符號1",
+                "符號11",
+                "符號5"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 87,
+            "question": "圖 G7-1 何者代表 NPN 接面電晶體？",
+            "correctAnswer": 2,
+            "answers": [
+                "符號1",
+                "符號2",
+                "符號7",
+                "符號11 94"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 88,
+            "question": "圖 G7-1 何者代表多重繞線變壓器？",
+            "correctAnswer": 3,
+            "answers": [
+                "符號4",
+                "符號7",
+                "符號6",
+                "符號1"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 89,
+            "question": "圖 G7-1 何者代表抽頭式電感器？",
+            "correctAnswer": 1,
+            "answers": [
+                "符號7",
+                "符號11",
+                "符號6",
+                "符號1"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 91,
+            "question": "處理數位信號時，使用二進位系統有何好處？",
+            "correctAnswer": 1,
+            "answers": [
+                "二進位的0與1容易代表開與關的狀態",
+                "二進位系統最準確",
+                "二進位與類比電路最相容",
+                "以上皆是"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 92,
+            "question": "雙輸入 AND 閘的功能，何者為對？",
+            "correctAnswer": 2,
+            "answers": [
+                "輸入之一或二者為低電位時輸出高電位",
+                "二個輸入皆高電位時輸出才為高電位",
+                "輸入之一或二者為低電位時輸出低電位",
+                "二個輸入皆高電位時輸出才為低電位"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 93,
+            "question": "雙輸入 NOR 閘的功能，何者為對？",
+            "correctAnswer": 3,
+            "answers": [
+                "輸入之一或二者為低電壓時輸出高電位",
+                "二個輸入皆為高電位時輸出才為高電位",
+                "輸入之一或二者為高電位時輸出低電位",
+                "二個輸入皆為高電位時輸出才為低電位"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 94,
+            "question": "三位元二進位計數器有幾種狀態？",
+            "correctAnswer": 3,
+            "answers": [
+                "3 95",
+                "6",
+                "8",
+                "16"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 95,
+            "question": "什麼是位移暫存器？",
+            "correctAnswer": 1,
+            "answers": [
+                "將數據在陣列中依序傳遞的時序陣列電路",
+                "使用三狀態數學運算的運算放大器陣列",
+                "數位混波器",
+                "類比混波器"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 97,
+            "question": "如何判定射頻功率放大器的效率？",
+            "correctAnswer": 2,
+            "answers": [
+                "直流輸出功率除以直流輸入功率",
+                "射頻輸出功率除以直流輸入功率",
+                "射頻輸入功率乘以射頻輸出功率的倒數",
+                "射頻輸入功率加上直流輸出功率"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 98,
+            "question": "何者決定 LC 震盪器的頻率？",
+            "correctAnswer": 3,
+            "answers": [
+                "計數器的級數",
+                "分頻器的級數",
+                "儲能線路中的電感與電容",
+                "延遲線路的時間延遲"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 99,
+            "question": "A 類放大器的特徵是什麼？",
+            "correctAnswer": 4,
+            "answers": [
+                "待機功率低",
+                "高效率",
+                "不需要偏壓",
+                "低失真"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 100,
+            "question": "下列什麼模式適合使用 C 類功率放大級放大調變信號？",
+            "correctAnswer": 2,
+            "answers": [
+                "SSB",
+                "CW",
+                "AM 96",
+                "以上皆是"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 101,
+            "question": "何者放大器效率最高？",
+            "correctAnswer": 4,
+            "answers": [
+                "A類",
+                "B類",
+                "AB類",
+                "C類"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 102,
+            "question": "發射機最末級使用中和線路的理由是什麼？",
+            "correctAnswer": 2,
+            "answers": [
+                "限制調制係數",
+                "消除自我振盪",
+                "待機期間切斷末級放大器",
+                "維持載波的頻率"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 103,
+            "question": "以下哪個描述線性放大器？",
+            "correctAnswer": 2,
+            "answers": [
+                "與業餘無線電收發機連接使用的任何射頻功率放大器",
+                "輸出保持輸入波形的放大器",
+                "C類高效率放大器",
+                "用作倍頻的放大器"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 107,
+            "question": "單邊帶接收機中，什麼線路用於混合來自中頻放大器與拍頻振盪器 (BFO)的信號，然後將結果送入音頻放大器？",
+            "correctAnswer": 4,
+            "answers": [
+                "射頻振盪器",
+                "中頻濾波器",
+                "平衡調變器",
+                "乘積檢測器"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 108,
+            "question": "使用直接數位合成器(DDS)控制的收發機有何優點？",
+            "correctAnswer": 4,
+            "answers": [
+                "頻率調諧範圍大而且不用頻帶切換",
+                "功率輸出比較高",
+                "功率消耗比較低",
+                "可變頻率而且具有石英晶體振盪器的穩定度"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 109,
+            "question": "低通濾波器接上傳輸線時，二者的阻抗相比為何？",
+            "correctAnswer": 2,
+            "answers": [
+                "低通濾波器阻抗較高",
+                "幾乎相同",
+                "低通濾波器阻抗較低",
+                "低通濾波器阻抗是傳輸線的二倍"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 110,
+            "question": "超外差接收機各級之間最簡單的組合是何者？",
+            "correctAnswer": 3,
+            "answers": [
+                "射頻放大器、檢測器、音頻放大器",
+                "射頻放大器、混波器、中頻鑑相器",
+                "高頻振盪器、混波器、檢測器",
+                "高頻振盪器、除頻器、音頻放大器"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 111,
+            "question": "許多調頻（FM）接收機採用什麼線路將中頻放大器信號轉換成音頻信 號？",
+            "correctAnswer": 4,
+            "answers": [
+                "乘積檢測器",
+                "反相器",
+                "混波器",
+                "鑑相器"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 113,
+            "question": "數位信號處理器如何濾波？",
+            "correctAnswer": 2,
+            "answers": [
+                "直接處理信號相位",
+                "將類比信號轉換為數位並使用數位處理",
+                "混附相位差分",
+                "將數位信號轉換為類比並取混波信號乘積的差異"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 114,
+            "question": "軟體定義無線電（SDR）是指什麼？",
+            "correctAnswer": 1,
+            "answers": [
+                "大部分的信號處理都以軟體完成的無線電",
+                "以電腦介面提供頻帶與頻率自動紀錄的無線電",
+                "使用軟體設計晶體濾波器的無線電",
+                "在設計過程中模擬無線電操作效能的電腦模型"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 115,
+            "question": "以下哪種數位模式設計用在 HF 頻段以非常低的信號強度工作？",
+            "correctAnswer": 2,
+            "answers": [
+                "FSK441和Hellchreiber",
+                "JT9和JT65",
+                "Clover",
+                "RTTY"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 116,
+            "question": "在單個 PSK31 字符中發送多少個數據位元？",
+            "correctAnswer": 1,
+            "answers": [
+                "位元數會變動",
+                "5",
+                "7",
+                "8"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 117,
+            "question": "數據封包的哪一部分包含路由和處理信息？",
+            "correctAnswer": 3,
+            "answers": [
+                "目錄",
+                "序言",
+                "標題",
+                "註腳"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 118,
+            "question": "下列何者描述了 Baudot 編碼?",
+            "correctAnswer": 3,
+            "answers": [
+                "具有起始、停止與奇偶數驗證的7位元編碼",
+                "使用錯誤偵測和校正的編碼",
+                "具有附帶起始和停止位元的5位元編碼",
+                "使用SELCAL和LISTEN的編碼 99"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 119,
+            "question": "在 PACTOR 協定，對傳輸封包的 NAK 回應是什麼意思？",
+            "correctAnswer": 1,
+            "answers": [
+                "接收機正在請求重傳封包",
+                "接收機報告接收到的封包沒有錯誤",
+                "接收機忙於解碼封包",
+                "整個文件已經被正確接收"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 120,
+            "question": "在使用 PACTOR 或 WINMOR 時，由於過多的傳輸嘗試而無法交換信息 會，導致什麼操作？",
+            "correctAnswer": 2,
+            "answers": [
+                "校驗和超出範圍",
+                "連接斷開",
+                "封包路由不正確",
+                "編碼恢復到原設定字符集"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 121,
+            "question": "接收電臺如何回應包含錯誤的 ARQ 數據模式封包？",
+            "correctAnswer": 2,
+            "answers": [
+                "終止聯繫",
+                "請求重傳封包",
+                "將封包送回傳輸電臺",
+                "要求改變傳輸協定"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 122,
+            "question": "關於 PSK31，下列哪個敘述為真？",
+            "correctAnswer": 2,
+            "answers": [
+                "大寫字母使信號更強",
+                "大寫字母使用較長的Varicode信號，從而減慢傳輸",
+                "Varicode誤差校正用於確保準確的消息接收",
+                "與類似錯誤率的RTTY相比，需要更高的功率"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 123,
+            "question": "“PSK31”的 31 代表什麼？",
+            "correctAnswer": 1,
+            "answers": [
+                "近似發射符號速率",
+                "PSK協定的版本",
+                "發明PSK31的年份",
+                "可以由PSK31表示的字符數"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 124,
+            "question": "前向糾錯（FEC）如何允許接收機糾正接收的數據封包中的錯誤？",
+            "correctAnswer": 3,
+            "answers": [
+                "通過控制發射機輸出功率以獲得最佳信號強度",
+                "使用varicode字符集",
+                "通過與數據一起發送冗餘資訊",
+                "通過對每個字符使用奇偶校驗位元 100"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 125,
+            "question": "如何識別頻移鍵控（FSK）信號的兩個獨立頻率？",
+            "correctAnswer": 4,
+            "answers": [
+                "點和短劃線",
+                "開和關",
+                "高和低",
+                "標記和空間"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 126,
+            "question": "在 PSK31 信號中使用哪種類型的碼發送字符？",
+            "correctAnswer": 1,
+            "answers": [
+                "Varicode",
+                "Viterbi",
+                "Volumetric",
+                "Binary"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 127,
+            "question": "下列何種因素決定了平行導體天線饋線的特性阻抗?",
+            "correctAnswer": 1,
+            "answers": [
+                "導體中心間的距離與導體半徑",
+                "導體中心間的距離與饋線長度",
+                "導體半徑與信號頻率",
+                "信號頻率與饋線長度"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 128,
+            "question": "業餘無線電電臺使用於天線饋線的同軸電纜的特性阻抗是？",
+            "correctAnswer": 2,
+            "answers": [
+                "25 and 30 歐姆",
+                "50 and 75 歐姆",
+                "80 and 100 歐姆",
+                "500 and 750 歐姆"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 129,
+            "question": "扁平帶狀電視型雙線的特性阻抗是？",
+            "correctAnswer": 4,
+            "answers": [
+                "50 歐姆",
+                "75 歐姆",
+                "100 歐姆",
+                "300 歐姆"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 130,
+            "question": "將饋線接上天線的點，什麼狀況下會產生反射功率？",
+            "correctAnswer": 3,
+            "answers": [
+                "在天線的諧振頻率上操作天線",
+                "使用超過天線所能承受的發射機功率",
+                "導線阻抗與天線饋點阻抗間有差異",
+                "用不平衡饋線將訊號傳送到天線"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 131,
+            "question": "同軸電纜載送的訊號頻率增加時，其衰減值如何改變？",
+            "correctAnswer": 2,
+            "answers": [
+                "衰減值與訊號頻率無關 101",
+                "衰減值增加",
+                "衰減值減少",
+                "衰減值在18百萬赫  時達到最大"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 132,
+            "question": "用什麼單位來表示射頻饋線損失?",
+            "correctAnswer": 4,
+            "answers": [
+                "歐姆/1,000 公尺",
+                "分貝/1,000 公尺",
+                "歐姆/100 公尺",
+                "分貝/100 公尺"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 133,
+            "question": "下列哪一件事可預防天線饋線上產生駐波?",
+            "correctAnswer": 4,
+            "answers": [
+                "天線饋點電位必需為直流電接地電位",
+                "饋線必須被裁剪成與奇數電氣1/4波長一樣的長度",
+                "饋線必須被裁剪成與偶數物理性半波波長一樣的長度",
+                "天線饋點阻抗必須與饋線的特性阻抗相匹配"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 134,
+            "question": "如果天線饋線的駐波比是 5:1，在發射機饋線的末端的匹配網路駐波比 被調整成 1:1，請問饋線的駐波比是多少？",
+            "correctAnswer": 2,
+            "answers": [
+                "1:1",
+                "5:1",
+                "介於1:1到5:1之間，視饋線上的特性阻抗而定",
+                "介於1:1到5:1之間，視發射機上的反射功率而定"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 135,
+            "question": "將 50 歐姆饋線連接到有 200 歐姆阻抗的無電抗負載上的駐波比是?",
+            "correctAnswer": 1,
+            "answers": [
+                "4:1",
+                "1:4",
+                "2:1",
+                "1:2"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 136,
+            "question": "將 50 歐姆饋線連接到有 10 歐姆阻抗的無電抗負載上的駐波比是?",
+            "correctAnswer": 4,
+            "answers": [
+                "2:1",
+                "50:1",
+                "1:5",
+                "5:1"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 137,
+            "question": "將 50 歐姆饋線連接到有 50 歐姆阻抗的無電抗負載上的駐波比是?",
+            "correctAnswer": 2,
+            "answers": [
+                "2:1",
+                "1:1 102",
+                "50:50",
+                "0:0"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 140,
+            "question": "高駐波比跟傳輸線損失間的相互作用是什麼?",
+            "correctAnswer": 2,
+            "answers": [
+                "兩者無相互作用",
+                "如果傳輸線有損失，高駐波比的情況下會增加傳輸線損失",
+                "高駐波比的狀況使我們不易量測傳輸線損失",
+                "高駐波比的情況相對減少了傳輸線損失"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 141,
+            "question": "在傳輸線訊號輸入端量測的駐波比對傳輸線損失的影響是什麼?",
+            "correctAnswer": 1,
+            "answers": [
+                "傳輸線損失越高，駐波比讀數越低",
+                "傳輸線損失越高，駐波比讀數越高",
+                "傳輸線損失越高，駐波比讀數越準確",
+                "傳輸線損失與駐波比測量無關"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 142,
+            "question": "直接饋電式任意線高頻天線(random-wire HF antenna)的缺點之一是什麼?",
+            "correctAnswer": 2,
+            "answers": [
+                "天線長至少一個波長",
+                "你在電臺中碰觸到金屬物件時，可能會遭到射頻灼傷",
+                "只能產生垂直極化輻射",
+                "比起較高HF頻段，在較低HF頻段操作更有效"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 143,
+            "question": "下列何者是常用來將 1/4 波長接地面垂直天線的饋點阻抗調整到約 50 歐姆的方法?",
+            "correctAnswer": 2,
+            "answers": [
+                "輻射方向向上傾斜",
+                "輻射方向向下傾斜",
+                "延長輻射方向 103",
+                "短縮輻射方向"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 144,
+            "question": "當接地面天線的輻射方向從水平變成向下傾斜時，該天線的饋電點阻抗 數值會如何變化?",
+            "correctAnswer": 2,
+            "answers": [
+                "減少",
+                "增加",
+                "不變",
+                "在向下傾斜45度角的饋電點阻抗數值最大"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 147,
+            "question": "接地面垂直天線系統的輻射線應該安置於何處?",
+            "correctAnswer": 3,
+            "answers": [
+                "地面上越高越好",
+                "與天線元件平行",
+                "放在地表或是埋入地下幾公分的深度",
+                "放在天線中央"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 148,
+            "question": "將 1/2 波長偶極天線的高度降低到離地 1/4 波長以下的時候，饋電點阻 抗的變化是什麼?",
+            "correctAnswer": 2,
+            "answers": [
+                "持續增加",
+                "持續減少",
+                "在天線離地1/8波長高時達到最高值",
+                "不受天線高度影響"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 149,
+            "question": "將 1/2 波長偶極天線的饋電點從中間往端點移動，饋電點阻抗的變化是 什麼?",
+            "correctAnswer": 1,
+            "answers": [
+                "持續增加",
+                "持續減少 104",
+                "離端點1/8波長時阻抗達到最高值",
+                "不受饋電點位置影響"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 150,
+            "question": "與垂直極化高頻天線相比，下列何者是水平極化天線的優勢?",
+            "correctAnswer": 1,
+            "answers": [
+                "較低的地面反射損失",
+                "較低的饋電點損失",
+                "較短的輻射方向",
+                "較低的輻射阻力"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 154,
+            "question": "下列哪一項能增加八木天線的頻寬?",
+            "correctAnswer": 1,
+            "answers": [
+                "更大直徑的天線元件",
+                "更短的天線元件間距",
+                "感應線圈與天線元件串聯",
+                "錐形直徑的天線元件"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 155,
+            "question": "八木天線的驅動元件(driven element)的長度大概是多少?",
+            "correctAnswer": 2,
+            "answers": [
+                "1/4 波長",
+                "1/2 波長",
+                "3/4 波長",
+                "1 波長 105"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 157,
+            "question": "關於三元件、單頻段八木天線的敘述何者為真?",
+            "correctAnswer": 1,
+            "answers": [
+                "反射器通常是最長的天線元件",
+                "引向器通常是最長的天線元件",
+                "反射器通常是最短的天線元件",
+                "所有的天線元件必須要是相同長度"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 158,
+            "question": "增長龍骨(boom)長度跟增加引向器的數量會對八木天線產生怎麼樣的影 響?",
+            "correctAnswer": 1,
+            "answers": [
+                "增益增加",
+                "頻寬增加",
+                "天線的前後比減少",
+                "天線的前側比減少"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 161,
+            "question": "對指向性天線來說，主波瓣是什麼意思?",
+            "correctAnswer": 4,
+            "answers": [
+                "最大垂直輻射角度值",
+                "在輻射天線元件中的最大電流點",
+                "在輻射天線元件中最高電壓的駐波點",
+                "天線最強輻射場強的方向 106"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 162,
+            "question": "垂直間隔半個波長的兩支三元件水平極化八木天線與一支三元件八木天 線的增益比為何?",
+            "correctAnswer": 2,
+            "answers": [
+                "大概高 1.5 dB",
+                "大概高 3 dB",
+                "大概高 6 dB",
+                "大概高 9 dB"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 164,
+            "question": "伽馬(gamma)匹配用在八木天線上的目的是什麼?",
+            "correctAnswer": 1,
+            "answers": [
+                "為匹配相對低的饋電點阻抗到50 歐姆",
+                "為匹配相對高的饋電點阻抗到50 歐姆",
+                "為增加前後比",
+                "為增加主波瓣增益"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 166,
+            "question": "方形天線的每一邊的驅動元件(driven element)的天線長是多少?",
+            "correctAnswer": 1,
+            "answers": [
+                "1/4 波長",
+                "1/2 波長",
+                "3/4 波長",
+                "1 波長"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 167,
+            "question": "二元件方形天線跟三元件八木天線的前向增益相比為何?",
+            "correctAnswer": 2,
+            "answers": [
+                "最多差約2/3",
+                "大概相同",
+                "最多差1.5倍 107",
+                "最多差2倍"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 168,
+            "question": "方形天線的每一邊的反射器長度是多少?",
+            "correctAnswer": 2,
+            "answers": [
+                "稍微少於 1/4 波長",
+                "稍微多於 1/4 波長",
+                "稍微少於 1/2 波長",
+                "稍微多於 1/2 波長"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 169,
+            "question": "二元件三角形定向天線與二元件方形天線的增益相比為何?",
+            "correctAnswer": 4,
+            "answers": [
+                "高於3 dB",
+                "低於3 dB",
+                "高於2.54 dB",
+                "大致相同"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 170,
+            "question": "對稱三角形天線的每一邊天線長是多少?",
+            "correctAnswer": 2,
+            "answers": [
+                "1/4 波長",
+                "1/3 波長",
+                "1/2 波長",
+                "2/3 波長"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 171,
+            "question": "當任何形狀的方形天線的饋電點從頂部或底部的中點移動到任意一側的 中點時，會發生什麼?",
+            "correctAnswer": 1,
+            "answers": [
+                "輻射訊號的極化從水平變成垂直",
+                "輻射訊號的極化從垂直變成水平",
+                "極化狀況不變",
+                "輻射訊號呈現圓極化"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 172,
+            "question": "同一天線增益值 dBi 跟 dBd 相比較?",
+            "correctAnswer": 2,
+            "answers": [
+                "dBi 增益值比 dBd 低 2.15 dB",
+                "dBi 增益值比 dBd 高 2.15 dB",
+                "dBi 增益值跟 dBd 增益值開平方根乘以2.15後相同",
+                "dBi 增益值是 dBd 增益值加上2.15 dB後的倒數"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 173,
+            "question": "有關天線增益值的 dBi 跟 dBd 是什麼意思?",
+            "correctAnswer": 1,
+            "answers": [
+                "dBi 用來表示等向性天線增益, dBd 則用在表示偶極天線增益",
+                "dBi 用來表示電離層反射天線增益, dBd 用在表示耗損型天線",
+                "dBi 用來表示倒Ｖ型天線, dBd 用在表示向下反射型天線",
+                "dBi 用來表示等距天線, dBd 用在表示錐形天線 108"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 174,
+            "question": "有關天線的 NVIS 是什麼意思?",
+            "correctAnswer": 4,
+            "answers": [
+                "接近垂直電感系統",
+                "非變動指示駐波比",
+                "非變動平滑阻抗",
+                "近垂直入射天波"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 175,
+            "question": "下列何者為 NVIS 天線的優勢?",
+            "correctAnswer": 2,
+            "answers": [
+                "工作電臺間以低垂直角度輻射，通聯可達數千公里",
+                "工作電臺間以高垂直角度輻射，通聯可達數百公里",
+                "高前向增益",
+                "以上皆是"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 176,
+            "question": "NVIS 天線通常會安裝在離地多少高度?",
+            "correctAnswer": 4,
+            "answers": [
+                "儘可能接近 1/2 波長",
+                "儘可能接近一個波長",
+                "只要明顯高過1/2波長就好",
+                "在1/10跟1/4波長之間"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 177,
+            "question": "使用天線陷波的主要目的是什麼?",
+            "correctAnswer": 1,
+            "answers": [
+                "以達成多頻段操作",
+                "使具帶拒混附頻率",
+                "提供平衡的饋電點阻抗",
+                "防止帶外操作"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 178,
+            "question": "垂直堆疊水平極化八木天線的優勢是什麼?",
+            "correctAnswer": 4,
+            "answers": [
+                "可以快速選擇垂直或水平極化",
+                "可以同時達成垂直及水平極化",
+                "窄化主輻射波瓣的方位角",
+                "窄化主輻射波瓣的高度"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 179,
+            "question": "對數週期型天線的優勢是什麼?",
+            "correctAnswer": 1,
+            "answers": [
+                "寬頻寬",
+                "每個元件比八木天線有更高的增益。",
+                "抑制諧波",
+                "極化多樣性"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 181,
+            "question": "為什麼行波(Beverage)天線沒有被用在發射訊號?",
+            "correctAnswer": 2,
+            "answers": [
+                "阻抗太低無法有效匹配",
+                "與其他天線相比耗損太多",
+                "方向性不佳",
+                "以上皆是"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 182,
+            "question": "下列何者是行波(Beverage)天線的應用?",
+            "correctAnswer": 2,
+            "answers": [
+                "較低高頻頻段的定向傳輸",
+                "較低高頻頻段的定向接收",
+                "較高高頻頻段的可攜式測向",
+                "較低高頻頻段的可攜式測向"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 183,
+            "question": "下列何者指的是行波(Beverage)天線?",
+            "correctAnswer": 4,
+            "answers": [
+                "垂直天線",
+                "寬頻帶行動天線",
+                "用作太空接收的螺旋天線",
+                "非常長與低方向性的接收天線"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 184,
+            "question": "下列何者指的是多頻帶天線的缺點?",
+            "correctAnswer": 4,
+            "answers": [
+                "在所有設計頻率有著低阻抗",
+                "使用時必須配合天線調諧器",
+                "必須用開放式纜線饋電",
+                "諧波抑制不良 110"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        }
+    ]
+}

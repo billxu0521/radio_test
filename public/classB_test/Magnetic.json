@@ -1,0 +1,317 @@
+{
+    "title": "電磁相容性技術題庫",
+    "questions": [
+        {
+            "questionNumber": 1,
+            "question": "下列何者是序列數據埠接頭的好選擇？",
+            "correctAnswer": 4,
+            "answers": [
+                "PL-259",
+                "N接頭",
+                "SMA接頭",
+                "DE-9"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 2,
+            "question": "下列何者是常用於 150 百萬赫以下的射頻接頭？",
+            "correctAnswer": 3,
+            "answers": [
+                "Octal",
+                "RJ-11",
+                "PL-259",
+                "DB-25"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 3,
+            "question": "下列何者常用於業餘無線電電臺的音頻信號接頭？",
+            "correctAnswer": 3,
+            "answers": [
+                "PL-259",
+                "BNC",
+                "RCA接頭",
+                "N接頭"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 4,
+            "question": "何者為使用「有鎖」接頭（keyed connectors）的理由？",
+            "correctAnswer": 2,
+            "answers": [
+                "阻止非授權人員使用",
+                "減少插接錯誤的機會",
+                "具有更高的電流容量",
+                "以上皆是"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 5,
+            "question": "下列何者正確描述 N 型接頭？",
+            "correctAnswer": 1,
+            "answers": [
+                "可用至10吉赫防潮的射頻接頭",
+                "用於數據線路的小型刺刀接頭",
+                "用於液壓系統的有螺紋接頭",
+                "用於環繞音效場所的音頻接頭"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 6,
+            "question": "下列何者是 DIN 型接頭的一般描述？",
+            "correctAnswer": 3,
+            "answers": [
+                "微波介面的特殊接頭 116",
+                "用於30至50安培電流的直流電源接頭",
+                "用於音訊與控制信號系列的多重線路接頭",
+                "海事運用的特殊防水接頭"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 7,
+            "question": "什麼是 SMA 型接頭？",
+            "correctAnswer": 2,
+            "answers": [
+                "可用於超過1仟瓦特功率的大型刺刀接頭",
+                "適用於數吉赫信號的小型螺紋接頭",
+                "設計用於序列多重存取信號的接頭",
+                "用於高電壓應用的推入式接頭"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 8,
+            "question": "如何產生 FSK 信號？",
+            "correctAnswer": 2,
+            "answers": [
+                "用次可調音音調鍵控調頻發射機",
+                "通過數位控制信號直接改變振盪器的頻率",
+                "通過使用收發機電腦的數據介面通訊協定來改變頻率",
+                "通過重新配置CW鍵控輸入以充當音調產生器"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 10,
+            "question": "改變 RF 波的瞬時頻率以傳送信息的處理過程的名稱是什麼？",
+            "correctAnswer": 4,
+            "answers": [
+                "頻率迴旋",
+                "頻率變換",
+                "變頻",
+                "頻率調變"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 11,
+            "question": "連接到發射機 RF 放大器級的電抗調變器產生什麼樣發射？",
+            "correctAnswer": 2,
+            "answers": [
+                "多工調變",
+                "相位調變",
+                "振幅調變",
+                "脈衝調變"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 12,
+            "question": "什麼類型的調變改變了 RF 信號的瞬時功率位準？",
+            "correctAnswer": 4,
+            "answers": [
+                "頻移鍵控",
+                "相位調變",
+                "頻率調變 117",
+                "振幅調變"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 13,
+            "question": "在單邊帶電話傳輸中的載波抑制與全載波振幅調變相比有什麼優點？",
+            "correctAnswer": 3,
+            "answers": [
+                "改進了音訊傳真度",
+                "較低的失真可獲得較大的調變百分比",
+                "可以更有效地使用可用的發射機功率",
+                "可以使用更簡單的接收設備"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 14,
+            "question": "以下哪種電話發射使用最窄的帶寬？",
+            "correctAnswer": 1,
+            "answers": [
+                "單邊帶",
+                "雙邊帶",
+                "相位調變",
+                "頻率調變"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 15,
+            "question": "以下哪項是過調變的影響？",
+            "correctAnswer": 4,
+            "answers": [
+                "音訊不足",
+                "帶寬不足",
+                "頻率偏移",
+                "帶寬過大"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 16,
+            "question": "在業餘無線電單邊帶收發器為適當的 ALC 設定通常需調整什麼控制？",
+            "correctAnswer": 2,
+            "answers": [
+                "RF振幅截止準位",
+                "傳輸音訊或麥克風增益",
+                "天線電感或電容",
+                "衰減器準位"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 18,
+            "question": "AM 信號的調變包絡是什麼？",
+            "correctAnswer": 1,
+            "answers": [
+                "由調變信號的峰值形成的波形",
+                "包含信號的載波頻率",
+                "包含附近頻率的混附信號",
+                "調變信號的帶寬 118"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 19,
+            "question": "接收機的那一級將 14.250 百萬赫輸入信號與 13.795 百萬赫振盪器信號混 合以產生 455 千赫中頻（IF）信號？",
+            "correctAnswer": 1,
+            "answers": [
+                "混頻器",
+                "BFO",
+                "VFO",
+                "鑑別器"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 20,
+            "question": "如果接收機將 13.800 百萬赫 VFO 與 14.255 百萬赫接收信號混頻以產生 455 千赫中頻（IF）信號，那麼在接收機中 13.345 百萬赫信號將產生什 麼類型的干擾？",
+            "correctAnswer": 2,
+            "answers": [
+                "正交雜訊",
+                "圖像響應",
+                "混頻器干擾",
+                "中頻干擾"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 21,
+            "question": "混合兩個射頻信號的另一個術語是什麼？",
+            "correctAnswer": 1,
+            "answers": [
+                "外差",
+                "合成",
+                "取消",
+                "反相"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 22,
+            "question": "VHF 調頻發射機中什麼級以較低頻率信號產生所需工作頻率？",
+            "correctAnswer": 4,
+            "answers": [
+                "混頻器",
+                "電抗調變器",
+                "預強調網路",
+                "倍頻器"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 24,
+            "question": "具有 5 千赫偏差和 3 千赫調變頻率的調頻電話傳輸的總帶寬是多少？",
+            "correctAnswer": 4,
+            "answers": [
+                "3 千赫",
+                "5 千赫",
+                "8 千赫",
+                "16 千赫 119"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 26,
+            "question": "為什麼知道發送時使用的模式的工作週期很重要？",
+            "correctAnswer": 2,
+            "answers": [
+                "有助於調諧發射機",
+                "一些模式具有高工作週期，可能超過發射機的平均額定功率",
+                "允許其他電臺在傳輸期間插話的時間",
+                "以上皆是"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 27,
+            "question": "為什麼將接收機帶寬與操作模式的帶寬匹配是好的？",
+            "correctAnswer": 4,
+            "answers": [
+                "NCC規則要求的",
+                "最小化接收機中的功率消耗",
+                "改善天線的阻抗匹配",
+                "產生最好的雜訊比"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 28,
+            "question": "發送符號速率和帶寬之間的關係是什麼？",
+            "correctAnswer": 2,
+            "answers": [
+                "符號速率和帶寬不相關",
+                "較高的符號速率需要較寬的帶寬",
+                "較低的符號速率需要較寬的帶寬",
+                "帶寬總是符號速率的一半 120"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        }
+    ]
+}

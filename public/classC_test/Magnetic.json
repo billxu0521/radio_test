@@ -1,0 +1,109 @@
+{
+    "title": "電磁相容性技術題庫",
+    "questions": [
+        {
+            "questionNumber": 2,
+            "question": "在行動電臺收發機收到的音頻中，伴隨著引擎速度變化產生的高亢嘶嘶聲 的來源為何？",
+            "correctAnswer": 2,
+            "answers": [
+                "點火系統",
+                "交流發電機",
+                "電子的燃油泵",
+                "防鎖死煞車系統控制器"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 3,
+            "question": "行動電臺的收發機上的電源線的負迴路端應該接至何處？",
+            "correctAnswer": 1,
+            "answers": [
+                "接在電池或引擎之接地帶上",
+                "在天線的固定底座上",
+                "接在車輛上的任何金屬部分",
+                "接至收發機的支架上"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 5,
+            "question": "如果發射機的麥克風增益設定過高時，將會產生何事？",
+            "correctAnswer": 2,
+            "answers": [
+                "輸出功率也許過高",
+                "輸出信號可能失真",
+                "頻率可能變化不定",
+                "SWR駐波比可能增高 113"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 6,
+            "question": "下列哪一項描述了一般所謂的”中繼偏移”？",
+            "correctAnswer": 3,
+            "answers": [
+                "中繼電臺的發射與接收天線之間的距離",
+                "中繼電臺定時器重置前的延滯時間",
+                "中繼電臺的發射與接收頻率間的差異",
+                "匹配天線阻抗與饋電電纜阻抗"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 7,
+            "question": "自動增益控制(AGC)之功能為何？",
+            "correctAnswer": 1,
+            "answers": [
+                "保持接收音頻相對比較的穩定",
+                "保護天線避免雷擊",
+                "消除電臺佈線的射頻",
+                "用於匹配天線的非對稱性的測角儀控制"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 8,
+            "question": "以下哪一項是使用屏蔽線的常見原因？",
+            "correctAnswer": 2,
+            "answers": [
+                "降低直流電源連接的電阻",
+                "增加導線的載流能力",
+                "防止不必要信號耦合到導線或從導線耦合",
+                "將導線連接到其他信號"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 9,
+            "question": "如果您被告知您的 FM 手持式或行動收發機過度偏移，您可以做什麼？",
+            "correctAnswer": 4,
+            "answers": [
+                "對著麥克風大聲說話",
+                "讓收發機冷卻降溫",
+                "切換到高功率",
+                "遠離麥克風說話"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 10,
+            "question": "什麼會導致 AM 或 FM 無線電廣播無意中收到業餘無線電傳輸？",
+            "correctAnswer": 1,
+            "answers": [
+                "接收機無法阻擋AM或FM頻段以外的強信號",
+                "發射機的麥克風增益過高",
+                "發射機的音頻放大器過載",
+                "調頻發射機的偏差設置得太低 114"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        }
+    ]
+}
