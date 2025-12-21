@@ -46,3 +46,35 @@ kbd {
   color: #374151;
   box-shadow: 0 1px 2px 0 rgb(0 0 0 / 0.05);
 }
+
+/* 卡片滑動動畫 - 下一題（向左滑） */
+.slide-left-enter-active,
+.slide-left-leave-active {
+  transition: transform 0.3s ease-out, opacity 0.3s ease-out;
+}
+
+.slide-left-enter-from {
+  transform: translateX(100%);
+  opacity: 0;
+}
+
+.slide-left-leave-to {
+  transform: translateX(-100%);
+  opacity: 0;
+}
+
+/* 卡片滑動動畫 - 上一題（向右滑） */
+.slide-right-enter-active,
+.slide-right-leave-active {
+  transition: transform 0.3s ease-out, opacity 0.3s ease-out;
+}
+
+.slide-right-enter-from {
+  transform: translateX(-100%);
+  opacity: 0;
+}
+
+.slide-right-leave-to {
+  transform: translateX(100%);
+  opacity: 0;
+}
