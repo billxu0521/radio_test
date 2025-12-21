@@ -44,7 +44,7 @@ const cardHeight = computed(() => {
 
   // 基本高度 350px，根據文字長度增加
   // 每 100 字增加約 50px
-  const baseHeight = 600
+  const baseHeight = 500
   const extraHeight = Math.ceil(totalLength / 100) * 40
 
   return Math.max(baseHeight, baseHeight + extraHeight)
