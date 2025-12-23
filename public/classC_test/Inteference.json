@@ -68,7 +68,7 @@
         },
         {
             "questionNumber": 6,
-            "question": "下列何者適用於兩個電臺在同一頻率發射時互相干擾的情況? 115",
+            "question": "下列何者適用於兩個電臺在同一頻率發射時互相干擾的情況?",
             "correctAnswer": 1,
             "answers": [
                 "應該遵循日常的禮儀，但是沒有電臺有絕對的優先",
@@ -146,7 +146,7 @@
         },
         {
             "questionNumber": 12,
-            "question": "以下哪一項是減少或消除業餘發射機對附近電話的干擾的方法？ 116",
+            "question": "以下哪一項是減少或消除業餘發射機對附近電話的干擾的方法？",
             "correctAnswer": 4,
             "answers": [
                 "濾波器裝在發射機上",
@@ -224,7 +224,7 @@
         },
         {
             "questionNumber": 18,
-            "question": "使用以下哪種方法來定位雜訊干擾或人為干擾源？ 117",
+            "question": "使用以下哪種方法來定位雜訊干擾或人為干擾源？",
             "correctAnswer": 3,
             "answers": [
                 "迴聲定位",

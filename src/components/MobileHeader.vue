@@ -40,6 +40,15 @@
         <span>{{ store.progress.total }}</span>
       </div>
 
+      <!-- 重置按鈕 -->
+      <button
+        @click="handleReset"
+        class="flex-shrink-0 w-8 h-8 flex items-center justify-center text-gray-500 hover:text-gray-700 rounded-full hover:bg-gray-100"
+        title="重置"
+      >
+        <span class="text-base">⟲</span>
+      </button>
+
       <!-- 資訊按鈕 -->
       <button
         @click="$emit('showInfo')"
@@ -70,5 +79,9 @@ const handleBankChange = (e: Event) => {
   if (target.value) {
     store.selectBank(target.value)
   }
+}
+
+const handleReset = () => {
+  store.reset()
 }
 </script>

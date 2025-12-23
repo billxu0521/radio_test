@@ -1,6 +1,7 @@
 import { defineStore } from 'pinia'
-import { ref, computed } from 'vue'
+import { ref, computed, watch } from 'vue'
 import type { Question, QuestionBank, QuestionBankInfo } from '@/types'
+import { getUrlParams, updateUrlParams } from '@/composables/useUrlParams'
 
 // 題庫檔案映射
 const BANK_FILES: Record<string, string> = {
@@ -163,6 +164,50 @@ export const useFlashCardStore = defineStore('flashCard', () => {
     }
   }
 
+  // 重置所有選擇（考等、題庫、題號）
+  async function reset() {
+    currentClass.value = 'C' // 預設三等
+    currentBankId.value = null
+    currentBank.value = null
+    currentIndex.value = 0
+    isFlipped.value = false
+    await loadBankList()
+  }
+
+  // 從 URL 參數初始化狀態
+  async function initFromUrl() {
+    const params = getUrlParams()
+
+    // 設定考等
+    if (params.class && params.class !== currentClass.value) {
+      currentClass.value = params.class
+    }
+
+    // 載入題庫列表
+    await loadBankList()
+
+    // 選擇題庫
+    if (params.bank) {
+      await selectBank(params.bank)
+
+      // 跳轉到指定題號
+      if (params.question && params.question > 0) {
+        goToQuestion(params.question - 1)
+      }
+    }
+  }
+
+  // 同步 URL 參數
+  function syncUrlParams() {
+    const questionNumber = currentBankId.value ? currentIndex.value + 1 : null
+    updateUrlParams(currentClass.value, currentBankId.value, questionNumber)
+  }
+
+  // 監聽狀態變化，自動更新 URL
+  watch([currentClass, currentBankId, currentIndex], () => {
+    syncUrlParams()
+  })
+
   return {
     // State
     currentClass,
@@ -184,5 +229,7 @@ export const useFlashCardStore = defineStore('flashCard', () => {
     prevQuestion,
     flipCard,
     goToQuestion,
+    reset,
+    initFromUrl,
   }
 })

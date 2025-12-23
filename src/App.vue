@@ -60,6 +60,17 @@
       </h1>
       <p class="text-xs text-gray-500 text-center tracking-wide uppercase">本工具僅供練習使用</p>
 
+      <!-- 重置按鈕 -->
+      <div class="flex justify-center">
+        <button
+          @click="store.reset"
+          class="px-4 py-2 text-sm text-gray-500 hover:text-gray-700 hover:bg-gray-100 rounded-lg transition-colors flex items-center gap-2"
+        >
+          <span>⟲</span>
+          <span>重置選擇</span>
+        </button>
+      </div>
+
       <!-- 等級選擇器 -->
       <ClassSelector />
 
@@ -229,6 +240,7 @@ const handleNext = () => {
 useKeyboard()
 
 onMounted(() => {
-  store.loadBankList()
+  // 從 URL 參數初始化（會自動載入題庫列表）
+  store.initFromUrl()
 })
 </script>
