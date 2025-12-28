@@ -71,7 +71,7 @@
             "question": "在測試發送訊號時，下列何者為真",
             "correctAnswer": 4,
             "answers": [
-                "如果測試小於15秒，不需要電臺標識 60",
+                "如果測試小於15秒，不需要電臺標識",
                 "如果測試功率小於1瓦特，不需要電臺識",
                 "如果發送只是為了測試訊號，僅需每小時電臺標識",
                 "電臺識別必須至少每10分鐘一次，還有在測試終了時"
@@ -149,10 +149,23 @@
             "question": "甚麼術語用來描述正常正常語音傳輸的次音頻，以開啟接收機的制噪 (squelch)?",
             "correctAnswer": 4,
             "answers": [
-                "載波制噪 61",
+                "載波制噪",
                 "音頻脈衝",
                 "DTMF",
                 "CTCSS"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 13,
+            "question": "下列何者描述讓接收機音頻靜音，僅使用 RF 訊號的存在與否的控制方式",
+            "correctAnswer": 2,
+            "answers": [
+                "音頻制噪(squelch)",
+                "載波制噪",
+                "CTCSS",
+                "調變的載波"
             ],
             "picture": false,
             "pictureURL": ""
@@ -215,7 +228,7 @@
             "correctAnswer": 2,
             "answers": [
                 "QRU",
-                "QSY 62",
+                "QSY",
                 "QSL",
                 "QRZ"
             ],
@@ -294,7 +307,7 @@
             "answers": [
                 "他們代表全美前兩大的火腿俱樂部",
                 "兩者都廣播路況跟天氣資料",
-                "都沒有提供緊急交通援助的公共服務 63",
+                "都沒有提供緊急交通援助的公共服務",
                 "兩者都可以提供緊急狀況時的通訊"
             ],
             "picture": false,
@@ -373,7 +386,20 @@
                 "訊息內文的第一段",
                 "訊息的編號",
                 "標示訊息的優先處理",
-                "當訊息通過業餘無線電交通處理系統時，提供追蹤訊息的資訊 64"
+                "當訊息通過業餘無線電交通處理系統時，提供追蹤訊息的資訊"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 31,
+            "question": "“Check”在正式交通訊息裡有甚麼意義嗎?",
+            "correctAnswer": 1,
+            "answers": [
+                "它計算訊息內文字部分的字句或相等於字句的數目",
+                "它代表訊息內附加的匯票(money order)的價值",
+                "它代表轉傳訊息的友臺清單",
+                "它就是訊息表格上方格以告訴你訊息己收到"
             ],
             "picture": false,
             "pictureURL": ""
@@ -387,6 +413,19 @@
                 "有業餘無線電人員證照的軍事人員自願在急難狀況時提供訊息處理服務",
                 "讓有興趣取得業餘無線電執照的民眾用在急難的證照課程訓練計畫",
                 "認證業餘無線電人員成為RACES會員的訓練計畫"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 33,
+            "question": "如果另一個業餘無線電人員報告您的電臺的 2 公尺信號剛才很強，但現 在很弱或者失真，你應該怎麼辦？",
+            "correctAnswer": 4,
+            "answers": [
+                "將收發機中的電池更換為不同類型的電池",
+                "打開CTCSS音頻",
+                "要求其他業餘無線電人員調整他的制噪控制(squelch control)",
+                "儘可能嘗試移動幾公尺或改變天線的方向，因為反射可能導致多路徑失真"
             ],
             "picture": false,
             "pictureURL": ""
@@ -423,7 +462,7 @@
             "correctAnswer": 2,
             "answers": [
                 "調變邊帶可能會反轉",
-                "信號可能明顯變弱 65",
+                "信號可能明顯變弱",
                 "信號對聲音有迴聲效應",
                 "沒有什麼明顯的事情會發生"
             ],
@@ -439,6 +478,19 @@
                 "嘗試找到反射信號給中繼電臺的路徑",
                 "嘗試長路徑",
                 "增加天線SWR"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 38,
+            "question": "通常用什麼術語來描述有時聽到來自正在移動並發射的行動電臺的快速 飄動的聲音？",
+            "correctAnswer": 2,
+            "answers": [
+                "翻轉(flip-flopping)",
+                "尖椿籬柵性的波動(picket fencing)",
+                "頻移",
+                "脈動"
             ],
             "picture": false,
             "pictureURL": ""
@@ -488,7 +540,7 @@
             "correctAnswer": 4,
             "answers": [
                 "藉由相等於不同路徑數目的因子，可以增加傳輸速率",
-                "藉由相等於不同路徑數目的因子，應該會減少傳輸速率 66",
+                "藉由相等於不同路徑數目的因子，應該會減少傳輸速率",
                 "如果使用調頻傳輸信號，則不會發生重大變化",
                 "錯誤率可能會增加"
             ],
@@ -504,6 +556,19 @@
                 "對流層",
                 "電離層",
                 "磁層"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 44,
+            "question": "無線電波在一個完整週期內所行進的距離名稱是什麼？",
+            "correctAnswer": 3,
+            "answers": [
+                "波速",
+                "波形",
+                "波長",
+                "波散(spread)"
             ],
             "picture": false,
             "pictureURL": ""
@@ -555,7 +620,7 @@
                 "隨著頻率的增加，波長變長",
                 "隨著頻率的增加，波長變短",
                 "波長和頻率之間沒有關係",
-                "波長取決於信號的帶寬 67"
+                "波長取決於信號的帶寬"
             ],
             "picture": false,
             "pictureURL": ""
@@ -640,7 +705,7 @@
         },
         {
             "questionNumber": 55,
-            "question": "為什麼直接（不通過中繼電臺）UHF 信號很少從您電臺涵蓋區域外被聽 68 到？",
+            "question": "為什麼直接(不通過中繼電臺)UHF 信號很少從您電臺涵蓋區域外被聽 到？",
             "correctAnswer": 3,
             "answers": [
                 "因為太弱，所以無法傳播很遠",
@@ -691,6 +756,19 @@
             "pictureURL": ""
         },
         {
+            "questionNumber": 59,
+            "question": "雖然在電臺的發射和接收之間有障礙物的情況下，下列哪些效應可能導 致無線電信號可以被聽到？",
+            "correctAnswer": 1,
+            "answers": [
+                "刀刃(Knife-edge)繞射",
+                "法拉第旋轉",
+                "量子隧道效應",
+                "杜卜勒頻移"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
             "questionNumber": 60,
             "question": "在一般條件，什麼樣的模式可以使超視距(over-the-horizon)的 VHF 和 UHF 通信距離大約為 480 公里？",
             "correctAnswer": 1,
@@ -698,20 +776,20 @@
                 "對流層散射",
                 "D層折射",
                 "F2層折射",
-                "法拉第旋轉 69"
+                "法拉第旋轉"
             ],
             "picture": false,
             "pictureURL": ""
         },
         {
-            "questionNumber": 61,
-            "question": "哪個頻段最適合藉由流星散射進行通信？",
-            "correctAnswer": 2,
+            "questionNumber": 62,
+            "question": "對流層管道是如何形成？",
+            "correctAnswer": 4,
             "answers": [
-                "10 公尺",
-                "6 公尺",
-                "2 公尺",
-                "70 公分"
+                "雷電風暴中的閃電放電",
+                "太陽黑子和太陽耀斑",
+                "颱風和龍捲風所引起的上升氣流",
+                "大氣中的逆溫(Temperature inversion)"
             ],
             "picture": false,
             "pictureURL": ""
@@ -756,14 +834,14 @@
             "pictureURL": ""
         },
         {
-            "questionNumber": 66,
-            "question": "在太陽黑子週期的高峰期，以下哪個頻段可以提供長距離通信？",
-            "correctAnswer": 1,
+            "questionNumber": 67,
+            "question": "關於業餘無線電收發機的麥克風連接器，下列哪一項為真？",
+            "correctAnswer": 2,
             "answers": [
-                "6 公尺",
-                "2 公尺",
-                "70 分公",
-                "以上皆是 70"
+                "所有的收發機都使用同一種連接器",
+                "某些連接器包含了按鍵通話(push-to-talk)及供電給發麥克風的電壓",
+                "所有的收發機使用相同形式的連接器，其接線方式均相同",
+                "無鎖接頭(Un-keyed connectors)允許任一款麥克風接用"
             ],
             "picture": false,
             "pictureURL": ""
@@ -838,9 +916,35 @@
             "question": "使用電腦操作數位通訊時，電腦的音效卡作用為何？",
             "correctAnswer": 3,
             "answers": [
-                "音效卡扮演著在電腦CPU與顯示器之間的溝通角色 71",
+                "音效卡扮演著在電腦CPU與顯示器之間的溝通角色",
                 "音效卡是作為顯示器的音頻之收錄之用",
                 "音效卡供給麥克風輸入之用，且將接收到的音訊轉化為數位形式",
+                "以上皆是"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 74,
+            "question": "哪種類型的導體最適於射頻接地？",
+            "correctAnswer": 4,
+            "answers": [
+                "圓形絞線",
+                "圓形包銅鋼線",
+                "雙絞線",
+                "平版帶(Flat strap)"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 75,
+            "question": "下列哪一種可用於現代收發機上來輸入工作頻率？",
+            "correctAnswer": 1,
+            "answers": [
+                "鍵盤或VFO(可變頻率振盪器)旋鈕",
+                "CTSS或DTMF編碼器",
+                "自動頻率控制(The Automatic Frequency Control)",
                 "以上皆是"
             ],
             "picture": false,
@@ -873,6 +977,32 @@
             "pictureURL": ""
         },
         {
+            "questionNumber": 78,
+            "question": "如果單邊帶信號的音調太高或太低，可以使用下面哪一項控制設備來改 善？",
+            "correctAnswer": 4,
+            "answers": [
+                "使用AGC 或 限制器",
+                "頻帶寬度選擇",
+                "音頻制噪(Tone Squelch)",
+                "接收機的RIT或淨化器(clarifier)"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 79,
+            "question": "“ RIT ” 是什麼意思？",
+            "correctAnswer": 2,
+            "answers": [
+                "接收機的輸入音頻(Receiver Input Tone)",
+                "接收機增量調整(Receiver Incremental Tuning)",
+                "整流器倒向器試驗(Rectifier Inverter Test)",
+                "遙控輸入發射機(Remote Input Transmitter)"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
             "questionNumber": 80,
             "question": "在多模收發機上，有多重接收頻寬的選擇有甚麼好處？",
             "correctAnswer": 2,
@@ -894,6 +1024,19 @@
                 "您的電池電量不足",
                 "您可能會處在一個信號不好的位置",
                 "以上皆是"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 82,
+            "question": "發射機或收發機中射頻負回饋的現象是什麼？",
+            "correctAnswer": 3,
+            "answers": [
+                "天線連接處的駐波比過大",
+                "發射機不會停留在所需的頻率上(發射頻偏)",
+                "傳輸出現亂碼、失真或無法解出的報告",
+                "電源保險絲頻繁壞掉"
             ],
             "picture": false,
             "pictureURL": ""
@@ -930,7 +1073,7 @@
             "correctAnswer": 4,
             "answers": [
                 "地圖顯示衛星軌道在地球上的即時位置",
-                "開始的時間、方位角和高度；最大高度；結束的時間、方位角和高度 73",
+                "開始的時間、方位角和高度；最大高度；結束的時間、方位角和高度",
                 "衛星傳輸的確切頻率，包括杜卜勒位移的影響",
                 "以上皆是"
             ],
@@ -977,6 +1120,19 @@
             "pictureURL": ""
         },
         {
+            "questionNumber": 89,
+            "question": "縮寫 LEO 是關於業餘衛星的什麼訊息？",
+            "correctAnswer": 3,
+            "answers": [
+                "衛星電池處於低能耗工作(Low Energy Operation)模式",
+                "衛星正在執行月球彈射軌道(Lunar Ejection Orbit)移動",
+                "衛星處於低地球軌道(Low Earth Orbit)",
+                "衛星使用發光二極管(Light Emitting Optics)"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
             "questionNumber": 90,
             "question": "向數位衛星發送信號和從數位衛星發送信號的常用方法是什麼？",
             "correctAnswer": 3,
@@ -996,7 +1152,7 @@
             "answers": [
                 "經校正的SWR儀",
                 "定向天線",
-                "經校正雜訊電橋 74",
+                "經校正雜訊電橋",
                 "以上皆是"
             ],
             "picture": false,
@@ -1042,19 +1198,6 @@
             "pictureURL": ""
         },
         {
-            "questionNumber": 95,
-            "question": "傳輸無線遙控信號到無線電機時，允許的最大功率是多少？",
-            "correctAnswer": 2,
-            "answers": [
-                "500 毫瓦特",
-                "1 瓦特",
-                "25 瓦特",
-                "1500 瓦特"
-            ],
-            "picture": false,
-            "pictureURL": ""
-        },
-        {
             "questionNumber": 96,
             "question": "業餘無線電臺在業餘無線電頻率發送信號時，須要標示什麼訊息以供識 別？",
             "correctAnswer": 3,
@@ -1075,7 +1218,7 @@
                 "封包通訊",
                 "PSK31",
                 "MFSK",
-                "以上皆是 75"
+                "以上皆是"
             ],
             "picture": false,
             "pictureURL": ""
@@ -1121,13 +1264,26 @@
         },
         {
             "questionNumber": 101,
-            "question": "以下哪項是 APRS（自動數據報告系統）的應用？",
+            "question": "以下哪項是 APRS(自動數據報告系統)的應用？",
             "correctAnswer": 1,
             "answers": [
                 "提供附有地圖以顯示電臺位置的即時數位通信",
                 "自動顯示在特定時間間隔內通過PACTOR傳輸的數據包數量",
                 "透過中繼電臺與網際網路連接提供語音通信",
                 "提供有關連接到中繼電臺的電臺數量的訊息"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 102,
+            "question": "PSK 縮寫是什麼意思？",
+            "correctAnswer": 2,
+            "answers": [
+                "脈衝鍵控(Pulse Shift Keying)",
+                "相移鍵控(Phase Shift Keying)",
+                "封包短鍵控(Packet Short Keying)",
+                "階段滑動鍵控(Phased Slide Keying)"
             ],
             "picture": false,
             "pictureURL": ""
@@ -1140,7 +1296,20 @@
                 "高速數據傳輸模式",
                 "減少對FM信號的雜訊干擾的方法",
                 "壓縮數位電視信號的方法",
-                "低速數據傳輸模式 76"
+                "低速數據傳輸模式"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 104,
+            "question": "數據封包傳輸中可能包含以下哪些內容？",
+            "correctAnswer": 4,
+            "answers": [
+                "允許錯誤偵測檢查的校驗和(check sum)",
+                "包含要發送信息的電臺呼號的標題",
+                "出現錯誤時自動重複請求",
+                "以上皆是"
             ],
             "picture": false,
             "pictureURL": ""
@@ -1154,6 +1323,19 @@
                 "海明",
                 "國際摩爾斯",
                 "格雷"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 106,
+            "question": "在業餘頻段，以下哪項可用於 CW 傳輸？",
+            "correctAnswer": 4,
+            "answers": [
+                "直鍵(Straight Key)",
+                "電子鍵控器",
+                "電腦鍵盤",
+                "以上皆是"
             ],
             "picture": false,
             "pictureURL": ""
@@ -1185,11 +1367,24 @@
             "pictureURL": ""
         },
         {
+            "questionNumber": 109,
+            "question": "以下哪一項是正確的垂直天線?",
+            "correctAnswer": 2,
+            "answers": [
+                "磁場垂直於地球",
+                "電場垂直於地球",
+                "相位反向(inverted)",
+                "相位反轉(reversed)"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
             "questionNumber": 110,
             "question": "以下哪一項描述是安裝的簡易偶極天線的導體平行於地球表面？",
             "correctAnswer": 2,
             "answers": [
-                "地波天線 77",
+                "地波天線",
                 "水平極化天線",
                 "菱形天線",
                 "垂直極化天線"
@@ -1251,7 +1446,7 @@
         },
         {
             "questionNumber": 115,
-            "question": "146 百萬赫的四分之一波長垂直天線的近似長度（以公分為單位）是多 少？",
+            "question": "146 百萬赫的四分之一波長垂直天線的近似長度(以公分為單位)是多 少？",
             "correctAnswer": 3,
             "answers": [
                 "280",
@@ -1264,13 +1459,26 @@
         },
         {
             "questionNumber": 116,
-            "question": "6 公尺 1/2 波長偶極天線的導線近似長度（以公分為單位）是多少?",
+            "question": "6 公尺 1/2 波長偶極天線的導線近似長度(以公分為單位)是多少?",
             "correctAnswer": 3,
             "answers": [
-                "15 78",
+                "15",
                 "127",
                 "284",
                 "600"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 117,
+            "question": "在自由空間，1/2 波長偶極天線的輻射最強的方向是那裡?",
+            "correctAnswer": 3,
+            "answers": [
+                "所有的方向皆相同",
+                "天線的兩個末端",
+                "天線的寬邊側(broadside)",
+                "在饋線的方向"
             ],
             "picture": false,
             "pictureURL": ""
@@ -1333,22 +1541,9 @@
             "correctAnswer": 2,
             "answers": [
                 "減少電視干擾",
-                "功率有效傳輸與減少損失 79",
+                "功率有效傳輸與減少損失",
                 "延長天線壽命",
                 "以上皆是"
-            ],
-            "picture": false,
-            "pictureURL": ""
-        },
-        {
-            "questionNumber": 123,
-            "question": "業餘無線電設備最常用的同軸電纜的阻抗是多少？",
-            "correctAnswer": 2,
-            "answers": [
-                "8 歐姆",
-                "50 歐姆",
-                "600 歐姆",
-                "75 歐姆"
             ],
             "picture": false,
             "pictureURL": ""
@@ -1393,6 +1588,19 @@
             "pictureURL": ""
         },
         {
+            "questionNumber": 127,
+            "question": "以下哪個連接頭最適合 400 百萬赫以上的頻率?",
+            "correctAnswer": 2,
+            "answers": [
+                "UHF(PL-259 / SO-239)連接頭",
+                "N型連接頭",
+                "RS-213連接頭",
+                "DB-25連接頭"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
             "questionNumber": 128,
             "question": "以下哪項對 PL-259 型同軸電纜連接器的描述是正確的?",
             "correctAnswer": 3,
@@ -1400,7 +1608,7 @@
                 "微波操作的首選",
                 "防水",
                 "通常用於HF頻率",
-                "卡口式連接器 80"
+                "卡口式連接器"
             ],
             "picture": false,
             "pictureURL": ""

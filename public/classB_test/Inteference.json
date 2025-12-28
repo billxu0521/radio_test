@@ -249,6 +249,19 @@
             "pictureURL": ""
         },
         {
+            "questionNumber": 20,
+            "question": "以下那項可以執行載波干擾的自動陷波？",
+            "correctAnswer": 2,
+            "answers": [
+                "帶通調諧",
+                "數位信號處理器(DSP)濾波器",
+                "平衡混頻",
+                "雜訊限制器"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
             "questionNumber": 21,
             "question": "在最新的車型中安裝 HF 接收機，下列那項可能會引起干擾？",
             "correctAnswer": 4,

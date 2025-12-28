@@ -327,6 +327,19 @@
             "pictureURL": ""
         },
         {
+            "questionNumber": 27,
+            "question": "電臺在發射檢查評估之前，業餘無線電臺在 VHF 頻率下可以使用的最大 功率是多少？",
+            "correctAnswer": 3,
+            "answers": [
+                "1500瓦特(PEP) 發射機輸出端",
+                "1瓦特的順向功率",
+                "25瓦特(PEP) 在天線端",
+                "50瓦特(PEP)的反射功率"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
             "questionNumber": 28,
             "question": "什麼因素會影響人員接近業餘電臺天線的電磁暴露(RF exposure)？",
             "correctAnswer": 4,
@@ -367,7 +380,7 @@
         },
         {
             "questionNumber": 31,
-            "question": "業餘無線電人員可採取以下哪些措施來防止射頻輻射超過我國的電磁暴露限制？",
+            "question": "業餘無線電人員可採取以下哪些措施來防止射頻輻射超過我國的電磁暴 露限制？",
             "correctAnswer": 1,
             "answers": [
                 "重新安置天線",
@@ -419,7 +432,7 @@
         },
         {
             "questionNumber": 35,
-            "question": "射頻輻射與游離輻射（放射性）有什麼不同？",
+            "question": "射頻輻射與游離輻射(放射性)有什麼不同？",
             "correctAnswer": 1,
             "answers": [
                 "射頻輻射沒有足夠的能量來引起基因的損傷",

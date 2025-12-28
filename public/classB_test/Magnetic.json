@@ -42,7 +42,7 @@
         },
         {
             "questionNumber": 4,
-            "question": "何者為使用「有鎖」接頭（keyed connectors）的理由？",
+            "question": "何者為使用「有鎖」接頭(keyed connectors)的理由？",
             "correctAnswer": 2,
             "answers": [
                 "阻止非授權人員使用",
@@ -101,6 +101,19 @@
                 "通過數位控制信號直接改變振盪器的頻率",
                 "通過使用收發機電腦的數據介面通訊協定來改變頻率",
                 "通過重新配置CW鍵控輸入以充當音調產生器"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 9,
+            "question": "改變 RF 波的相位角以傳達信息的處理過程的名稱是什麼？",
+            "correctAnswer": 2,
+            "answers": [
+                "相位迴旋",
+                "相位調變",
+                "角迴旋",
+                "弧度(Radian)反轉"
             ],
             "picture": false,
             "pictureURL": ""
@@ -197,6 +210,19 @@
             "pictureURL": ""
         },
         {
+            "questionNumber": 17,
+            "question": "有關單邊帶電話傳輸的術語”平頂”(flat-topping)是什麼意思？",
+            "correctAnswer": 3,
+            "answers": [
+                "由集電極電流不足引起的信號失真",
+                "發射機的自動位準控制(ALC)已正確調整",
+                "由過度驅動引起的信號失真",
+                "發射機的載波被正確抑制"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
             "questionNumber": 18,
             "question": "AM 信號的調變包絡是什麼？",
             "correctAnswer": 1,
@@ -211,7 +237,7 @@
         },
         {
             "questionNumber": 19,
-            "question": "接收機的那一級將 14.250 百萬赫輸入信號與 13.795 百萬赫振盪器信號混 合以產生 455 千赫中頻（IF）信號？",
+            "question": "接收機的那一級將 14.250 百萬赫輸入信號與 13.795 百萬赫振盪器信號混 合以產生 455 千赫中頻(IF)信號？",
             "correctAnswer": 1,
             "answers": [
                 "混頻器",
@@ -224,7 +250,7 @@
         },
         {
             "questionNumber": 20,
-            "question": "如果接收機將 13.800 百萬赫 VFO 與 14.255 百萬赫接收信號混頻以產生 455 千赫中頻（IF）信號，那麼在接收機中 13.345 百萬赫信號將產生什 麼類型的干擾？",
+            "question": "如果接收機將 13.800 百萬赫 VFO 與 14.255 百萬赫接收信號混頻以產生 455 千赫中頻(IF)信號，那麼在接收機中 13.345 百萬赫信號將產生什 麼類型的干擾？",
             "correctAnswer": 2,
             "answers": [
                 "正交雜訊",
@@ -257,19 +283,6 @@
                 "電抗調變器",
                 "預強調網路",
                 "倍頻器"
-            ],
-            "picture": false,
-            "pictureURL": ""
-        },
-        {
-            "questionNumber": 24,
-            "question": "具有 5 千赫偏差和 3 千赫調變頻率的調頻電話傳輸的總帶寬是多少？",
-            "correctAnswer": 4,
-            "answers": [
-                "3 千赫",
-                "5 千赫",
-                "8 千赫",
-                "16 千赫"
             ],
             "picture": false,
             "pictureURL": ""

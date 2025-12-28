@@ -40,6 +40,7 @@ export const useFlashCardStore = defineStore('flashCard', () => {
   const currentIndex = ref(0)
   const isFlipped = ref(false)
   const isLoading = ref(false)
+  const isInitializing = ref(false) // 初始化中，暫停 URL 同步
 
   // Getters
   const currentQuestion = computed<Question | null>(() => {
@@ -176,6 +177,8 @@ export const useFlashCardStore = defineStore('flashCard', () => {
 
   // 從 URL 參數初始化狀態
   async function initFromUrl() {
+    isInitializing.value = true // 暫停 URL 同步
+
     const params = getUrlParams()
 
     // 設定考等
@@ -195,6 +198,8 @@ export const useFlashCardStore = defineStore('flashCard', () => {
         goToQuestion(params.question - 1)
       }
     }
+
+    isInitializing.value = false // 恢復 URL 同步
   }
 
   // 同步 URL 參數
@@ -205,7 +210,9 @@ export const useFlashCardStore = defineStore('flashCard', () => {
 
   // 監聽狀態變化，自動更新 URL
   watch([currentClass, currentBankId, currentIndex], () => {
-    syncUrlParams()
+    if (!isInitializing.value) {
+      syncUrlParams()
+    }
   })
 
   return {

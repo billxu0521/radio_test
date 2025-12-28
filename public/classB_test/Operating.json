@@ -2,11 +2,76 @@
     "title": "無線電通訊方法題庫",
     "questions": [
         {
+            "questionNumber": 1,
+            "question": "話務語音通訊在 14 百萬赫以上常用何種模式?",
+            "correctAnswer": 1,
+            "answers": [
+                "上邊帶(USB)",
+                "下邊帶(LSB)",
+                "殘邊帶(VSB)",
+                "雙邊帶(DSB)"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 2,
+            "question": "話務語音通訊在 160 公尺、80 公尺與 40 公尺常用何種模式?",
+            "correctAnswer": 2,
+            "answers": [
+                "上邊帶(USB)",
+                "下邊帶(LSB)",
+                "殘邊帶(VSB)",
+                "雙邊帶(DSB)"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 3,
+            "question": "單邊帶(SSB)話務語音通訊在 VHF 與 UHF 最常用何種模式?",
+            "correctAnswer": 1,
+            "answers": [
+                "上邊帶(USB)",
+                "下邊帶(LSB)",
+                "殘邊帶(VSB)",
+                "雙邊帶(DSB)"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 4,
+            "question": "話務語音通訊在 17 公尺與 12 公尺最常用何種模式?",
+            "correctAnswer": 1,
+            "answers": [
+                "上邊帶(USB)",
+                "下邊帶(LSB)",
+                "殘邊帶(VSB)",
+                "雙邊帶(DSB)"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 5,
+            "question": "業餘 HF 頻帶之話務語音通訊最常使用何種模式?",
+            "correctAnswer": 3,
+            "answers": [
+                "調頻(FM)",
+                "雙邊帶(DSB)",
+                "單邊帶(SSB)",
+                "相移調變(PM)"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
             "questionNumber": 6,
             "question": "在業餘 HF 頻帶使用單邊帶(SSB)語音模式有何優點?",
             "correctAnswer": 2,
             "answers": [
-                "語音高傳真度 58",
+                "語音高傳真度",
                 "佔用頻寬小並且電力效率較高",
                 "容易調整接收並免於脈衝雜訊干擾",
                 "可減少大氣靜電干擾"
@@ -23,6 +88,19 @@
                 "僅發射單邊帶，抑制另一邊帶與載波",
                 "20公尺、15公尺與10公尺業餘頻帶之語音模式僅能使用SSB",
                 "160公尺、80公尺與40公尺業餘頻帶之語音模式僅能使用SSB"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 8,
+            "question": "在話務通訊時，要加入他人雙方對話，須採取下列那一種建議方式?",
+            "correctAnswer": 2,
+            "answers": [
+                "喊QRZ數次再報自己呼號",
+                "他人雙方對談之空檔喊自己的呼號",
+                "喊“Break” (間隔)三次然後等待回應",
+                "喊CQ再加上對方電臺呼號"
             ],
             "picture": false,
             "pictureURL": ""
@@ -73,7 +151,7 @@
             "answers": [
                 "通訊網優先",
                 "正在通訊者優先",
-                "非緊急狀況，任何人無優先權 59",
+                "非緊急狀況，任何人無優先權",
                 "比賽者需禮讓給非比賽者使用"
             ],
             "picture": false,
@@ -152,7 +230,7 @@
                 "於RACES頻率發射時",
                 "在通訊網發射時",
                 "真正緊急狀況時",
-                "有授權的HF頻率 60"
+                "有授權的HF頻率"
             ],
             "picture": false,
             "pictureURL": ""
@@ -240,7 +318,7 @@
             "question": "發送 CW 時，RST 報告加上一個 C 代表什麼？",
             "correctAnswer": 1,
             "answers": [
-                "啾啾叫或是信號不穩定 61",
+                "啾啾叫或是信號不穩定",
                 "報告由S錶讀出而不是估計的",
                 "百分之百抄收",
                 "電鍵喀嚓聲"
@@ -320,8 +398,21 @@
             "answers": [
                 "與我國有正式三方協定的國家",
                 "ITU通知不可通訊之外的任何國家",
-                "只要使用英文通訊都可以 62",
+                "只要使用英文通訊都可以",
                 "只要是IARU會員國皆可"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 32,
+            "question": "指向性天線經由長路徑(Long-path)與另一電臺通聯是如何指向?",
+            "correctAnswer": 3,
+            "answers": [
+                "指向東昇的太陽",
+                "沿著灰線(gray line)",
+                "與短路徑(short-path)指向相差180度",
+                "指向北方"
             ],
             "picture": false,
             "pictureURL": ""
@@ -353,6 +444,19 @@
             "pictureURL": ""
         },
         {
+            "questionNumber": 35,
+            "question": "20 公尺頻帶那一部分常用於數位發射？",
+            "correctAnswer": 2,
+            "answers": [
+                "14.000-14.050 百萬赫",
+                "14.070-14.100 百萬赫",
+                "14.150-14.225 百萬赫",
+                "14.275-14.350 百萬赫"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
             "questionNumber": 36,
             "question": "在任何業餘頻段使用 AFSK 時，產生 JT65 或 JT9 數位信號的標準旁波帶 為何？",
             "correctAnswer": 2,
@@ -361,19 +465,6 @@
                 "USB",
                 "DSB",
                 "SSB"
-            ],
-            "picture": false,
-            "pictureURL": ""
-        },
-        {
-            "questionNumber": 37,
-            "question": "業餘 HF 頻帶 RTTY 發射最常見的頻移為何？",
-            "correctAnswer": 2,
-            "answers": [
-                "85 赫",
-                "170 赫",
-                "425 赫",
-                "850 赫 63"
             ],
             "picture": false,
             "pictureURL": ""
@@ -431,6 +522,19 @@
             "pictureURL": ""
         },
         {
+            "questionNumber": 42,
+            "question": "在瀑布圖中，與 PSK31 信號相鄰有一至多條垂直線，代表意義為何?",
+            "correctAnswer": 4,
+            "answers": [
+                "長路徑(Long Path)傳播",
+                "反射(Backscatter)傳播",
+                "調變不足",
+                "過調變"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
             "questionNumber": 43,
             "question": "下列何者描述瀑布圖(Waterfall Display)?",
             "correctAnswer": 3,
@@ -445,13 +549,26 @@
         },
         {
             "questionNumber": 44,
-            "question": "那個通訊系統有時用網際網路傳送訊息? 64",
+            "question": "那個通訊系統有時用網際網路傳送訊息?",
             "correctAnswer": 1,
             "answers": [
                 "Winlink",
                 "RTTY",
                 "ARES",
                 "Skywarn"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 45,
+            "question": "即使已顯示正確調諧，仍無法解調 RTTY 或 FSK 信號的可能原因是什麼?",
+            "correctAnswer": 4,
+            "answers": [
+                "訊號 (mark)與空格(space) 頻率相反",
+                "鮑率(Baud rate)設定錯誤",
+                "用錯邊帶",
+                "以上皆是"
             ],
             "picture": false,
             "pictureURL": ""
@@ -513,7 +630,7 @@
             "question": "在太陽磁暴的哪一階段會使得 20 公尺頻段支援日間的全球傳播?",
             "correctAnswer": 4,
             "answers": [
-                "在夏至 65",
+                "在夏至",
                 "僅在磁暴的最高點",
                 "僅在磁暴的最低點",
                 "在磁暴的任一時刻"
@@ -593,7 +710,7 @@
             "answers": [
                 "太陽黑子在太陽表面上的相對位置",
                 "太陽電場的極化數量",
-                "地球地磁場的長期安定性 66",
+                "地球地磁場的長期安定性",
                 "高雄市擁有的太陽能無線電高流量設備"
             ],
             "picture": false,
@@ -672,7 +789,7 @@
                 "選擇稍低於MUF的頻率",
                 "選擇稍高於LUF的頻率",
                 "選擇稍低於截止頻率的頻率",
-                "選擇稍高於截止頻率的頻率 67"
+                "選擇稍高於截止頻率的頻率"
             ],
             "picture": false,
             "pictureURL": ""
@@ -738,32 +855,6 @@
                 "兩點之間通訊的最高可用頻率",
                 "24小時內的最低可用頻率",
                 "24小時內的最高可用頻率"
-            ],
-            "picture": false,
-            "pictureURL": ""
-        },
-        {
-            "questionNumber": 68,
-            "question": "在 F2 的區域內，一次訊號彈跳的沿著地表最長約略距離是?",
-            "correctAnswer": 3,
-            "answers": [
-                "288 公里",
-                "1,920 公里",
-                "4,000 公里",
-                "19,200 公里 68"
-            ],
-            "picture": false,
-            "pictureURL": ""
-        },
-        {
-            "questionNumber": 69,
-            "question": "在 E 區域內，一次訊號彈跳的沿著地表最長約略距離是?",
-            "correctAnswer": 2,
-            "answers": [
-                "288 公里",
-                "1,920 公里",
-                "4,000 公里",
-                "19,200 公里"
             ],
             "picture": false,
             "pictureURL": ""
@@ -835,7 +926,7 @@
         },
         {
             "questionNumber": 75,
-            "question": "臨界角這個術語使用在無線電傳播中的意義為何? 69",
+            "question": "臨界角這個術語使用在無線電傳播中的意義為何?",
             "correctAnswer": 4,
             "answers": [
                 "遠距站臺的長途徑方位",
@@ -996,7 +1087,7 @@
             "answers": [
                 "收音機正運行在一半的功率",
                 "收發機使用外部電源運行",
-                "收發機設定不同的發送和接收頻率 71",
+                "收發機設定不同的發送和接收頻率",
                 "發射機發射SSB信號，而不是DSB操作"
             ],
             "picture": false,
@@ -1017,7 +1108,7 @@
         },
         {
             "questionNumber": 89,
-            "question": "在 RF 功率放大器使用自動位準控制（ALC）的理由是什麼？",
+            "question": "在 RF 功率放大器使用自動位準控制(ALC)的理由是什麼？",
             "correctAnswer": 3,
             "answers": [
                 "平衡發射機的音頻響應",
@@ -1075,7 +1166,7 @@
                 "防止電臺相互干擾",
                 "允許發射機電源供應器能正常充電",
                 "在RF允許輸出之前，有足夠的時間正確完成發送 - 接收切換操作",
-                "為了讓警報信號有時間發送到其他電臺 72"
+                "為了讓警報信號有時間發送到其他電臺"
             ],
             "picture": false,
             "pictureURL": ""
@@ -1153,7 +1244,7 @@
                 "歐姆表",
                 "信號產生器",
                 "電流表",
-                "示波器 73"
+                "示波器"
             ],
             "picture": false,
             "pictureURL": ""
@@ -1238,7 +1329,7 @@
         },
         {
             "questionNumber": 106,
-            "question": "在進行天線和發射機調整時，下列那些儀器可用於監測相關 RF 輸出？ 74",
+            "question": "在進行天線和發射機調整時，下列那些儀器可用於監測相關 RF 輸出？",
             "correctAnswer": 1,
             "answers": [
                 "場強計",
@@ -1320,7 +1411,7 @@
             "correctAnswer": 4,
             "answers": [
                 "在測試邏輯電路時",
-                "當需要高精度時 75",
+                "當需要高精度時",
                 "測量振盪器的頻率時",
                 "調整調諧電路時"
             ],
@@ -1367,6 +1458,19 @@
             "pictureURL": ""
         },
         {
+            "questionNumber": 116,
+            "question": "以下那項可能是不正確調整語音處理器的結果？",
+            "correctAnswer": 4,
+            "answers": [
+                "失真的聲音",
+                "邊帶雜訊(splatter)",
+                "過多的背景音",
+                "以上皆是"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
             "questionNumber": 117,
             "question": "S 表是量什麼？",
             "correctAnswer": 3,
@@ -1386,7 +1490,7 @@
             "answers": [
                 "強度低10倍",
                 "強度低20倍",
-                "強度高20倍 76",
+                "強度高20倍",
                 "強度高100倍"
             ],
             "picture": false,
@@ -1419,6 +1523,32 @@
             "pictureURL": ""
         },
         {
+            "questionNumber": 121,
+            "question": "當顯示的載波頻率為 7.178 百萬赫時，3 千赫 LSB 信號佔用了什麼頻 率範圍？",
+            "correctAnswer": 3,
+            "answers": [
+                "7.178至7.181 百萬赫",
+                "7.178至7.184 百萬赫",
+                "7.175至7.178 百萬赫",
+                "7.1765至7.1795 百萬赫"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 122,
+            "question": "顯示的載波頻率為 14.347 百萬赫時，3 千赫 USB 信號佔用了什麼頻率 範圍",
+            "correctAnswer": 2,
+            "answers": [
+                "14.347至14.647 百萬赫",
+                "14.347至14.350 百萬赫",
+                "14.344至14.347 百萬赫",
+                "14.3455至14.3485 百萬赫"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
             "questionNumber": 123,
             "question": "在使用 3 千赫寬 LSB 時，您顯示的載波頻率應該與 40 公尺二等業餘電 話段的下邊緣有多接近？",
             "correctAnswer": 1,
@@ -1433,7 +1563,7 @@
         },
         {
             "questionNumber": 124,
-            "question": "當使用 3 千赫寬的 USB 時，您顯示的載波頻率應該與 20 公尺二等業餘 頻段的上邊緣有多接近？ 77",
+            "question": "當使用 3 千赫寬的 USB 時，您顯示的載波頻率應該與 20 公尺二等業餘 頻段的上邊緣有多接近？",
             "correctAnswer": 2,
             "answers": [
                 "在該頻段邊緣以上至少3 千赫",
@@ -1514,7 +1644,7 @@
             "question": "使用縮短的移動天線而不是全尺寸天線的缺點是什麼？",
             "correctAnswer": 3,
             "answers": [
-                "短天線更可能導致發射信號失真 78",
+                "短天線更可能導致發射信號失真",
                 "短天線只能接收圓極化信號",
                 "工作帶寬可能非常有限",
                 "諧波輻射可能增加"
@@ -1569,7 +1699,7 @@
                 "從機械能到電能的轉換效率不到2％",
                 "此類系統的電壓和電流額定值與業餘設備不兼容",
                 "風力不足時，需要大容量儲能系統供電",
-                "以上皆是 79"
+                "以上皆是"
             ],
             "picture": false,
             "pictureURL": ""

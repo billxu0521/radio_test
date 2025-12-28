@@ -55,7 +55,7 @@
         },
         {
             "questionNumber": 5,
-            "question": "造成電子流動的電動勢（Electromotive Force）的電氣術語稱為何者？",
+            "question": "造成電子流動的電動勢(Electromotive Force)的電氣術語稱為何者？",
             "correctAnswer": 1,
             "answers": [
                 "電壓",
@@ -71,7 +71,7 @@
             "question": "行動收發機通常需要用多少電壓？",
             "correctAnswer": 1,
             "answers": [
-                "大約12 伏特 82",
+                "大約12 伏特",
                 "大約30 伏特",
                 "大約120 伏特",
                 "大約240 伏特"
@@ -133,7 +133,7 @@
         },
         {
             "questionNumber": 11,
-            "question": "電動勢（Electromotive Force）的基本單位為何？",
+            "question": "電動勢(Electromotive Force)的基本單位為何？",
             "correctAnswer": 1,
             "answers": [
                 "伏特",
@@ -153,32 +153,6 @@
                 "速度",
                 "波長",
                 "頻率"
-            ],
-            "picture": false,
-            "pictureURL": ""
-        },
-        {
-            "questionNumber": 13,
-            "question": "1.5 安培等於多少毫安培（毫安）？",
-            "correctAnswer": 3,
-            "answers": [
-                "15 毫安",
-                "150 毫安",
-                "1500 毫安",
-                "15000 毫安"
-            ],
-            "picture": false,
-            "pictureURL": ""
-        },
-        {
-            "questionNumber": 14,
-            "question": "1,500,000 赫無線電信號頻率也可以稱為何者？",
-            "correctAnswer": 1,
-            "answers": [
-                "1500 千赫",
-                "1500 百萬赫",
-                "15 吉赫",
-                "150 千赫"
             ],
             "picture": false,
             "pictureURL": ""
@@ -210,8 +184,21 @@
             "pictureURL": ""
         },
         {
+            "questionNumber": 20,
+            "question": "1,000,000pF(皮法拉)等於多少 μF(微法拉)？",
+            "correctAnswer": 2,
+            "answers": [
+                "0.001 μF",
+                "1 μF",
+                "1,000 μF",
+                "1,000,000,000 μF"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
             "questionNumber": 21,
-            "question": "電功率由 5 瓦特增加至 10 瓦特的分貝值（dB）大約改變多少？",
+            "question": "電功率由 5 瓦特增加至 10 瓦特的分貝值(dB)大約改變多少？",
             "correctAnswer": 2,
             "answers": [
                 "2 dB",
@@ -224,7 +211,7 @@
         },
         {
             "questionNumber": 22,
-            "question": "電功率由 12 瓦特減少至 3 瓦特的分貝值（dB）大約改變多少？",
+            "question": "電功率由 12 瓦特減少至 3 瓦特的分貝值(dB)大約改變多少？",
             "correctAnswer": 3,
             "answers": [
                 "-1 dB",
@@ -237,13 +224,39 @@
         },
         {
             "questionNumber": 23,
-            "question": "電功率由 20 瓦特增加至 200 瓦特的分貝值（dB）大約改變多少？",
+            "question": "電功率由 20 瓦特增加至 200 瓦特的分貝值(dB)大約改變多少？",
             "correctAnswer": 1,
             "answers": [
                 "10 dB",
                 "12 dB",
                 "18 dB",
                 "28 dB"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 24,
+            "question": "下列何者與 28,400 千赫相等？",
+            "correctAnswer": 1,
+            "answers": [
+                "28.400 百萬赫",
+                "2.800 百萬赫",
+                "284.00 百萬赫",
+                "28.400 千赫"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 25,
+            "question": "頻率讀數顯示 2,425 百萬赫等於多少吉赫？",
+            "correctAnswer": 3,
+            "answers": [
+                "0.002425 吉赫",
+                "24.25 吉赫",
+                "2.425 吉赫",
+                "2,425 吉赫"
             ],
             "picture": false,
             "pictureURL": ""
@@ -340,6 +353,19 @@
             "pictureURL": ""
         },
         {
+            "questionNumber": 33,
+            "question": "計算直流電路的電功率是用哪個公式？",
+            "correctAnswer": 1,
+            "answers": [
+                "電功率(p)=電壓(E)乘以電流(I)",
+                "電功率(p)=電壓(E)除以電流(I)",
+                "電功率(p)=電壓(E)減電流(I)",
+                "電功率(p)=電壓(E)加電流(I)"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
             "questionNumber": 37,
             "question": "術語「阻抗」一詞是什麼意思？",
             "correctAnswer": 1,
@@ -366,40 +392,40 @@
             "pictureURL": ""
         },
         {
-            "questionNumber": 42,
-            "question": "電阻器接上 90 伏特時有 3 安培電流通過，則電路電阻多大？",
+            "questionNumber": 39,
+            "question": "下列何者為計算電路電流的公式？",
             "correctAnswer": 2,
             "answers": [
-                "3 歐姆",
-                "30 歐姆",
-                "93 歐姆",
-                "270 歐姆"
+                "電流(I)=電壓(E)乘以電阻(R)",
+                "電流(I)=電壓(E)除以電阻(R)",
+                "電流(I)=電壓(E)加電阻(R)",
+                "電流(I)=電壓(E)減電阻(R)"
             ],
             "picture": false,
             "pictureURL": ""
         },
         {
-            "questionNumber": 44,
-            "question": "電路接上 12 伏特電源有 4 安培電流通過，則其電阻多大？",
+            "questionNumber": 40,
+            "question": "下列何者為計算電路電壓的公式？",
             "correctAnswer": 1,
             "answers": [
-                "3 歐姆",
-                "16 歐姆",
-                "48 歐姆",
-                "8 歐姆"
+                "電壓(E)=電流(I)乘以電阻(R)",
+                "電壓(E)=電流(I)除以電阻(R)",
+                "電壓(E)=電流(I)加電阻(R)",
+                "電壓(E)=電流(I)減電阻(R)"
             ],
             "picture": false,
             "pictureURL": ""
         },
         {
-            "questionNumber": 49,
-            "question": "10 歐姆電阻器通過 1 安培電流時，則電阻器二端的電壓是多少？",
+            "questionNumber": 41,
+            "question": "下列何者為計算電路電阻的公式？",
             "correctAnswer": 2,
             "answers": [
-                "1 伏特",
-                "10 伏特",
-                "11 伏特",
-                "9 伏特"
+                "電阻(R)= 電壓(E) 乘以電流(I)",
+                "電阻(R)= 電壓(E) 除以電流(I)",
+                "電阻(R)= 電壓(E) 加電流(I)",
+                "電阻(R)= 電壓(E) 減電流(I)"
             ],
             "picture": false,
             "pictureURL": ""
@@ -621,6 +647,32 @@
                 "用條紋",
                 "用字母C",
                 "以上皆是"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 68,
+            "question": "縮寫 LED 代表什麼？",
+            "correctAnswer": 2,
+            "answers": [
+                "低發射二極體(Low Emission Diode)",
+                "發光二極體(Light Emitting Diode)",
+                "液體發射檢測器(Liquid Emission Detector)",
+                "長迴聲延遲(Long Echo Delay)"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 69,
+            "question": "縮寫 FET 代表什麼？",
+            "correctAnswer": 1,
+            "answers": [
+                "場效應電晶體(Field Effect Transistor)",
+                "快速電子電晶體(Fast Electron Transistor)",
+                "自由電子躍遷(Free Electron Transition)",
+                "場發射厚度(Field Emission Thickness)"
             ],
             "picture": false,
             "pictureURL": ""
@@ -913,7 +965,7 @@
         },
         {
             "questionNumber": 92,
-            "question": "通常使用什麼元件將交流 120 伏特電流轉換為較低的交流電壓以用於其他用途？",
+            "question": "通常使用什麼元件將交流 120 伏特電流轉換為較低的交流電壓以用於其 他用途？",
             "correctAnswer": 2,
             "answers": [
                 "可變電容器",
@@ -1146,8 +1198,21 @@
             "pictureURL": ""
         },
         {
+            "questionNumber": 110,
+            "question": "以下哪種儀器可用於確定天線是否諧振在所需的工作頻率？",
+            "correctAnswer": 2,
+            "answers": [
+                "真空管電壓計(VTVM)",
+                "天線分析儀",
+                "Q分析儀",
+                "頻率計數器"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
             "questionNumber": 111,
-            "question": "一般來說，駐波比（SWR）是什麼？",
+            "question": "一般來說，駐波比(SWR)是什麼？",
             "correctAnswer": 1,
             "answers": [
                 "衡量負載與傳輸線相匹配情形",
@@ -1258,6 +1323,19 @@
                 "不能用於VHF或UHF天線",
                 "需要特殊的技術來防止進水",
                 "不能在低於冰點的溫度下使用"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 120,
+            "question": "以下哪一種是同軸電纜的常見用途？",
+            "correctAnswer": 2,
+            "answers": [
+                "傳送從車用電池到行動無線電臺的直流電",
+                "在無線電收發機和天線之間傳送射頻信號",
+                "在塔上固定桅杆、管道和其他圓柱形物體",
+                "連接從終端節點控制器(TNC)到電腦的數據信號"
             ],
             "picture": false,
             "pictureURL": ""
@@ -1432,6 +1510,19 @@
             "pictureURL": ""
         },
         {
+            "questionNumber": 134,
+            "question": "哪種類型的語音模式最常用於 VHF 和 UHF 頻段的長距離通訊(弱信 號)？",
+            "correctAnswer": 3,
+            "answers": [
+                "調頻",
+                "數位無線廣播(DRM)",
+                "單邊帶",
+                "相位偏移調變"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
             "questionNumber": 135,
             "question": "哪種類型的調製最常用於 VHF 和 UHF 語音中繼電臺？",
             "correctAnswer": 4,
@@ -1479,19 +1570,6 @@
                 "單邊帶信號不易受干擾",
                 "單邊帶信號具有較窄的帶寬",
                 "以上皆是"
-            ],
-            "picture": false,
-            "pictureURL": ""
-        },
-        {
-            "questionNumber": 139,
-            "question": "單邊帶語音信號的頻寬大概是多少？",
-            "correctAnswer": 2,
-            "answers": [
-                "1 千赫",
-                "3 千赫",
-                "6 千赫",
-                "15 千赫"
             ],
             "picture": false,
             "pictureURL": ""

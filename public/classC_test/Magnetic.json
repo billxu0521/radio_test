@@ -2,6 +2,19 @@
     "title": "電磁相容性技術題庫",
     "questions": [
         {
+            "questionNumber": 1,
+            "question": "您可使用下列哪種方式來防止因為射頻電流在有屏蔽的麥克風電纜線流通 而產生的音頻失真？",
+            "correctAnswer": 4,
+            "answers": [
+                "帶通濾波器(Band-pass filter)",
+                "低通濾波器(Low-pass filter)",
+                "前置放大器(Preamplifier)",
+                "鐵氧體扼流圈(Ferrite choke)"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
             "questionNumber": 2,
             "question": "在行動電臺收發機收到的音頻中，伴隨著引擎速度變化產生的高亢嘶嘶聲 的來源為何？",
             "correctAnswer": 2,
@@ -23,6 +36,19 @@
                 "在天線的固定底座上",
                 "接在車輛上的任何金屬部分",
                 "接至收發機的支架上"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 4,
+            "question": "如有其他電臺控制員說你的行動電臺的發射機的音頻有變動的高亢嘶嘶聲 時，可能會是何種情況？",
+            "correctAnswer": 4,
+            "answers": [
+                "你的麥克風傳來窗外的噪音",
+                "你接收機的音量設定的太高",
+                "你務必去調整制躁(squelch)控制鈕",
+                "車輛電氣系統的噪音經由你的語音音頻一併發射出來"
             ],
             "picture": false,
             "pictureURL": ""
