@@ -132,6 +132,19 @@
             "pictureURL": ""
         },
         {
+            "questionNumber": 11,
+            "question": "當你利用 145.52 百萬赫發送時，你是使用哪一個業餘波段?",
+            "correctAnswer": 1,
+            "answers": [
+                "2 公尺",
+                "20 公尺",
+                "14 公尺",
+                "6 公尺"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
             "questionNumber": 12,
             "question": "3 等業餘無線臺執照可操作 70 公分波段的哪一頻率?",
             "correctAnswer": 3,
@@ -153,6 +166,19 @@
                 "145.52 百萬赫",
                 "439.35 百萬赫",
                 "436.52 百萬赫"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 14,
+            "question": "如果你在 50.1 百萬赫上發送，請問你是操作於哪一業餘波段?",
+            "correctAnswer": 4,
+            "answers": [
+                "15 公尺",
+                "10 公尺",
+                "2 公尺",
+                "6 公尺"
             ],
             "picture": false,
             "pictureURL": ""
@@ -743,6 +769,19 @@
             "pictureURL": ""
         },
         {
+            "questionNumber": 60,
+            "question": "運輸業(含客運車、砂石車、遊覽車等)司機或隨車人員考取業餘無線電 人員執照，亦不得於車上做行車業務使用，違反規定者，依電信法第 67 條之 1 第 3 項規定處的罰鍰為新臺幣 1 萬元以上、多少元以下？",
+            "correctAnswer": 2,
+            "answers": [
+                "3 萬元",
+                "5 萬元",
+                "7 萬元",
+                "10 萬元"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
             "questionNumber": 61,
             "question": "下列頻段何者為三等業餘無線電人員可以使用頻率範圍",
             "correctAnswer": 3,
@@ -816,6 +855,45 @@
                 "二等業餘無線電人員",
                 "三等業餘無線電人員",
                 "都不需要測試"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 67,
+            "question": "一等業餘無線電人員測試題組為無線電規章與相關法規 13 題、無線電通 訊方法 15 題、無線電系統原理 15 題、無線電相關安全防護 3 題、電磁 相容性技術 2 題、射頻干擾的預防與排除 2 題，共計 50 題，測試及格至 少應答對多少題？",
+            "correctAnswer": 4,
+            "answers": [
+                "15 題",
+                "32 題",
+                "25 題",
+                "40 題"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 68,
+            "question": "二等業餘無線電人員測試題組為無線電規章與相關法規 12 題、無線電通 訊方法 12 題、無線電系統原理 10 題、無線電相關安全防護 2 題、電磁 相容性技術 2 題、射頻干擾的預防與排除 2 題，共計 40 題，要測試及格 至少應答對多少題？",
+            "correctAnswer": 1,
+            "answers": [
+                "32 題",
+                "15 題",
+                "25 題",
+                "10 題"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 69,
+            "question": "三等業餘無線電人員測試題組為無線電規章與相關法規 13 題、無線電通 訊方法 13 題、無線電系統原理 6 題、無線電相關安全防護 1 題、電磁相 容性技術 1 題、射頻干擾的預防與排除 1 題，共計 35 題，要測試及格至 少應答對多少題？",
+            "correctAnswer": 3,
+            "answers": [
+                "10 題",
+                "15 題",
+                "25 題",
+                "20 題"
             ],
             "picture": false,
             "pictureURL": ""
@@ -1154,6 +1232,58 @@
                 "僅限設置一部",
                 "得未經主管機關核可，當作中繼使用",
                 "不得申請設置備用無線電機"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 96,
+            "question": "U/VHF 頻段行動式業餘電臺，按一機一照辦理，其輸出功率不得超過",
+            "correctAnswer": 2,
+            "answers": [
+                "20 瓦特",
+                "25 瓦特",
+                "30 瓦特",
+                "35 瓦特"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 97,
+            "question": "U/VHF 頻段業餘電臺，其輸出功率超過幾瓦特即需固定設置？",
+            "correctAnswer": 2,
+            "answers": [
+                "20 瓦特",
+                "25 瓦特",
+                "30 瓦特",
+                "35 瓦特"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 98,
+            "question": "50 百萬赫頻段以下之業餘電機，其輸出功率在幾瓦特以下得申請行動式 業餘無線電臺？",
+            "correctAnswer": 1,
+            "answers": [
+                "50 瓦特",
+                "60 瓦特",
+                "75 瓦特",
+                "100 瓦特"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 99,
+            "question": "50 百萬赫頻段以下之業餘無線電機，其輸出功率在幾瓦特以上需申請固 定式業餘電臺？",
+            "correctAnswer": 1,
+            "answers": [
+                "50 瓦特",
+                "60 瓦特",
+                "75 瓦特",
+                "100 瓦特"
             ],
             "picture": false,
             "pictureURL": ""
@@ -2251,6 +2381,19 @@
             "pictureURL": ""
         },
         {
+            "questionNumber": 184,
+            "question": "自動控制電臺僅能傳送多少百萬赫之無線打字或數據通信？",
+            "correctAnswer": 4,
+            "answers": [
+                "10 百萬赫",
+                "20 百萬赫",
+                "30 百萬赫",
+                "超過50 百萬赫"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
             "questionNumber": 185,
             "question": "廠商應依電信法相關規定向何單位申請許可或備查，始得產銷業餘無線 電機？",
             "correctAnswer": 1,
@@ -2550,6 +2693,97 @@
             "pictureURL": ""
         },
         {
+            "questionNumber": 208,
+            "question": "一等業餘無線電機，50 百萬赫~50.15 百萬赫頻段，輸出功率限幾瓦？",
+            "correctAnswer": 1,
+            "answers": [
+                "400 瓦特以下",
+                "300 瓦特以下",
+                "200 瓦特以下",
+                "100 瓦特以下"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 209,
+            "question": "一等業餘無線電機，430 百萬赫~440 百萬赫頻段，輸出功率限幾瓦？",
+            "correctAnswer": 4,
+            "answers": [
+                "400 瓦特以下",
+                "300 瓦特以下",
+                "200 瓦特以下",
+                "100 瓦特以下"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 210,
+            "question": "二等業餘無線電機，50 百萬赫~50.15 百萬赫頻段，輸出功率限幾瓦？",
+            "correctAnswer": 3,
+            "answers": [
+                "400 瓦特以下",
+                "300 瓦特以下",
+                "200 瓦特以下",
+                "100 瓦特以下"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 211,
+            "question": "二等業餘無線電機，430 百萬赫~440 百萬赫頻段，輸出功率限幾瓦？",
+            "correctAnswer": 1,
+            "answers": [
+                "50 瓦特以下",
+                "100 瓦特以下",
+                "200 瓦特以下",
+                "10 瓦特以下"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 212,
+            "question": "三等業餘無線電機，50 百萬赫~50.15 百萬赫頻段，輸出功率限幾瓦？",
+            "correctAnswer": 2,
+            "answers": [
+                "50 瓦特以下",
+                "25 瓦特以下",
+                "10 瓦特以下",
+                "2 瓦特以下"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 213,
+            "question": "三等業餘無線電機，430 百萬赫~440 百萬赫頻段，輸出功率限幾瓦？",
+            "correctAnswer": 2,
+            "answers": [
+                "50 瓦特以下",
+                "25 瓦特以下",
+                "10 瓦特以下",
+                "2 瓦特以下"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 214,
+            "question": "查驗外接射頻功率放大器時，應以多少瓦以上之平均射頻輸入功率驅動 至其輸出功率(設計功率)達到飽和功率？",
+            "correctAnswer": 3,
+            "answers": [
+                "150 瓦特",
+                "100 瓦特",
+                "50 瓦特",
+                "以上皆非"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
             "questionNumber": 215,
             "question": "頻率容許差度在 20℃下，供應電壓在額定值之±15％內變化時，工作頻 率為 VHF 或 UHF 者，其規定為何？",
             "correctAnswer": 1,
@@ -2583,6 +2817,19 @@
                 "無時間限制",
                 "一年",
                 "六個月為限",
+                "以上皆非"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 218,
+            "question": "自動控制作業之業餘電臺傳送無線打字或數據通信之頻率規定為何？",
+            "correctAnswer": 1,
+            "answers": [
+                "50 百萬赫以上",
+                "50 百萬赫以下",
+                "40 百萬赫以上",
                 "以上皆非"
             ],
             "picture": false,
@@ -2706,6 +2953,19 @@
             "pictureURL": ""
         },
         {
+            "questionNumber": 228,
+            "question": "一、二等業餘無線電機，135.7 千赫～137.8 千赫頻段，輸出功率限 幾瓦特？",
+            "correctAnswer": 3,
+            "answers": [
+                "400 瓦特以下",
+                "200 瓦特以下",
+                "1 瓦特(EIRP)以下",
+                "以上皆非"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
             "questionNumber": 229,
             "question": "設備調變頻率發射之最大允許頻率偏差，頻道間隔為 12.5 千赫者，調 變信號之頻率偏差值為何？",
             "correctAnswer": 2,
@@ -2739,6 +2999,45 @@
                 "須介於±4.0 千赫",
                 "須介於±4.5 千赫",
                 "須介於±5.0 千赫",
+                "以上皆非"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 232,
+            "question": "工作頻率為 30 百萬赫～235 百萬赫者，混附發射之平均功率至少應低 於主波平均功率 60dB，且不超過幾瓦特？",
+            "correctAnswer": 1,
+            "answers": [
+                "1 毫瓦特",
+                "2 毫瓦特",
+                "3 毫瓦特",
+                "以上皆非"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 233,
+            "question": "工作頻率為 235 百萬赫~960 百萬赫者，混附發射之平均功率至少應低 於主波平均功率 60dB，且不超過幾瓦特？",
+            "correctAnswer": 3,
+            "answers": [
+                "10 毫瓦特",
+                "15 毫瓦特",
+                "20 毫瓦特",
+                "以上皆非"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 234,
+            "question": "工作頻率為 960 百萬赫~17.7 吉赫者，混附發射之平均功率至少應低於 主波平均功率 50dB，且不超過幾瓦特？",
+            "correctAnswer": 2,
+            "answers": [
+                "50 毫瓦特",
+                "100 毫瓦特",
+                "150 毫瓦特",
                 "以上皆非"
             ],
             "picture": false,

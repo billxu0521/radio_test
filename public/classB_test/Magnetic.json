@@ -288,6 +288,45 @@
             "pictureURL": ""
         },
         {
+            "questionNumber": 23,
+            "question": "PACTOR3 信號在最大數據速率時的近似帶寬是多少？",
+            "correctAnswer": 4,
+            "answers": [
+                "31.5 赫",
+                "500 赫",
+                "1,800 赫",
+                "2,300 赫"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 24,
+            "question": "具有 5 千赫偏差和 3 千赫調變頻率的調頻電話傳輸的總帶寬是多少？",
+            "correctAnswer": 4,
+            "answers": [
+                "3 千赫",
+                "5 千赫",
+                "8 千赫",
+                "16 千赫"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 25,
+            "question": "在 5 千赫偏差，146.52 百萬赫調頻電話發射機中，12.21 百萬赫電抗調 變振盪器的頻率偏差是多少？",
+            "correctAnswer": 2,
+            "answers": [
+                "101.75 赫",
+                "416.7 赫",
+                "5 千赫",
+                "60 千赫"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
             "questionNumber": 26,
             "question": "為什麼知道發送時使用的模式的工作週期很重要？",
             "correctAnswer": 2,

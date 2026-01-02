@@ -327,6 +327,19 @@
             "pictureURL": ""
         },
         {
+            "questionNumber": 26,
+            "question": "以下哪個頻率具有最大允許暴露限值的最低值？",
+            "correctAnswer": 2,
+            "answers": [
+                "3.5 百萬赫",
+                "50 百萬赫",
+                "440 百萬赫",
+                "1296 百萬赫"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
             "questionNumber": 27,
             "question": "電臺在發射檢查評估之前，業餘無線電臺在 VHF 頻率下可以使用的最大 功率是多少？",
             "correctAnswer": 3,

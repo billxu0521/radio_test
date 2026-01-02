@@ -158,6 +158,32 @@
             "pictureURL": ""
         },
         {
+            "questionNumber": 13,
+            "question": "1.5 安培等於多少毫安培(毫安)？",
+            "correctAnswer": 3,
+            "answers": [
+                "15 毫安",
+                "150 毫安",
+                "1500 毫安",
+                "15000 毫安"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 14,
+            "question": "1,500,000 赫無線電信號頻率也可以稱為何者？",
+            "correctAnswer": 1,
+            "answers": [
+                "1500 千赫",
+                "1500 百萬赫",
+                "15 吉赫",
+                "150 千赫"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
             "questionNumber": 15,
             "question": "1kV 等於多少伏特？",
             "correctAnswer": 3,
@@ -179,6 +205,45 @@
                 "一百萬 伏特",
                 "一萬 伏特",
                 "一千分之一 伏特"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 17,
+            "question": "500mW(毫瓦特)等於多少瓦特？",
+            "correctAnswer": 2,
+            "answers": [
+                "0.02 瓦特",
+                "0.5 瓦特",
+                "5 瓦特",
+                "50 瓦特"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 18,
+            "question": "使用以安培為單位的經校正安培表測量 3,000 毫安(毫安培)電流，其讀 數會顯示多少？",
+            "correctAnswer": 3,
+            "answers": [
+                "0.003 安培",
+                "0.3 安培",
+                "3 安培",
+                "3,000,000 安培"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 19,
+            "question": "使用以百萬赫為單位校正的頻率讀值為 3.525 百萬赫，如果以千赫為單位 校正的頻率讀值為何？",
+            "correctAnswer": 3,
+            "answers": [
+                "0.003525 千赫",
+                "35.25 千赫",
+                "3525 千赫",
+                "3,525,000 千赫"
             ],
             "picture": false,
             "pictureURL": ""
@@ -366,6 +431,45 @@
             "pictureURL": ""
         },
         {
+            "questionNumber": 34,
+            "question": "電路使用的電壓是直流 13.8 伏特(v)，電流是 10 安培，則電功率是多 少？",
+            "correctAnswer": 1,
+            "answers": [
+                "138 瓦特",
+                "0.7 瓦特",
+                "23.8 瓦特",
+                "3.8 瓦特"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 35,
+            "question": "電路使用的電壓是直流 12 伏特(v)，電流是 2.5 安培，則電功率是多少？",
+            "correctAnswer": 2,
+            "answers": [
+                "4.8 瓦特",
+                "30 瓦特",
+                "14.5 瓦特",
+                "0.208 瓦特"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 36,
+            "question": "電路使用的電壓是直流 12 伏特(v)，負載是 120 瓦特，則通過的電流是多 少安培？",
+            "correctAnswer": 2,
+            "answers": [
+                "0.1 安培",
+                "10 安培",
+                "12 安培",
+                "132 安培"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
             "questionNumber": 37,
             "question": "術語「阻抗」一詞是什麼意思？",
             "correctAnswer": 1,
@@ -426,6 +530,123 @@
                 "電阻(R)= 電壓(E) 除以電流(I)",
                 "電阻(R)= 電壓(E) 加電流(I)",
                 "電阻(R)= 電壓(E) 減電流(I)"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 42,
+            "question": "電阻器接上 90 伏特時有 3 安培電流通過，則電路電阻多大？",
+            "correctAnswer": 2,
+            "answers": [
+                "3 歐姆",
+                "30 歐姆",
+                "93 歐姆",
+                "270 歐姆"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 43,
+            "question": "電路接上 12 伏特時有 1.5 安培電流通過，則其電阻多大？",
+            "correctAnswer": 3,
+            "answers": [
+                "18 歐姆",
+                "0.125 歐姆",
+                "8 歐姆",
+                "13.5 歐姆"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 44,
+            "question": "電路接上 12 伏特電源有 4 安培電流通過，則其電阻多大？",
+            "correctAnswer": 1,
+            "answers": [
+                "3 歐姆",
+                "16 歐姆",
+                "48 歐姆",
+                "8 歐姆"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 45,
+            "question": "電路接 120 伏特時有 80 歐姆的電阻，則通過的電流是多大？",
+            "correctAnswer": 4,
+            "answers": [
+                "9,600 安培",
+                "200 安培",
+                "0.667 安培",
+                "1.5 安培"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 46,
+            "question": "100 歐姆電阻器跨接在 200 伏特電壓，則通過的電流多大？",
+            "correctAnswer": 3,
+            "answers": [
+                "20,000 安培",
+                "0.5 安培",
+                "2 安培",
+                "100 安培"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 47,
+            "question": "24 歐姆的電阻器跨接在 240 伏特電壓，則通過的電流多大？",
+            "correctAnswer": 3,
+            "answers": [
+                "24,000 安培",
+                "0.1 安培",
+                "10 安培",
+                "216 安培"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 48,
+            "question": "2 歐姆電阻器通過 0.5 安培電流時，則電阻器二端的電壓是多少？",
+            "correctAnswer": 1,
+            "answers": [
+                "1 伏特",
+                "0.25 伏特",
+                "2.5 伏特",
+                "1.5 伏特"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 49,
+            "question": "10 歐姆電阻器通過 1 安培電流時，則電阻器二端的電壓是多少？",
+            "correctAnswer": 2,
+            "answers": [
+                "1 伏特",
+                "10 伏特",
+                "11 伏特",
+                "9 伏特"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 50,
+            "question": "10 歐姆電阻器通過 2 安培電流時，則電阻器二端的電壓是多少？",
+            "correctAnswer": 4,
+            "answers": [
+                "8 伏特",
+                "0.2 伏特",
+                "12 伏特",
+                "20 伏特"
             ],
             "picture": false,
             "pictureURL": ""
@@ -1575,6 +1796,19 @@
             "pictureURL": ""
         },
         {
+            "questionNumber": 139,
+            "question": "單邊帶語音信號的頻寬大概是多少？",
+            "correctAnswer": 2,
+            "answers": [
+                "1 千赫",
+                "3 千赫",
+                "6 千赫",
+                "15 千赫"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
             "questionNumber": 140,
             "question": "VHF 中繼電臺調頻語音信號的頻寬是多少？",
             "correctAnswer": 3,
@@ -1596,6 +1830,19 @@
                 "大約6 百萬赫",
                 "大約3 百萬赫",
                 "大約1 百萬赫"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 142,
+            "question": "發送 CW 信號所需的最大頻寬是多少？",
+            "correctAnswer": 2,
+            "answers": [
+                "2.4 千赫",
+                "150 赫",
+                "1 千赫",
+                "15 千赫"
             ],
             "picture": false,
             "pictureURL": ""

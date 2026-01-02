@@ -106,6 +106,32 @@
             "pictureURL": ""
         },
         {
+            "questionNumber": 9,
+            "question": "為了將 SSB 接收作業的噪音及干擾極小化，下面哪一項是較為適用的接收 濾波器頻寬選項？",
+            "correctAnswer": 3,
+            "answers": [
+                "500 赫",
+                "1000 赫",
+                "2400 赫",
+                "5000 赫"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 10,
+            "question": "為了將 CW 接收作業的噪音及干擾極小化，下面哪一項是較為適用的接 收濾波器頻寬選項？",
+            "correctAnswer": 1,
+            "answers": [
+                "500 赫",
+                "1000 赫",
+                "2400 赫",
+                "5000 赫"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
             "questionNumber": 11,
             "question": "以下哪項可能是射頻干擾的原因？",
             "correctAnswer": 4,

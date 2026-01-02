@@ -223,6 +223,32 @@
             "pictureURL": ""
         },
         {
+            "questionNumber": 18,
+            "question": "當直流 400 伏特的電源加於 800 歐姆負載時，所使用的電功率為幾瓦 特？",
+            "correctAnswer": 2,
+            "answers": [
+                "0.5 瓦特",
+                "200 瓦特",
+                "400 瓦特",
+                "3200 瓦特"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 19,
+            "question": "當直流 12 伏特的電燈泡流過 0.2 安培的電流，所使用的電功率為幾瓦 特？",
+            "correctAnswer": 1,
+            "answers": [
+                "2.4 瓦特",
+                "24 瓦特",
+                "6 瓦特",
+                "60 瓦特"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
             "questionNumber": 20,
             "question": "當 7.0 毫安培電流流過 1.25 千歐姆電阻時，所消耗的電功率為幾瓦特？",
             "correctAnswer": 1,
@@ -236,6 +262,19 @@
             "pictureURL": ""
         },
         {
+            "questionNumber": 21,
+            "question": "當示波器在連接到發射機的發射輸出的 50 歐姆假負載測量到 200 伏特峰 至峰值時，則其峰值波封功率(PEP)為何？",
+            "correctAnswer": 2,
+            "answers": [
+                "1.4 瓦特",
+                "100 瓦特",
+                "353.5 瓦特",
+                "400 瓦特"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
             "questionNumber": 22,
             "question": "交流信號的什麼值會與直流電壓加在電阻器消耗相同的電功率？",
             "correctAnswer": 3,
@@ -244,6 +283,19 @@
                 "峰值(peak value)",
                 "均方根值(RMS)",
                 "均方根值的倒數"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 23,
+            "question": "峰值是 17 伏特的正弦波，其均方根值(RMS)是多少伏特？",
+            "correctAnswer": 2,
+            "answers": [
+                "8.5 伏特",
+                "12 伏特",
+                "24 伏特",
+                "34 伏特"
             ],
             "picture": false,
             "pictureURL": ""
@@ -270,6 +322,45 @@
                 "1.00",
                 "1.414",
                 "2.00"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 26,
+            "question": "當 50 歐姆假負載消耗 1,200 瓦特時，其均方根(RMS)電壓為何？",
+            "correctAnswer": 2,
+            "answers": [
+                "173 伏特",
+                "245 伏特",
+                "346 伏特",
+                "692 伏特"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 27,
+            "question": "接到發射機輸出的瓦特錶顯示平均功率為 1,060 瓦特，則未調變載波的峰 值波封功率(PEP)為何？",
+            "correctAnswer": 2,
+            "answers": [
+                "530 瓦特",
+                "1,060 瓦特",
+                "1,500 瓦特",
+                "2,120 瓦特"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 28,
+            "question": "當示波器在連接到發射機的發射輸出的 50 歐姆假負載測量到 500 伏特峰 至峰值時，則其峰值波封功率(PEP)為何？",
+            "correctAnswer": 2,
+            "answers": [
+                "8.75 瓦特",
+                "625 瓦特",
+                "2,500 瓦特",
+                "5,000 瓦特"
             ],
             "picture": false,
             "pictureURL": ""
@@ -309,6 +400,45 @@
                 "串聯電阻器",
                 "串聯電容器",
                 "並聯電容器"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 32,
+            "question": "將三個 100 歐姆電阻器並聯後的總電阻為何？",
+            "correctAnswer": 3,
+            "answers": [
+                "0.30 歐姆",
+                "0.33 歐姆",
+                "33 歐姆",
+                "300 歐姆"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 33,
+            "question": "三個相同的電阻器串聯，其總電阻為 450 歐姆，則每個電阻是多少？",
+            "correctAnswer": 3,
+            "answers": [
+                "1,500 歐姆",
+                "90 歐姆",
+                "150 歐姆",
+                "175 歐姆"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 34,
+            "question": "將變壓器 2,250 圈的初級繞線接上交流 120 伏特，則其 500 圈次級繞線的 均方根(RMS)電壓為何？",
+            "correctAnswer": 3,
+            "answers": [
+                "2,370 伏特",
+                "540 伏特",
+                "26.7 伏特",
+                "5.9 伏特"
             ],
             "picture": false,
             "pictureURL": ""
@@ -418,6 +548,19 @@
             "pictureURL": ""
         },
         {
+            "questionNumber": 43,
+            "question": "並聯一個 10 歐姆、一個 20 歐姆、一個 50 歐姆電阻器，則其總電阻為 何？",
+            "correctAnswer": 1,
+            "answers": [
+                "5.9 歐姆",
+                "0.17 歐姆",
+                "1,000 歐姆",
+                "80 歐姆"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
             "questionNumber": 44,
             "question": "為什麼昇壓變壓器的初級繞線線徑比次級繞線線徑還要粗？",
             "correctAnswer": 2,
@@ -452,6 +595,19 @@
                 "0.47 μF(微法拉)",
                 "4700 μF(微法拉)",
                 "4.7 μF(微法拉)"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 47,
+            "question": "標準 12 伏特鉛酸電池要有最長壽命，其最低放電電壓為何？",
+            "correctAnswer": 3,
+            "answers": [
+                "6 伏特",
+                "8.5 伏特",
+                "10.5 伏特",
+                "12 伏特"
             ],
             "picture": false,
             "pictureURL": ""
@@ -1510,6 +1666,19 @@
             "pictureURL": ""
         },
         {
+            "questionNumber": 129,
+            "question": "扁平帶狀電視型雙線的特性阻抗是？",
+            "correctAnswer": 4,
+            "answers": [
+                "50 歐姆",
+                "75 歐姆",
+                "100 歐姆",
+                "300 歐姆"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
             "questionNumber": 130,
             "question": "將饋線接上天線的點，什麼狀況下會產生反射功率？",
             "correctAnswer": 3,
@@ -1835,6 +2004,19 @@
             "pictureURL": ""
         },
         {
+            "questionNumber": 155,
+            "question": "八木天線的驅動元件(driven element)的長度大概是多少?",
+            "correctAnswer": 2,
+            "answers": [
+                "1/4 波長",
+                "1/2 波長",
+                "3/4 波長",
+                "1 波長"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
             "questionNumber": 156,
             "question": "關於三元件、單頻段八木天線的敘述何者為真?",
             "correctAnswer": 2,
@@ -1960,6 +2142,19 @@
                 "不需電感器或電容器",
                 "用來匹配多頻段天線",
                 "以上皆是"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 166,
+            "question": "方形天線的每一邊的驅動元件(driven element)的天線長是多少?",
+            "correctAnswer": 1,
+            "answers": [
+                "1/4 波長",
+                "1/2 波長",
+                "3/4 波長",
+                "1 波長"
             ],
             "picture": false,
             "pictureURL": ""

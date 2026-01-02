@@ -184,6 +184,19 @@
             "pictureURL": ""
         },
         {
+            "questionNumber": 15,
+            "question": "下列哪種尺寸的保險絲或斷路器，適於使用 AWG 14 號線的電路？",
+            "correctAnswer": 4,
+            "answers": [
+                "100 安培",
+                "60 安培",
+                "30 安培",
+                "15 安培"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
             "questionNumber": 16,
             "question": "以下哪項是不將汽油發動機置於使用區域的主要原因？",
             "correctAnswer": 1,
@@ -205,6 +218,19 @@
                 "電流從一個或多個電壓承載線直接流到地線",
                 "電壓承載線上的過高電壓",
                 "以上皆是"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 18,
+            "question": "為什麼每個電臺設備的金屬外殼都必須接地？",
+            "correctAnswer": 4,
+            "answers": [
+                "防止內部短路時保險絲熔斷",
+                "防止信號過載",
+                "確保中性線接地",
+                "確保危險電壓不會出現在機箱上"
             ],
             "picture": false,
             "pictureURL": ""

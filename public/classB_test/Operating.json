@@ -470,6 +470,19 @@
             "pictureURL": ""
         },
         {
+            "questionNumber": 37,
+            "question": "業餘 HF 頻帶 RTTY 發射最常見的頻移為何？",
+            "correctAnswer": 2,
+            "answers": [
+                "85 赫",
+                "170 赫",
+                "425 赫",
+                "850 赫"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
             "questionNumber": 38,
             "question": "80 公尺頻帶那一部分最常用於數位發射？",
             "correctAnswer": 1,
@@ -855,6 +868,32 @@
                 "兩點之間通訊的最高可用頻率",
                 "24小時內的最低可用頻率",
                 "24小時內的最高可用頻率"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 68,
+            "question": "在 F2 的區域內，一次訊號彈跳的沿著地表最長約略距離是?",
+            "correctAnswer": 3,
+            "answers": [
+                "288 公里",
+                "1,920 公里",
+                "4,000 公里",
+                "19,200 公里"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 69,
+            "question": "在 E 區域內，一次訊號彈跳的沿著地表最長約略距離是?",
+            "correctAnswer": 2,
+            "answers": [
+                "288 公里",
+                "1,920 公里",
+                "4,000 公里",
+                "19,200 公里"
             ],
             "picture": false,
             "pictureURL": ""

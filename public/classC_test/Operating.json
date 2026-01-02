@@ -782,6 +782,19 @@
             "pictureURL": ""
         },
         {
+            "questionNumber": 61,
+            "question": "哪個頻段最適合藉由流星散射進行通信？",
+            "correctAnswer": 2,
+            "answers": [
+                "10 公尺",
+                "6 公尺",
+                "2 公尺",
+                "70 公分"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
             "questionNumber": 62,
             "question": "對流層管道是如何形成？",
             "correctAnswer": 4,
@@ -829,6 +842,19 @@
                 "無線電波不會被灰塵顆粒堵塞",
                 "以無線電波與光比，地球看起來彎曲程度比較小",
                 "無線電波會被灰塵顆粒堵塞"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 66,
+            "question": "在太陽黑子週期的高峰期，以下哪個頻段可以提供長距離通信？",
+            "correctAnswer": 1,
+            "answers": [
+                "6 公尺",
+                "2 公尺",
+                "70 分公",
+                "以上皆是"
             ],
             "picture": false,
             "pictureURL": ""
@@ -1198,6 +1224,19 @@
             "pictureURL": ""
         },
         {
+            "questionNumber": 95,
+            "question": "傳輸無線遙控信號到無線電機時，允許的最大功率是多少？",
+            "correctAnswer": 2,
+            "answers": [
+                "500 毫瓦特",
+                "1 瓦特",
+                "25 瓦特",
+                "1500 瓦特"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
             "questionNumber": 96,
             "question": "業餘無線電臺在業餘無線電頻率發送信號時，須要標示什麼訊息以供識 別？",
             "correctAnswer": 3,
@@ -1544,6 +1583,19 @@
                 "功率有效傳輸與減少損失",
                 "延長天線壽命",
                 "以上皆是"
+            ],
+            "picture": false,
+            "pictureURL": ""
+        },
+        {
+            "questionNumber": 123,
+            "question": "業餘無線電設備最常用的同軸電纜的阻抗是多少？",
+            "correctAnswer": 2,
+            "answers": [
+                "8 歐姆",
+                "50 歐姆",
+                "600 歐姆",
+                "75 歐姆"
             ],
             "picture": false,
             "pictureURL": ""
